@@ -1,0 +1,181 @@
+{
+  "code": "KPS",
+  "name": "한전KPS",
+  "category": "에너지/발전",
+  "description": "한전KPS - 발전설비 정비를 통한 전력 안정 공급 기여",
+  "keywords": [
+    "발전정비",
+    "터빈",
+    "발전기",
+    "보일러",
+    "원전정비",
+    "계측제어",
+    "설비진단",
+    "예방정비",
+    "기술서비스",
+    "플랜트"
+  ],
+  "keywords_by_position": {
+    "사무직": [
+      "경영기획",
+      "안전관리",
+      "해외사업"
+    ],
+    "기계": [
+      "터빈정비",
+      "보일러정비",
+      "회전체정비",
+      "기계설비",
+      "플랜트운영"
+    ],
+    "전기": [
+      "발전기정비",
+      "전기설비",
+      "계전정비",
+      "전력계통",
+      "배전관리"
+    ],
+    "건축": [
+      "시설관리",
+      "건물유지보수",
+      "건축설계",
+      "시설물관리",
+      "건축허가"
+    ],
+    "경영기획": [
+      "경영기획",
+      "사업관리",
+      "조직진단",
+      "리스크관리"
+    ],
+    "사업관리": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "법무/노무": [
+      "법률검토",
+      "계약관리",
+      "소송관리",
+      "컴플라이언스"
+    ],
+    "IT/ICT": [
+      "시스템개발",
+      "웹개발",
+      "앱개발",
+      "AI/빅데이터"
+    ]
+  },
+  "core_values": [
+    "안전",
+    "상생",
+    "신뢰",
+    "전문성",
+    "혁신"
+  ],
+  "talent_image": "발전설비 정비의 최고 전문가",
+  "slogan": "기술로 전력을 지키는 KPS",
+  "positions": [
+    "경영기획",
+    "사업관리",
+    "법무/노무",
+    "IT/ICT",
+    "기계",
+    "전기",
+    "건축"
+  ],
+  "mission": "발전설비 정비를 통한 전력 안정 공급 기여",
+  "vision": "발전 정비 분야 글로벌 리더",
+  "recent_initiatives": [
+    "원전 수명연장 정비기술 고도화",
+    "신재생에너지 설비 정비 진출",
+    "예측정비 기술 개발",
+    "해외 정비시장 확대",
+    "디지털 정비 시스템 구축"
+  ],
+  "recruitment_news": [
+    {
+      "title": "‘한전KPS 강원·충북 단기노무원 채용’…건설·전기·전자 분야 3명 선발 - 퍼블릭타임스",
+      "date": "2026-01-22",
+      "summary": "‘한전KPS 강원·충북 단기노무원 채용’…건설·전기·전자 분야 3명 선발퍼블릭타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBobXd4ZlRIR01sYy1jQnptaC1rV0g5d3BEVmlWTy1zWk5UbGx0LW92R1A4bVhteWc1MTdobVdPb3ZOeEpXTXVWN0E2WGFVMm1XYko4Rkc5THRKTndCWU5oWnRxbVhjaDRRaEHSAW5BVV95cUxOSExRenZxdzBYdTBEYzV1cm5ZaTdYQ3hiR3JJbEJrQndKaERxMzNBLWl4WXhhRTd5c29NNTRJWGkzSnRJNDc3Q0tqZnE2bUc4eGc5cDBnOThYU1dqNC1rLTd6MjJneTA4TzB5ajF0QQ?oc=5"
+    },
+    {
+      "title": "‘한전KPS 태안사업처 단기 인력 채용’…기계 NCS 분야 비정규직 4명 선발 - 퍼블릭타임스",
+      "date": "2026-01-22",
+      "summary": "‘한전KPS 태안사업처 단기 인력 채용’…기계 NCS 분야 비정규직 4명 선발퍼블릭타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52aDhLbzcwN2sxeS11VzFtdG9NLVVxUjc1Z1RMeldxWmlPVDd1TVdoend4Yi1NRGJqdjFzVlpWZURUM1J0Mk5Kb2tkNzAxaVpzb3VoR2xZQ1o2Z255Z2xpTERnSXRKSTJua3fSAW5BVV95cUxQSXZhRWdHdW5Pb1BoVlZhNk1hc1dYTkZsdG8xVHVSdS1pbHlPNzZXX3d0NHRRekJfS1JSTGpZYl91d0J6S3NPUmJ0ODQ4czlQbzFWb19BVG1KZ3FxZkZaTXExRkxCY1lxZzRJUGxaQQ?oc=5"
+    },
+    {
+      "title": "‘세종서 단기노무원 13명 모집’…한전KPS, 계획예방정비 인력 충원 나선다 - 퍼블릭타임스",
+      "date": "2026-01-21",
+      "summary": "‘세종서 단기노무원 13명 모집’…한전KPS, 계획예방정비 인력 충원 나선다퍼블릭타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52d0VmdTNySnBoWGdLb1FHRDM3aEdiLWlPbWtaSHZKMVhOWXhYd1lsWUFadC1uU0lCUVp5czJkWDVPVDhpRWtxcDl3Wi1aa0NmZm4tY3VDWTdGdTBKcE9aMXRHOUZFQWFNblHSAW5BVV95cUxOeEpZZFpudUt5dU9UR0FsQ3RNZFlLR2djNF83NTlDWi1DLU1rbi02VGh6NDRYTjVFaXBUWThhRngwX2VuOHUwdmlVUEpnMVBJYUxJTTlzZWluUUV6UzFOVUt6akJqS1E0NGZrQWZGdw?oc=5"
+    },
+    {
+      "title": "‘한전KPS 안전감시관 단기 채용’…충남·전북 송전선로 현장 점검 인력 모집 - 퍼블릭타임스",
+      "date": "2026-01-19",
+      "summary": "‘한전KPS 안전감시관 단기 채용’…충남·전북 송전선로 현장 점검 인력 모집퍼블릭타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wMFRYbi1SMlZ6RlByRzh0WDh4RXd2THdJVEhVX2xrbzdaejJfc0xfUVFkaFFUdXVDTU1TOUt3bmV1WW5GTERPcUw4aFdNUmdZaUxqNkczNnBqcjd5MGNzV0tOZTBLS1U0b1HSAW5BVV95cUxNV2hiUDV3cXo2OVhQdkJjd0dpMHhMU20zVUNUNm0teTl2bGpOZF9HVWg2aENxaWtSYUtac2QxSEJ0X0NvOEl4RFVla1Bzc2Y1TVBQVHlJRlBFSUJ2VDhWZTRsdlFoLTlaSWI2aXczUQ?oc=5"
+    },
+    {
+      "title": "‘건설안전보건교육 이수예정자 찾는다’…한전KPS 서인천사업처 단기 노무원 채용 - 퍼블릭타임스",
+      "date": "2026-01-20",
+      "summary": "‘건설안전보건교육 이수예정자 찾는다’…한전KPS 서인천사업처 단기 노무원 채용퍼블릭타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4MlJNaGhtb1ZFdGE2YlVDcDZqQXFoeXZlSmRmZDA3NHVYSFhjR096cm5lMVRYUjFsd2RGb1pNWC1uckRoWWp6ZUw0bGhycXF2M210RFQxblhKVkRWWVVBMEVjZURXTTZzYUHSAW5BVV95cUxPUzQtLVhOblVEVnFDdkNIcUV6US1XZkRTR2ZZdDFNcko5Y0g0SEo1T01qZFZvaHdOdFZFYjU0YVk3OU5fLVlNME81QkNMR3pWSDE3WnFWMDZzaXdvVE5UQTRQZ0x3YXJrdDZlaDZPUQ?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.kps.co.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 1~2회",
+    "method": "NCS 기반 블라인드 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "면접전형"
+    ],
+    "characteristics": [
+      "기술직 비중 높음",
+      "안전의식 강조",
+      "현장 근무"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "code": "KTO",
+  "name": "한국관광공사",
+  "category": "산업진흥/기타",
+  "description": "한국관광공사 - 한국 관광산업 진흥과 국가 브랜드 제고",
+  "keywords": [
+    "관광",
+    "여행",
+    "마케팅",
+    "MICE",
+    "한류",
+    "K-컬처",
+    "인바운드",
+    "지역관광",
+    "의료관광",
+    "홍보"
+  ],
+  "keywords_by_position": {
+    "사무직": [
+      "관광마케팅",
+      "해외홍보",
+      "사업기획"
+    ],
+    "홍보직": [
+      "SNS운영",
+      "콘텐츠제작",
+      "미디어홍보"
+    ],
+    "전산직": [
+      "시스템운영",
+      "데이터분석",
+      "플랫폼개발"
+    ],
+    "경영기획": [
+      "경영기획",
+      "사업관리",
+      "조직진단",
+      "리스크관리"
+    ],
+    "사업관리": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "인사/총무": [
+      "채용관리",
+      "교육훈련",
+      "인사평가",
+      "노무관리"
+    ],
+    "재무/회계/감사": [
+      "회계관리",
+      "재무분석",
+      "결산",
+      "세무"
+    ],
+    "마케팅/홍보": [
+      "대외홍보",
+      "언론대응",
+      "SNS관리",
+      "콘텐츠제작"
+    ],
+    "IT/ICT": [
+      "시스템개발",
+      "웹개발",
+      "앱개발",
+      "AI/빅데이터"
+    ]
+  },
+  "core_values": [
+    "소통",
+    "글로벌",
+    "전문성",
+    "혁신",
+    "청렴"
+  ],
+  "talent_image": "한국 관광의 가치를 세계에 알리는 관광마케팅 전문인재",
+  "slogan": "대한민국 관광, 세계로",
+  "positions": [
+    "경영기획",
+    "사업관리",
+    "인사/총무",
+    "재무/회계/감사",
+    "마케팅/홍보",
+    "IT/ICT"
+  ],
+  "mission": "한국 관광산업 진흥과 국가 브랜드 제고",
+  "vision": "글로벌 관광 선도국가 대한민국을 만드는 관광 전문기관",
+  "recent_initiatives": [
+    "K-컬처 관광 콘텐츠 개발",
+    "지역관광 활성화 지원",
+    "관광 디지털 전환",
+    "지속가능 관광 확대",
+    "의료관광 활성화"
+  ],
+  "recruitment_news": [
+    {
+      "title": "“외국인 관광객 1000만명 시대”…관광산업 채용 박람회 개최 - 농민신문",
+      "date": "2025-09-17",
+      "summary": "“외국인 관광객 1000만명 시대”…관광산업 채용 박람회 개최농민신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ERjNKdEp0aUhjSnhIdE1sYmVlVGZZU3kyOXFqV205bWowUHhjUDhVQUpnV3dHY29Wc2VrTV91QVRSaHppeUJoclpGN3JOR0g4ek1RajJDMVVfdw?oc=5"
+    },
+    {
+      "title": "한국관광공사, ‘관광 HR 컨퍼런스’ 참가기업 모집 - 프레시안",
+      "date": "2025-08-18",
+      "summary": "한국관광공사, ‘관광 HR 컨퍼런스’ 참가기업 모집프레시안",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yZmxuUjYwQWE3OW5VdzZ5Wl9ya1I5ZnctcWFQODFXYlpmWFRKWEpxUS15R2xpdi1SYl9ZTUZSRUJCcjFGUWNFQ2o3TXNaSHFPOTVzS2V1SGFJX1pkNXFuYVVlRk9HdFNfRldr?oc=5"
+    },
+    {
+      "title": "한국관광공사·현대로템 등 \"우수 인재 모십니다\"[채용게시판] - fnnews.com",
+      "date": "2025-07-04",
+      "summary": "한국관광공사·현대로템 등 \"우수 인재 모십니다\"[채용게시판]fnnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93aXR1d2hzSlFYUFpvenpJM01sdldsWHFidDZQTlBlUnlkdkRLQlItQ1dBU2JrV3JBX0JzTEN4bE5rcUR0R29rYkFUUnlFNEMweml0VWRKa1hzZ9IBXkFVX3lxTE1BUy1UZURSSmJ0WDB1NzctSlNVNGRVaTllMXZJNUNUZERCSFlnaGZ6bW5JT1lhYXpGcGg5cU5DejZxbWdIOGt0U0h2THhyS0tfWWZsMHY1aWtOSG1uSmc?oc=5"
+    },
+    {
+      "title": "한국관광공사, 사장 공모 시작...24일까지 지원서 접수 - 뉴스투데이",
+      "date": "2025-11-14",
+      "summary": "한국관광공사, 사장 공모 시작...24일까지 지원서 접수뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kdzdRWk1Ia0xvTEw3UXphRDlSc0tmMTlsZDAyY2F4WUFWZ19nRW9GYTh5Vi1kSGxxNzZ3OTlGcmlVa1Ita1p1Um9nemd4VkF2Y043NWFaT3NmTHM0MlE?oc=5"
+    },
+    {
+      "title": "한국관광공사, 관광기업 대상 첫 ‘HR 컨퍼런스’ 개최 - thepowernews.co.kr",
+      "date": "2025-08-18",
+      "summary": "한국관광공사, 관광기업 대상 첫 ‘HR 컨퍼런스’ 개최thepowernews.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3d2FxeXdnT1Z5RDc3Z1FpY2JoSnhhTkFYVUI5eE1vN1o5WWZJN0FuUktiODFUVjhQNVR1d0E2blZneXkxSVhDTWRWaHhjc2pSN0tGZXp4QnBKWTFBem5Ya0Y1Vk9VZVNBTDVRVHdaZktYZkZ1aHlsN0Y3NnNSQQ?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.visitkorea.or.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 1~2회",
+    "method": "NCS 기반 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "면접전형"
+    ],
+    "characteristics": [
+      "정책 이해도",
+      "사업 기획력",
+      "전문 분야 지식"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "code": "KNF",
+  "name": "한전원자력연료",
+  "category": "에너지/발전",
+  "description": "한전원자력연료 - 핵연료 국산화를 통한 원자력발전 안정 운영 기여",
+  "keywords": [
+    "핵연료",
+    "원자력",
+    "연료봉",
+    "피복관",
+    "우라늄",
+    "펠릿",
+    "핵연료설계",
+    "SMR",
+    "ATF",
+    "품질관리"
+  ],
+  "keywords_by_position": {
+    "사무직": [
+      "경영기획",
+      "품질관리",
+      "안전관리"
+    ],
+    "원자력": [
+      "핵연료설계",
+      "노심설계",
+      "안전해석",
+      "정책기획",
+      "예산관리"
+    ],
+    "기계": [
+      "제조공정",
+      "설비관리",
+      "품질검사",
+      "기계설비",
+      "플랜트운영"
+    ],
+    "화공": [
+      "재료개발",
+      "화학분석",
+      "공정관리",
+      "화학물질",
+      "안전관리"
+    ],
+    "경영기획": [
+      "경영기획",
+      "사업관리",
+      "조직진단",
+      "리스크관리"
+    ],
+    "사업관리": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "전기": [
+      "전기설비",
+      "전력계통",
+      "배전관리",
+      "전기안전"
+    ],
+    "IT/ICT": [
+      "시스템개발",
+      "웹개발",
+      "앱개발",
+      "AI/빅데이터"
+    ],
+    "건축": [
+      "건축설계",
+      "시설물관리",
+      "건축허가",
+      "인테리어"
+    ],
+    "산업안전": [
+      "산업안전",
+      "재해예방",
+      "안전점검",
+      "비상대응"
+    ]
+  },
+  "core_values": [
+    "안전",
+    "책임",
+    "상생",
+    "전문성",
+    "혁신"
+  ],
+  "talent_image": "핵연료 기술의 글로벌 전문인재",
+  "slogan": "원자력의 심장, 핵연료 기술",
+  "positions": [
+    "경영기획",
+    "사업관리",
+    "원자력",
+    "기계",
+    "전기",
+    "IT/ICT",
+    "건축",
+    "화공",
+    "산업안전"
+  ],
+  "mission": "핵연료 국산화를 통한 원자력발전 안정 운영 기여",
+  "vision": "글로벌 핵연료 기술 선도기업",
+  "recent_initiatives": [
+    "ATF(사고저항성연료) 개발",
+    "SMR용 핵연료 기술 개발",
+    "핵연료 해외시장 진출 확대",
+    "디지털 제조 기술 도입",
+    "친환경 핵연료 공정 개발"
+  ],
+  "recruitment_news": [
+    {
+      "title": "한전원자력연료 '공정채용 우수기관 인증' 획득… 7년 연속 - 중도일보",
+      "date": "2025-12-11",
+      "summary": "한전원자력연료 '공정채용 우수기관 인증' 획득… 7년 연속중도일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9COUN2Zm5rSFJrVnJwTTAtMUxLckpsZUpNblctRGZtTWRnWGNsUnRTMTJjTFR5MDc0bXRuSWNzN0JjR0RBSGZWRUZtekpzVU40V1FZbU9MbF9XX0ZMMHB5dlR1RzI?oc=5"
+    },
+    {
+      "title": "‘6년 연속 공정채용’ 한전원자력연료, 신입사원 입사식 - edaily.co.kr",
+      "date": "2025-11-24",
+      "summary": "‘6년 연속 공정채용’ 한전원자력연료, 신입사원 입사식edaily.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ3dmSDVXTXdENnJ4OXdkZUd2UmhGRnZBUXZ5VGxHckNNTmZtRzNvaXFxbXI2aTFUNXJKaVNHOEQ0T2otNVFWRjJvaE43Y1lTYW4zY2ktRE96M1ltU2t3bDkzUTl1Z25CNjFUaW1RMFRneGZVRzA5OGdIWWhjSE5HbA?oc=5"
+    },
+    {
+      "title": "한전원자력연료, 하반기 신입사원 입사식 개최 - 투데이에너지",
+      "date": "2025-11-24",
+      "summary": "한전원자력연료, 하반기 신입사원 입사식 개최투데이에너지",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13dFB2a1dCMFlmWmlmbm1rUHlXN0RCNzNYMjZXTUZ4aGlJLWtZeWdkY0tOc0NrT2lXbExreHotSXNoeXB4Sk82OUlQT2VvWUJRZks3WC0xMVd1bXJpX19GaTB2aU1fWXlkZnI3Zm9n?oc=5"
+    },
+    {
+      "title": "한전원자력연료, 2025 하반기 신입사원 입사식 개최 “사명감·혁신 주역 성장기대” - 에너지데일리",
+      "date": "2025-11-24",
+      "summary": "한전원자력연료, 2025 하반기 신입사원 입사식 개최 “사명감·혁신 주역 성장기대”에너지데일리",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90ejNSYndhaUg0Mk1jX0FKM3FpbWFWbUlNMkRRLVVFYWM3dWtsT3hxSVh3dmpEMDhYeXFqZzc5bHhPc0h1N09ORkxhMWhYU0tLeWx6X21RM2VZQkxLQzdsVVdRTWZuRzFCRGlzM2hOUC0?oc=5"
+    },
+    {
+      "title": "한전KNF, 공정채용 '7년 연속' 우수기관 인증… NCS 기반 블라인드 채용 모범 - 에너지코리아뉴스",
+      "date": "2025-12-11",
+      "summary": "한전KNF, 공정채용 '7년 연속' 우수기관 인증… NCS 기반 블라인드 채용 모범에너지코리아뉴스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05ZDl5UWpteTZWeWlkZ004RlZ3MVA3QmkzTUpLS1hQdmIwUXBUQXlwZGxuRlhsT1Ffc2poaGlBbnROeFpYMXFyM2hhbHFCX1VVcm93dFpEdVo5XzNDZW8wT3FMaENsV2xpN2J4RE11NFE?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.knfc.co.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 1~2회",
+    "method": "NCS 기반 블라인드 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "면접전형"
+    ],
+    "characteristics": [
+      "기술직 비중 높음",
+      "안전의식 강조",
+      "현장 근무"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

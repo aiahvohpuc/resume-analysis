@@ -1,0 +1,23 @@
+{
+  "code": "ORG_CODE",
+  "name": "기관명",
+  "description": "기관 설명",
+  "keywords": [
+    "키워드1",
+    "키워드2"
+  ],
+  "core_values": [
+    "핵심가치1",
+    "핵심가치2"
+  ],
+  "positions": [
+    "직렬1",
+    "직렬2"
+  ],
+  "mission": "미션",
+  "vision": "비전",
+  "recent_initiatives": [
+    "최근 주요 사업1",
+    "최근 주요 사업2"
+  ]
+}

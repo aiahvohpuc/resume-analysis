@@ -1,0 +1,248 @@
+{
+  "code": "KEPCO",
+  "name": "한국전력공사",
+  "category": "에너지/발전",
+  "description": "한국전력공사 - 안정적인 전력 공급으로 국가 경제 발전과 국민 생활 향상에 기여",
+  "keywords": [
+    "전력",
+    "송배전",
+    "에너지",
+    "신재생에너지",
+    "탄소중립",
+    "스마트그리드",
+    "ESS",
+    "전력계통",
+    "해외사업",
+    "AMI"
+  ],
+  "keywords_by_position": {
+    "사무직": [
+      "경영기획",
+      "전력영업",
+      "요금관리",
+      "해외사업"
+    ],
+    "배전": [
+      "배전설비",
+      "배전계획",
+      "배전운영",
+      "정책기획",
+      "예산관리"
+    ],
+    "송변전": [
+      "송전설비",
+      "변전설비",
+      "계통운영",
+      "정책기획",
+      "예산관리"
+    ],
+    "IT/ICT": [
+      "시스템운영",
+      "빅데이터",
+      "스마트그리드",
+      "시스템개발",
+      "웹개발"
+    ],
+    "경영기획": [
+      "경영기획",
+      "사업관리",
+      "조직진단",
+      "리스크관리"
+    ],
+    "사업관리": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "인사/총무": [
+      "채용관리",
+      "교육훈련",
+      "인사평가",
+      "노무관리"
+    ],
+    "재무/회계/감사": [
+      "회계관리",
+      "재무분석",
+      "결산",
+      "세무"
+    ],
+    "전기": [
+      "전기설비",
+      "전력계통",
+      "배전관리",
+      "전기안전"
+    ],
+    "원자력": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "발전": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "토목": [
+      "토목설계",
+      "시공관리",
+      "구조물점검",
+      "도로관리"
+    ],
+    "건축": [
+      "건축설계",
+      "시설물관리",
+      "건축허가",
+      "인테리어"
+    ]
+  },
+  "core_values": [
+    "탄소중립 실현",
+    "에너지 전환",
+    "안전",
+    "상생",
+    "책임"
+  ],
+  "talent_image": "전력산업을 이끌어갈 글로벌 에너지 전문인재",
+  "slogan": "국민의 전력, 세계의 한전",
+  "positions": [
+    "경영기획",
+    "사업관리",
+    "인사/총무",
+    "재무/회계/감사",
+    "배전",
+    "송변전",
+    "전기",
+    "원자력",
+    "발전",
+    "IT/ICT",
+    "토목",
+    "건축"
+  ],
+  "mission": "안정적인 전력 공급으로 국가 경제 발전과 국민 생활 향상에 기여",
+  "vision": "에너지 신산업을 선도하는 글로벌 에너지 플랫폼 기업",
+  "recent_initiatives": [
+    "탄소중립 2050 로드맵 추진",
+    "재생에너지 확대 및 계통 안정화",
+    "AMI(지능형검침) 전국 확대",
+    "전력 빅데이터 플랫폼 구축",
+    "해외 송배전 사업 확대"
+  ],
+  "recruitment_news": [
+    {
+      "title": "[오늘의 공기업 채용정보] 한국전력공사, 2025년도 하반기 전기원 50명 채용 - 아웃소싱타임스",
+      "date": "2025-10-17",
+      "summary": "[오늘의 공기업 채용정보] 한국전력공사, 2025년도 하반기 전기원 50명 채용아웃소싱타임스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xVzlHUHpOSjVMbXcycG00YVFNcW12a3Z3YTkwUVRPRnVrQzJ2SHVUdWZJdG5jU085Q21hYnlMdXp2eEt2VW5BSzNmTmp6aU5Qc1JRY1JreTJzZXI2N21QS21XbnFxQmxuVUViYXhfa0pCZw?oc=5"
+    },
+    {
+      "title": "한국전력공사 국제계약담당 채용 - 법률신문",
+      "date": "2026-01-09",
+      "summary": "한국전력공사 국제계약담당 채용법률신문",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtVWpvRjZISUFoNlYxRnA2UjFiVFVCNnR0ajZ0bzVMckZvQk1aclNuVk5MR2tRQ3c2ekFweThYbXRYeTlYX3pjT2N3dHFKTzQ?oc=5"
+    },
+    {
+      "title": "\"1곳만 유일 87%\"…나주혁신도시 지역인재 채용 '초라' - 뉴시스",
+      "date": "2026-01-19",
+      "summary": "\"1곳만 유일 87%\"…나주혁신도시 지역인재 채용 '초라'뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoTjV5OHRTUC0zcjZKN01Eb3NnR0tqNjdDYmRjSVJ3SXZGazdYVnNySHA5TDVlNlZvVzFEcjVVOGswR2hXMTNuWGZrQm9tQTBfTE81N1F0ZUFPckRRend1bdIBeEFVX3lxTE1lTlY2aEtoTHRQQ2dLSm41Sk1QTUZZRFUzQWprcUg2cHZkZjJBNm9BbWVUVzlnZ3pTNWJQRlEtSHhISUwxZHZUTzUzWTdGbUc2alQwemJvWWpZeC1oQkllMGtraC1WZG5LRTJ5Z1RhSmV0cld1dkFlVw?oc=5"
+    },
+    {
+      "title": "한전, 2025년도 하반기 신입사원 620명 채용··· 안전·전력망 분야 우수 인재 대폭 확충 - 일렉트릭파워",
+      "date": "2025-09-10",
+      "summary": "한전, 2025년도 하반기 신입사원 620명 채용··· 안전·전력망 분야 우수 인재 대폭 확충일렉트릭파워",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oYjlZU0l2WlEyQ3dQcDV0OGVUMzVUTGNtYk5PZTkyX19ZUUI4THJBb0xQcXNOWV84Ym52ak4yUldaY1lJaTQ0ZmlXei1VMmRPWmxLT2hSZkR2LWo4NkFWSG84T0JOQQ?oc=5"
+    },
+    {
+      "title": "나주혁신도시 6개 공공기관 지역인재 채용 '농어촌공사 87.5%' 최고 - 뉴스1",
+      "date": "2026-01-19",
+      "summary": "나주혁신도시 6개 공공기관 지역인재 채용 '농어촌공사 87.5%' 최고뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00LXhUOTVQczFRalFDNWY3QWJyZ0E0V1A1RmlkQ3ZlaTgxRFotejMyMlVXYklGWXUwbXVtemszUW1wWC16bmQxOWpuVjBUR2xYVkQ5eWJWT2VzTEJacWhv?oc=5"
+    },
+    {
+      "title": "한전, 2025 하반기 신입사원 620명 채용... 전력망·안전 인력 대폭 확충 - 퍼블릭타임스",
+      "date": "2025-09-10",
+      "summary": "한전, 2025 하반기 신입사원 620명 채용... 전력망·안전 인력 대폭 확충퍼블릭타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HVTdBMjRFa0ZYVHdLWFZ4a2Zfd3Z3S3ktdFo0NzluNG93WDJMZkEyVGsyVEpzRHZodDhKTGl5blBLVHNBS2tpZG85cHVXWDFjWVV6T1F2c2lzLVp2aVlnNVlVN3R5NE11RGfSAW5BVV95cUxPWUR1eDBxUzZUbnFzTUtnUUllMWpzWVg5cUtLUzI2SHhlcDRMcTBmWDVJV2Y4RUZYV09CQVI3M2tfdTQzc3lSVXlTVVFtUUtkd3habTdDMXdWWUV3Y0lqeFhYT2xRamdYMFNZc0Y1Zw?oc=5"
+    },
+    {
+      "title": "한전, 고교 인재 위한 채용연계형 직무교육 시행 - MSN",
+      "date": "2026-01-16",
+      "summary": "한전, 고교 인재 위한 채용연계형 직무교육 시행MSN",
+      "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxNZS05RnZCZFRvTlk5VVRFbkRXY2cyWGpaSzNxcEVZZnlsWHhONl94QldabzhpOUNBckt5NzV6dW14aUplVlE4cnBGeWowNXdYZldYdTBDYTJmbG04WjdUQU4wWGFEWTZzVHFzd3Nwc3pGNVZtazRERkdFNk1feTJlekFVUUJNX1VqdEF5NG5oNndhS1B1LUNuV2w2Unl2SHZMZ3NPTmtPdnIyWk1icU10dEg5dDRZbHdPMzhISkNVSjJvUl93b0lBdWo3NnI3TmliYkpZUC1uYmwzYmk1QkRJOVJfemlUN0FPbUJaSUZXNUxvcTNMSUZuQ21uNXh4RW5yOEJ5REwxY1ktVkdRVEpLLXJ1U3lveUUtWm5iVjRqUmJpY1Q4MGIwOHpxRWRZR3hjMGp6T1dfY3ZYTC0tMjlDdklfN3FfUUpVQjJtclNObkVZNjlqWW9xQjB4eGstSk5ZWjJ3YUhBYUl6d1VsbmZScWVIaTJWQ0RtM241bW1jUko3dHMyV2UzMmVPSGFOX0tORTBVQU9IcTNiRDV6dk1nQW5RMThydlZ3ZXc4OGlhbUNHWHhOYjhOSFZGcXJDemJObEU5MTFFbGR4SjdxYjV5bnZjLUhYVUhMVWM4VUpqTWY?oc=5"
+    },
+    {
+      "title": "[사설]나주 혁신도시 공공기관 지역인재 채용 개선해야 - namdonews.com",
+      "date": "2026-01-20",
+      "summary": "[사설]나주 혁신도시 공공기관 지역인재 채용 개선해야namdonews.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XMWlnaklTd2N1cXFLOG1OSXg1WEJOVUVTVlBfRWhMeXBBNGFNM0RJdlZNN3BWR1p5RjdOaE5fZUFfczNJc1pXVE5iczdycmdQWGdTQ0RoMFA2ckt5Zmk5N2c5cUdybVgydXg5Ug?oc=5"
+    },
+    {
+      "title": "[한전 Watch 下] 김동철 연임 ‘적신호’, 30억 철퇴에 장애인 꼼수 고용 - 한스경제",
+      "date": "2026-01-19",
+      "summary": "[한전 Watch 下] 김동철 연임 ‘적신호’, 30억 철퇴에 장애인 꼼수 고용한스경제",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13Z25lc244WlFRQld3a0NjWllUX1JhOXo5VWtiSEJNejhIOXdzdlhoUzhQcFV2N0dxai16dnNtMFV3QXdwVTdVNGtIV2tsbi1JSXBvaUt5R0hMQUwzbnAwbE54Zkg5TXRwNnFr0gFvQVVfeXFMT3IwRThnS19YTnktM0xSQXVGbkpRY2d4UkF1aDhsbkxTRWdEREJkQjhnTXZLal9BbDl6UWUya0dkYWllTTd0TUZ6ZUIxaDRLQ2xLdk9rMWRlUHZ6cXBaVjA0RzRLTkJpcmNfMG1iRlhn?oc=5"
+    },
+    {
+      "title": "[오늘의 공기업 채용정보] 한국전력공사, 2025년도 하반기 신입사원 421명 채용 - 아웃소싱타임스",
+      "date": "2025-09-11",
+      "summary": "[오늘의 공기업 채용정보] 한국전력공사, 2025년도 하반기 신입사원 421명 채용아웃소싱타임스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qd3RmLXE2cEFzM0RHakZ0TG5DYTRUVkpCR3N2MUxEd0xXNHpWWnliZU1rY3gzVXFYOGtsX3RyWHJBNjN4TXBTa0pEMldkNHNzMFJ0dlg2SzR0Q0hYU0hudXhURXktblVpaHFOMGpiczRxZw?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.kepco.co.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 2회 (대규모 공채)",
+    "method": "NCS 기반 블라인드 채용",
+    "process": [
+      "서류전형",
+      "필기시험(NCS+전공)",
+      "면접전형",
+      "신체검사"
+    ],
+    "characteristics": [
+      "전기/전자 전공 다수",
+      "전국 사업소 배치",
+      "기술직 비중 높음"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

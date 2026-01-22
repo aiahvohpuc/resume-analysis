@@ -1,0 +1,231 @@
+{
+  "code": "IIAC",
+  "name": "인천국제공항공사",
+  "category": "SOC/교통/환경",
+  "description": "인천국제공항공사 - 세계 최고의 공항 서비스로 국가 경쟁력 강화와 항공산업 발전에 기여",
+  "keywords": [
+    "공항",
+    "항공",
+    "국제공항",
+    "여객",
+    "화물",
+    "터미널",
+    "활주로",
+    "스마트공항",
+    "관제",
+    "글로벌"
+  ],
+  "keywords_by_position": {
+    "사무직": [
+      "경영기획",
+      "공항운영",
+      "여객서비스",
+      "재무회계"
+    ],
+    "건축": [
+      "터미널설계",
+      "시설관리",
+      "건축설계",
+      "시설물관리",
+      "건축허가"
+    ],
+    "전기": [
+      "공항전기",
+      "조명시스템",
+      "전기설비",
+      "전력계통",
+      "배전관리"
+    ],
+    "IT/ICT": [
+      "공항시스템",
+      "보안시스템",
+      "스마트공항",
+      "시스템개발",
+      "웹개발"
+    ],
+    "경영기획": [
+      "경영기획",
+      "사업관리",
+      "조직진단",
+      "리스크관리"
+    ],
+    "사업관리": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "인사/총무": [
+      "채용관리",
+      "교육훈련",
+      "인사평가",
+      "노무관리"
+    ],
+    "재무/회계/감사": [
+      "회계관리",
+      "재무분석",
+      "결산",
+      "세무"
+    ],
+    "통신": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "전자개발": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "기계": [
+      "기계설비",
+      "플랜트운영",
+      "설비보전",
+      "기계설계"
+    ],
+    "토목": [
+      "토목설계",
+      "시공관리",
+      "구조물점검",
+      "도로관리"
+    ],
+    "조경": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "환경": [
+      "환경관리",
+      "폐기물처리",
+      "대기관리",
+      "수질관리"
+    ],
+    "관제(항공관제)": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ]
+  },
+  "core_values": [
+    "항공물류 허브",
+    "공항 서비스",
+    "안전",
+    "고객",
+    "상생"
+  ],
+  "talent_image": "글로벌 항공 허브를 이끄는 공항 전문인재",
+  "slogan": "세계로 향하는 관문, 인천국제공항",
+  "positions": [
+    "경영기획",
+    "사업관리",
+    "인사/총무",
+    "재무/회계/감사",
+    "건축",
+    "전기",
+    "IT/ICT",
+    "통신",
+    "전자개발",
+    "기계",
+    "토목",
+    "조경",
+    "환경",
+    "관제(항공관제)"
+  ],
+  "mission": "세계 최고의 공항 서비스로 국가 경쟁력 강화와 항공산업 발전에 기여",
+  "vision": "세계 최고의 공항, 대한민국의 관문",
+  "recent_initiatives": [
+    "제4활주로 건설",
+    "스마트공항 구현",
+    "탄소중립 공항 추진",
+    "비대면 서비스 확대",
+    "항공물류 허브 강화"
+  ],
+  "recruitment_news": [
+    {
+      "title": "인천국제공항공사,보훈대상자 채용 성과로국가보훈부장관 감사패 수여 - kitvnews.co.kr",
+      "date": "2025-07-01",
+      "summary": "인천국제공항공사,보훈대상자 채용 성과로국가보훈부장관 감사패 수여kitvnews.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3LTYydDJDdlNZOTR0emJDN0xFems5dVJ4aUk1cS1vOUVQZHNHMkVraDg3ZFk0OVU1UUVUci1FT3ROd0RtaUx5R1hTM0ptRWNLclhiRVZSXzJaMExrc1pkVUdkWW84QQ?oc=5"
+    },
+    {
+      "title": "✈ 공항에 들어가고 싶은 당신에게 - 브런치",
+      "date": "2025-03-26",
+      "summary": "✈ 공항에 들어가고 싶은 당신에게브런치",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE4wWEZKUzAxWUtkT25HdFdKbm1GWjl5R0tINWxFUXV1RDlCQmd4cmVkQUR4ZGd1VzBTMWhhZGFlTXFtZFhJ?oc=5"
+    },
+    {
+      "title": "'공항 일자리 채용 행사' 오는 28일 청주공항서 열린다 - 뉴시스",
+      "date": "2025-08-19",
+      "summary": "'공항 일자리 채용 행사' 오는 28일 청주공항서 열린다뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aQ21FVWJQOFJtMWljOGVZRnRWOUFVMk1GRzJ2T1h0OFlaUWptQy14dmtORXgzbm5MSzVEUzJKbWRGc2cyUk1jalNDTHFTMnFkMmlMTkRYMEd6SjJpNmFvcNIBeEFVX3lxTFB5am1XblFoV3YxRGFqcmNWOW1UZEY2S28xbkZTVWIwM09VT2N4LVlid096ejZUMDZfWnJxY1RqVUVfR0RTV2w3NEp1b3d1elpONFVfY3ZEOUhJYUVXNEhiaXJqQ2NaNzhTSTNGbGJZdlBfMDNfZ25jRQ?oc=5"
+    },
+    {
+      "title": "한국공항공사, 김포공항서 ‘공항일자리 채용의 날’ 행사 열어 - kyeonggi.com",
+      "date": "2025-03-18",
+      "summary": "한국공항공사, 김포공항서 ‘공항일자리 채용의 날’ 행사 열어kyeonggi.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TZVkzSVVxN1V1V2lVbUlUWFJiR3VURmtLb1NQc2I4RTVDajZSZldGOTAtdVg1TFJXRnVNYzhHdzhCUGNETnR0Ny1rTWgyS24yUldfajZsY3ozZjQ?oc=5"
+    },
+    {
+      "title": "‘경영평가 C등급’ 인천국제공항 인사 의혹 - 매일노동뉴스",
+      "date": "2025-07-09",
+      "summary": "‘경영평가 C등급’ 인천국제공항 인사 의혹매일노동뉴스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aODFXY0J3TUNRRF9Bbk1aSllERF9fVjgxUGFvaWZrTmRyWEpQSUNuY0lOYlFiLXNtcmtLa0ozZEdPMUJHVmVJZ3NPU1JvcXpZMDFPWWV0REZlWVVEM1Nhc29CWElLUXBmbnlpUFlYOHc?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.airport.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 1~2회",
+    "method": "NCS 기반 블라인드 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "면접전형"
+    ],
+    "characteristics": [
+      "인프라 전문성",
+      "현장 중심",
+      "전국 배치"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

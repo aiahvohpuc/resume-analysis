@@ -1,0 +1,162 @@
+{
+  "code": "KDIC",
+  "name": "예금보험공사",
+  "category": "금융",
+  "description": "예금보험공사 - 금융안정과 예금자 보호를 통해 국민경제의 건전한 발전에 기여",
+  "keywords": [
+    "예금보험",
+    "금융안정",
+    "예금자보호",
+    "부실금융기관",
+    "금융안전망",
+    "리스크관리",
+    "금융감독",
+    "정책금융",
+    "자산관리",
+    "채권회수"
+  ],
+  "keywords_by_position": {
+    "금융": [
+      "예금보험",
+      "기관감시",
+      "리스크분석",
+      "자산관리"
+    ],
+    "경영기획": [
+      "정책기획",
+      "경영분석",
+      "국제협력",
+      "경영기획",
+      "사업관리"
+    ],
+    "법무/노무": [
+      "법무지원",
+      "송무",
+      "부실정리",
+      "법률검토",
+      "계약관리"
+    ],
+    "IT/ICT": [
+      "시스템운영",
+      "데이터분석",
+      "정보보안",
+      "시스템개발",
+      "웹개발"
+    ],
+    "재무/회계/감사": [
+      "회계관리",
+      "재무분석",
+      "결산",
+      "세무"
+    ]
+  },
+  "core_values": [
+    "공정성",
+    "책임성",
+    "혁신성",
+    "협력",
+    "전문성"
+  ],
+  "talent_image": "금융안정 전문가로서 국민의 재산을 지키는 인재",
+  "slogan": "예금자 보호, 금융안정의 파수꾼",
+  "positions": [
+    "금융",
+    "경영기획",
+    "재무/회계/감사",
+    "법무/노무",
+    "IT/ICT"
+  ],
+  "mission": "금융안정과 예금자 보호를 통해 국민경제의 건전한 발전에 기여",
+  "vision": "금융안전망의 중심, 국민이 신뢰하는 예금보험공사",
+  "recent_initiatives": [
+    "디지털 금융환경 대응 예금보호 체계 강화",
+    "금융기관 조기경보시스템 고도화",
+    "예금자보호한도 상향 검토",
+    "부실채권 효율적 정리",
+    "금융안전망 국제협력 강화"
+  ],
+  "recruitment_news": [
+    {
+      "title": "예금보험공사 개방형계약직(예금보험연구소장) 채용 안내 - go.seoul.co.kr",
+      "date": "2025-12-28",
+      "summary": "예금보험공사 개방형계약직(예금보험연구소장) 채용 안내go.seoul.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX2hBeEtqMmxXbVlXMlI1Z1RqWmxYYllRV1ltMENBZ0ZtZjMxSi1Qei1Xalprb3dfNlhMS3BXMm9pUlJRWi04RlZsUmdnX01UV0dGeHZnTUx0WUc0WkZzYV9Nb3NMSkplWWZxc2FhNFhPb0Z2VVhCNkJGallMdTcwVEVn?oc=5"
+    },
+    {
+      "title": "예보, 2025 신입직원 40명 공개채용 - 뉴스저널리즘",
+      "date": "2025-08-29",
+      "summary": "예보, 2025 신입직원 40명 공개채용뉴스저널리즘",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KRGFNczA1aG1sQjVvRDhSd2FrR3ZDbnFuOEl1bHNzRkdBR3liZUI5NUR0Z0R0Y291UGdQMkN3Z1d6WkVBTzdNQVdOWEJuRkhST2dTeGN6S0Zub0pDS25IVTVXQnFYaDNTT0FR?oc=5"
+    },
+    {
+      "title": "한양대 법학전문대학원, 예금보험공사와 사회공헌 및 지역사회 상생을 위한 업무협약 체결 - 뉴스H",
+      "date": "2025-07-07",
+      "summary": "한양대 법학전문대학원, 예금보험공사와 사회공헌 및 지역사회 상생을 위한 업무협약 체결뉴스H",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GMWdmU3gwcEFxeHd5VDRIME1qY1RVblJVQmJMZ3lYWjdBdjNZbmpmbWVodEd6OFJ5cVdMTFdUWGxxU3hlY3ZiTG9lQWxtYlhDTVVxcmdOSDZYSnliWDdxQ1p1bGdHcUpDZGw4?oc=5"
+    },
+    {
+      "title": "MG손보 직원 54% '1년 계약직'으로 가교보험사 채용 - 중소기업신문",
+      "date": "2025-08-14",
+      "summary": "MG손보 직원 54% '1년 계약직'으로 가교보험사 채용중소기업신문",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wMVY4OVJWRzFJZ1NhejlZT18tY0dBdlVCalR2U2dlbXN6SXJJVHg2T1RhMVhYLW9pSVdTUVh0MlV6cE1JNWRjYU1iYU5Eei1LQ3dpNy1heWNqN1BLWUVBMWFZQzJNTFRJQ0lhZ0p3?oc=5"
+    },
+    {
+      "title": "예보, MG손보와 합의 마무리…직원 54% 가교보험사로 채용 - 연합뉴스",
+      "date": "2025-08-14",
+      "summary": "예보, MG손보와 합의 마무리…직원 54% 가교보험사로 채용연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oMVEta3dDMGlMWjhyTGFFZTRtZGVYWG9zT3BreHBMVlRLNWlCZXVhUmtfMTlPbVVwUTFmME9sUmVObFprVmgzaGM4bHNBMjlNbFpOUG1VRW1Xbk3SAWBBVV95cUxPTHlpQTZvOS0zMnFGX0dfMWtfUDdGazJJRGh0QTV4TzQtZ3pJRDdHdm9HbE1ZZUtLcVBCTm96QXB0X2x4SG11Q3hYM1JRV2c0RC04RGNidEN4LS00Q25DSHk?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.kdic.or.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 1~2회",
+    "method": "NCS 기반 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "면접전형"
+    ],
+    "characteristics": [
+      "금융 전문성",
+      "분석력 중시",
+      "자격증 우대"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

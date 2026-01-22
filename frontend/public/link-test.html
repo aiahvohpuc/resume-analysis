@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>링크 테스트</title>
+  <style>
+    body { font-family: sans-serif; padding: 20px; }
+    .news-link {
+      color: #0ea5e9;
+      text-decoration: underline;
+      cursor: pointer;
+    }
+    .news-link:hover {
+      color: #0369a1;
+      background-color: rgba(14, 165, 233, 0.1);
+    }
+    .result { margin-top: 20px; padding: 10px; background: #f0f0f0; }
+    pre { background: #333; color: #0f0; padding: 10px; overflow: auto; }
+  </style>
+</head>
+<body>
+  <h1>최근 동향 링크 테스트</h1>
+  <button onclick="fetchAndTest()">API 호출 및 테스트</button>
+  <div id="result" class="result"></div>
+  <div id="links"></div>
+
+  <script>
+    async function fetchAndTest() {
+      const resultDiv = document.getElementById('result');
+      const linksDiv = document.getElementById('links');
+
+      resultDiv.innerHTML = '로딩 중...';
+
+      try {
+        const response = await fetch('/api/feedback/resume/v2', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            organization: 'AT',
+            position: '경영기획',
+            question: '지원동기',
+            answer: '농수산식품 유통에 관심이 있어서 지원합니다.',
+            maxLength: 500
+          })
+        });
+
+        const data = await response.json();
+        const recentNews = data.organization_info?.recent_news || [];
+
+        resultDiv.innerHTML = `
+          <h3>API 응답 결과</h3>
+          <p>recent_news 개수: ${recentNews.length}</p>
+          <pre>${JSON.stringify(recentNews.slice(0, 2), null, 2)}</pre>
+        `;
+
+        linksDiv.innerHTML = '<h3>렌더링된 링크:</h3><ul>';
+        recentNews.forEach((news, i) => {
+          linksDiv.innerHTML += `
+            <li>
+              <span>[${news.category || '미분류'}]</span>
+              ${news.url
+                ? `<a href="${news.url}" target="_blank" rel="noopener noreferrer" class="news-link">${news.title}</a>`
+                : `<span style="color:red">[URL없음] ${news.title}</span>`
+              }
+              <span>(${news.date || '날짜없음'})</span>
+            </li>
+          `;
+        });
+        linksDiv.innerHTML += '</ul>';
+
+      } catch (error) {
+        resultDiv.innerHTML = `<p style="color:red">에러: ${error.message}</p>`;
+      }
+    }
+  </script>
+</body>
+</html>

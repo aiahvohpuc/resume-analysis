@@ -1,0 +1,154 @@
+{
+  "code": "KIC",
+  "name": "한국투자공사",
+  "category": "금융",
+  "description": "한국투자공사 - 국부펀드로서 국가자산의 효율적 운용을 통한 국민경제 발전 기여",
+  "keywords": [
+    "국부펀드",
+    "해외투자",
+    "자산운용",
+    "포트폴리오",
+    "대체투자",
+    "PE",
+    "ESG",
+    "리스크관리",
+    "글로벌",
+    "장기투자"
+  ],
+  "keywords_by_position": {
+    "금융": [
+      "투자운용",
+      "리스크관리",
+      "포트폴리오관리",
+      "대체투자"
+    ],
+    "경영기획": [
+      "전략기획",
+      "리서치",
+      "경영분석",
+      "경영기획",
+      "사업관리"
+    ],
+    "IT/ICT": [
+      "투자시스템",
+      "데이터분석",
+      "퀀트",
+      "시스템개발",
+      "웹개발"
+    ],
+    "재무/회계/감사": [
+      "회계관리",
+      "재무분석",
+      "결산",
+      "세무"
+    ]
+  },
+  "core_values": [
+    "글로벌",
+    "장기투자",
+    "책임투자",
+    "신뢰",
+    "전문성"
+  ],
+  "talent_image": "글로벌 시장을 선도하는 투자 전문가",
+  "slogan": "대한민국의 미래를 투자하다",
+  "positions": [
+    "금융",
+    "경영기획",
+    "재무/회계/감사",
+    "IT/ICT"
+  ],
+  "mission": "국부펀드로서 국가자산의 효율적 운용을 통한 국민경제 발전 기여",
+  "vision": "글로벌 탑티어 국부펀드",
+  "recent_initiatives": [
+    "ESG 책임투자 확대",
+    "대체투자 비중 확대",
+    "신흥시장 투자 다변화",
+    "AI 기반 투자분석 도입",
+    "탄소중립 투자전략 수립"
+  ],
+  "recruitment_news": [
+    {
+      "title": "한국투자공사, 블라인드로 신입사원 8명 뽑는다 - sedaily.com",
+      "date": "2025-06-16",
+      "summary": "한국투자공사, 블라인드로 신입사원 8명 뽑는다sedaily.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBdjZLMFRxQXV3a1Y1b1lfckEydXlqeGVKX3VvR1EzYmVTRzc0ZnI2Q3pjcDJZT0t0eGVBcm1qMm96SC1HSGh4VnlndzRDQURtbDRBRFhR0gFXQVVfeXFMTVBSVjRWaWpadnQyYkZ0dDFoc042c1BFNDc3MDVQM0ZIVXk2akxwcjFVbTU2Z0N6bGFPYW5zQ1QzZmVVc1FXMXdMQ3FxMlAtZk43MlF4RUNB?oc=5"
+    },
+    {
+      "title": "기술보증기금·KOICA·중부발전·한국투자공사 등 6월 신입채용 공고 - 피앤피뉴스",
+      "date": "2025-06-20",
+      "summary": "기술보증기금·KOICA·중부발전·한국투자공사 등 6월 신입채용 공고피앤피뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkVWZEUl9aSFlibTBBMnNfVjQ1cGY2cUpNMnBLc2JIWkZLY1NrQlhfNmxQV0xIbUZuOE1FSC1VNkk1LTV2OE9VVnMzdEtqUGJOcDBSS3R1eTdiQ1dBV3fSAVZBVV95cUxPOEQ5QzhVbmVFQ3VQNGxYXzJVaTVSS3ZwVlZfdmt0eXZpOWxhLXlKVlY4YkZFX0VsNjFaandlTDJ6OHhwb1Q4aklFQUpTTmFYbDdVdFdnUQ?oc=5"
+    },
+    {
+      "title": "KIC, 장애인 배드민턴팀 창단 - 네이트",
+      "date": "2025-08-04",
+      "summary": "KIC, 장애인 배드민턴팀 창단네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsRU9obVdKZFdNNjNvOGhHZEE2T0tSN3NOTkh3ODdBWXN4Y0ZEQWhodG5lYlpIdnpJcDNrTEJieDB1UERyOVltM2x1eC1NRFM5TGc0?oc=5"
+    },
+    {
+      "title": "한국투자공사(KIC), 2025년 청년인턴 27명 공개 채용 - 한국금융신문",
+      "date": "2025-01-15",
+      "summary": "한국투자공사(KIC), 2025년 청년인턴 27명 공개 채용한국금융신문",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1YNGQya04xZEZSMXFKOUNYcjVKaWJka0dfdzlCTjJIUHBMYy1MZTRpb0pkb0ZIUmxIa2lTbS1SaVdQcDdsZHRKRGVZVHRMaEdlM0hOOHd4aWwxdV94NTlMVjZHRGk0cm9DYTVBZFZpazdJekVSOVVjZFUtcmY?oc=5"
+    },
+    {
+      "title": "\"해외투자 인재 모십니다\"…한국투자공사, 신입직원 공개 채용 - 뉴시스",
+      "date": "2024-05-21",
+      "summary": "\"해외투자 인재 모십니다\"…한국투자공사, 신입직원 공개 채용뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yd2czYUFXUTFHTWZzbWRCVnAxZlIwZUhic1o5VFpQVHlSTFFpY3hGWlVfY3o3OW45VGlZdDBPY0NCUXhhM29Wcm1JanJ6cEdxaWFONjZTOWR6QmJsQWduRtIBeEFVX3lxTE01dC1jYTAzd0RSYWlsR2luZ3Q5YVUySG5jX05OdWo5NHNFZG41RTlieWY4R3dBQlhrZkl4WkJiR3VocnZNb0RCaEZCbGE2SFhOVHdkZGM4d0toZVNzMnltNEZndjNUZlVuTWRiOFRLOEpNamFOM3B0bA?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.kic.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 1~2회",
+    "method": "NCS 기반 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "면접전형"
+    ],
+    "characteristics": [
+      "금융 전문성",
+      "분석력 중시",
+      "자격증 우대"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+[project]
+name = "resume-analysis"
+version = "0.1.0"
+description = "PDF 이력서 및 텍스트 분석 도구"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["test"]
+python_files = ["test_*.py"]
+addopts = "-v --tb=short"
+asyncio_mode = "auto"
+asyncio_default_fixture_loop_scope = "function"
+
+[tool.coverage.run]
+source = ["src"]
+omit = ["*/__init__.py"]
+
+[tool.coverage.report]
+fail_under = 80
+show_missing = true
+
+[tool.ruff]
+target-version = "py311"
+line-length = 100
+src = ["src", "test"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "C4", "UP"]
+ignore = ["E501", "B008"]  # B008: Allow Depends() in FastAPI route arguments
+
+[tool.bandit]
+exclude_dirs = ["test", "venv"]
+skips = ["B101"]

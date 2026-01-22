@@ -1,0 +1,217 @@
+{
+  "code": "NHIS",
+  "name": "국민건강보험공단",
+  "category": "복지/의료",
+  "description": "국민건강보험공단 - 평생건강, 국민행복",
+  "keywords": [
+    "건강보험",
+    "국민건강",
+    "사회보장",
+    "의료보장",
+    "보험료",
+    "건강증진",
+    "디지털 헬스케어",
+    "고객 중심",
+    "공공성",
+    "지속가능성"
+  ],
+  "keywords_by_position": {
+    "사무직": [
+      "정책기획",
+      "예산관리",
+      "고객응대",
+      "민원처리"
+    ],
+    "건강직": [
+      "자격심사",
+      "급여심사",
+      "보험료관리",
+      "건강검진",
+      "요양급여"
+    ],
+    "요양직": [
+      "장기요양등급판정",
+      "요양급여관리",
+      "장기요양",
+      "등급판정",
+      "요양급여"
+    ],
+    "전산직": [
+      "시스템운영",
+      "데이터분석",
+      "정보보안",
+      "SW개발",
+      "DB관리"
+    ],
+    "기술직": [
+      "시설관리",
+      "설비운영",
+      "안전관리"
+    ],
+    "경영기획": [
+      "경영기획",
+      "사업관리",
+      "조직진단",
+      "리스크관리"
+    ],
+    "사업관리": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "인사/총무": [
+      "채용관리",
+      "교육훈련",
+      "인사평가",
+      "노무관리"
+    ],
+    "재무/회계/감사": [
+      "회계관리",
+      "재무분석",
+      "결산",
+      "세무"
+    ],
+    "의료행정": [
+      "행정업무",
+      "정책분석",
+      "법령검토",
+      "민원행정"
+    ],
+    "사회복지": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "건축": [
+      "건축설계",
+      "시설물관리",
+      "건축허가",
+      "인테리어"
+    ],
+    "전기": [
+      "전기설비",
+      "전력계통",
+      "배전관리",
+      "전기안전"
+    ],
+    "산업안전": [
+      "산업안전",
+      "재해예방",
+      "안전점검",
+      "비상대응"
+    ]
+  },
+  "core_values": [
+    "빅데이터 헬스케어",
+    "전 국민 건강보장",
+    "국민 중심",
+    "신뢰와 소통",
+    "혁신과 도전"
+  ],
+  "talent_image": "국민과 함께 건강한 내일을 만들어가는 전문인재",
+  "slogan": "평생건강, 국민행복",
+  "positions": [
+    "경영기획",
+    "사업관리",
+    "인사/총무",
+    "재무/회계/감사",
+    "의료행정",
+    "사회복지",
+    "건강직",
+    "요양직",
+    "전산직",
+    "건축",
+    "전기",
+    "산업안전"
+  ],
+  "mission": "평생건강, 국민행복",
+  "vision": "국민의 평생건강을 책임지는 글로벌 건강보장기관",
+  "recent_initiatives": [
+    "마이 헬스웨이(My Healthway) 플랫폼 구축",
+    "AI 기반 건강관리 서비스 확대",
+    "비대면 의료서비스 기반 마련",
+    "건강검진 디지털 전환",
+    "K-건강보험 해외 진출"
+  ],
+  "recruitment_news": [
+    {
+      "title": "중증장애인 채용 카페 아이갓에브리씽 115호점, 국민건강보험공단 본부별관점 오픈 - 복지뉴스",
+      "date": "2026-01-22",
+      "summary": "중증장애인 채용 카페 아이갓에브리씽 115호점, 국민건강보험공단 본부별관점 오픈복지뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3RTJNMkswQm0xU3hfVkJhYXFwajBpeE5OcVdBcjFlbzc4enIxUHRpRnNHUV9DTmRCSHBfTm41cnFKZm5RT0M5Uk9RbG5GNEJVOThBY3JqZ0xPOEprbkk2SFJmLVZmTnlHOGk0?oc=5"
+    },
+    {
+      "title": "‘국민건강보험공단 일산병원 청년 인턴’…보건·의료 수련생 24명 뽑는다 - 퍼블릭타임스",
+      "date": "2026-01-21",
+      "summary": "‘국민건강보험공단 일산병원 청년 인턴’…보건·의료 수련생 24명 뽑는다퍼블릭타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXSXBXclBaRHRyQ3UyRlZlYzJXMWk1TFFWRGlsbzNzNDZ0dERpbV9mMjl1eEs1TVpsMlc3aDZ4YnNoa0FVaUFtV0hoZVhFTG55OFp6clVtZ0FvMnRsbzNJR1ZuVE15VnZSd2fSAW5BVV95cUxOTXJfRnFBQmZZNzk2TkF5SVNNYlN6OU02NGpJamNJVUNYNC11ZHVFbHNOZzJub2pWVllHZjFyQ3A5NG82bXNNczVyQUFlbkVwRllmMnJGclFJUlFsY2hCR1ZLeXhnYlVyS3p2amJZdw?oc=5"
+    },
+    {
+      "title": "국민건강보험공단, 신규직원 445명 모집...27일까지 접수 - 약업신문",
+      "date": "2026-01-15",
+      "summary": "국민건강보험공단, 신규직원 445명 모집...27일까지 접수약업신문",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZlRobzkwX1dNOFdYUmRZc21SZFIxV2RIWldEM2I3UFN4X0FJUm9GYWdnWHlYYWxXcURmVGlhekNoOEJ5YXRYaGxhQ3ZuMy1QZ3IzX0E5Mlk5SWllLWtIZVpxMkVpaXREYkhBbXFxVUhROUk4NGJwYXdyQ0FsNTZJX3haUzBUSXpEdzdqaF9JNWVfcF8xemVTYmNFdnppYms?oc=5"
+    },
+    {
+      "title": "[정규직 전환 4년째 지연] 건보공단 고객센터 노동자 하루 파업 - 매일노동뉴스",
+      "date": "2025-11-10",
+      "summary": "[정규직 전환 4년째 지연] 건보공단 고객센터 노동자 하루 파업매일노동뉴스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0td3RsRmtnNnZERFRQelpwNDUtYzhVdnNFa1cySEozaU94MzFlNThFRGpXSElPU0xSZXlHeWg1d2F6YW1LTzl2MW9ZR0ZUcDdhdlgxUFBZeUFiZGVTRHU3a2VnVDgxS1lybnV6NzI5WFM?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.nhis.or.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "보건복지부"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 2회 (상반기 5월, 하반기 10월)",
+    "method": "NCS 기반 블라인드 채용",
+    "process": [
+      "서류전형",
+      "필기시험(NCS)",
+      "면접전형",
+      "신체검사"
+    ],
+    "characteristics": [
+      "대규모 채용",
+      "전국 단위 근무",
+      "보건의료 전문성 우대"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

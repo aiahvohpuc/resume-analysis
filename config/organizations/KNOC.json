@@ -1,0 +1,224 @@
+{
+  "code": "KNOC",
+  "name": "한국석유공사",
+  "category": "에너지/발전",
+  "description": "한국석유공사 - 석유자원의 안정적 확보를 통한 국가 에너지 안보 기여",
+  "keywords": [
+    "석유",
+    "자원개발",
+    "E&P",
+    "탐사",
+    "생산",
+    "비축",
+    "CCS",
+    "해양플랜트",
+    "에너지안보",
+    "대륙붕"
+  ],
+  "keywords_by_position": {
+    "사무직": [
+      "경영기획",
+      "자원개발",
+      "재무관리",
+      "해외사업"
+    ],
+    "기계": [
+      "플랜트운영",
+      "설비관리",
+      "시추",
+      "기계설비",
+      "설비보전"
+    ],
+    "지질": [
+      "탐사",
+      "저류층분석",
+      "지구물리",
+      "정책기획",
+      "예산관리"
+    ],
+    "화공": [
+      "생산운영",
+      "공정관리",
+      "환경관리",
+      "화학물질",
+      "안전관리"
+    ],
+    "경영기획": [
+      "경영기획",
+      "사업관리",
+      "조직진단",
+      "리스크관리"
+    ],
+    "사업관리": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "재무/회계/감사": [
+      "회계관리",
+      "재무분석",
+      "결산",
+      "세무"
+    ],
+    "법무/노무": [
+      "법률검토",
+      "계약관리",
+      "소송관리",
+      "컴플라이언스"
+    ],
+    "전기": [
+      "전기설비",
+      "전력계통",
+      "배전관리",
+      "전기안전"
+    ],
+    "토목": [
+      "토목설계",
+      "시공관리",
+      "구조물점검",
+      "도로관리"
+    ],
+    "산업안전": [
+      "산업안전",
+      "재해예방",
+      "안전점검",
+      "비상대응"
+    ],
+    "IT/ICT": [
+      "시스템개발",
+      "웹개발",
+      "앱개발",
+      "AI/빅데이터"
+    ],
+    "에너지/가스": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "해양/항만": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ]
+  },
+  "core_values": [
+    "도전",
+    "상생",
+    "책임",
+    "전문성",
+    "혁신"
+  ],
+  "talent_image": "에너지 자원개발의 글로벌 전문인재",
+  "slogan": "에너지 안보의 첨병",
+  "positions": [
+    "경영기획",
+    "사업관리",
+    "재무/회계/감사",
+    "법무/노무",
+    "기계",
+    "전기",
+    "토목",
+    "화공",
+    "산업안전",
+    "IT/ICT",
+    "지질",
+    "에너지/가스",
+    "해양/항만"
+  ],
+  "mission": "석유자원의 안정적 확보를 통한 국가 에너지 안보 기여",
+  "vision": "에너지 전환을 선도하는 글로벌 E&P 기업",
+  "recent_initiatives": [
+    "해외 유전 포트폴리오 최적화",
+    "CCS(탄소포집저장) 사업 추진",
+    "해상풍력 연계 사업",
+    "디지털 유전 기술 개발",
+    "에너지 전환 신사업 발굴"
+  ],
+  "recruitment_news": [
+    {
+      "title": "석유공사, 울산 고등학생 일자리체험 프로그램 - iusm.co.kr",
+      "date": "2025-12-03",
+      "summary": "석유공사, 울산 고등학생 일자리체험 프로그램iusm.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qdDQ3SVE4bFJwdnA3T2VqeFJMR0M4TERkamlONzZHZGpNczhLUENhWmxQU3ZIcnJRLTlYUUJIWC11VTUtUlE3bDhSX0NidHAxcEhmTHNUOG1YUlpxM0xKdTFqa1FjTFVUOXfSAW5BVV95cUxNUVlPQlE3bl9zRFFmR3pYSjVPV1RadldsM0lSVHpGalJocEFpX2Fqd3hocTE0VkpMcG05U05TUEVmRlNEeXdhdkxXVURTRDRXMmk3ZUJHYjVWZFRwMjE4NVEtVHV6VWxPTklWSVJTUQ?oc=5"
+    },
+    {
+      "title": "석유공사, 울산지역 고교생 일자리체험 프로그램 운영 - 연합뉴스",
+      "date": "2025-12-03",
+      "summary": "석유공사, 울산지역 고교생 일자리체험 프로그램 운영연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YNnFtQnR6MTkzcTdsTjRpSEg4eDk5STJ4dHdZR01BQm4xSTBHNjBaRzRTaFZrTEhmdzBWY0x6UEM5Z1pmbndpX0tVV0d5bERLOXk2MHUzbkNJaXPSAWBBVV95cUxPOXRSRDVkZHV3cTltSl9yRDZxT0RnZl81NmF4TXIyUDNDRDVFU05SSGRhZF9BNkJyRDlJSng1cXRLSmtDVDF0ZDkycmFtRDY4dTdLT05FaExabjlSOS0zZ3M?oc=5"
+    },
+    {
+      "title": "“끝까지 포기하지 않으면 기회는 온다” 나주공업고등학교 김건희 학생, 한국석유공사 최종 합격 - jnedu.kr",
+      "date": "2025-07-16",
+      "summary": "“끝까지 포기하지 않으면 기회는 온다” 나주공업고등학교 김건희 학생, 한국석유공사 최종 합격jnedu.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4NjdFREtuNFlBS3cwbTZjZ3QwQmltWVpvc3dQSEQ0SkdxdkVHLUxFaG1UaFIxa1pobVhJQndfdFJCVVdlZXB2NzZha0FHUVdoQ3MzTnlUdExoOERJVnNHYTRWb3VFd9IBakFVX3lxTE83ZGphUlNEYWs3VXJHSEY2ampFX19VQzB0YldtZWFwMlFtRFk0VEFzZ3ZncDhyRE9WTmJXaldVb0JrbUV2NFY1aTkwc1Q3c0xrNlJCNzBUSmFQVVBDWF9IcDN5ZzFwTlJSX0E?oc=5"
+    },
+    {
+      "title": "석유공사, CCS·부유식 해상풍력 사업 세계에 알린다 - 뉴시스",
+      "date": "2025-08-27",
+      "summary": "석유공사, CCS·부유식 해상풍력 사업 세계에 알린다뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hY01tS2xrZlFpT2ZGTFI4VWxQTHQwUDB0SXVSNGxHRS1vT1pROE0yMWNzNm1qNXVkNWdhYnNKQW4tWmExWVdzV1V5M1ZvVER6bVN4SzE0V3JLZnFUSHlNQ9IBeEFVX3lxTE94cWUxbk5FdDF3c011UkVDTWNBYWNaSHlVS1ZxUTlRTTN0eWJmS2xtTzFrNUhwSEt2UU9iX3JNTkhHZHU3ckhUWU92U3VtbVBvZS10SENwNmRBd2FwbThIc0FQOTBUSVhSRDkxMW55MDNZbThiZ0tsTw?oc=5"
+    },
+    {
+      "title": "CCS·해상풍력·수소…석유공사, 에너지전환 비전 제시 - 에너지경제신문 모바일",
+      "date": "2025-08-27",
+      "summary": "CCS·해상풍력·수소…석유공사, 에너지전환 비전 제시에너지경제신문 모바일",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GTHo2YjdMTW9aUGFaeGhZX3NqaHA2OVJZTE1JQkZoWmFkeHNzM0dleG5JdnhfNkNrU2otUzlZV2VweDEwRXFlUnQ3OHNTbW9ZSmM0Q0hBemxUQkU?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.knoc.co.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 1~2회",
+    "method": "NCS 기반 블라인드 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "면접전형"
+    ],
+    "characteristics": [
+      "기술직 비중 높음",
+      "안전의식 강조",
+      "현장 근무"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

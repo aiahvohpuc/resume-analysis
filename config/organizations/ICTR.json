@@ -1,0 +1,239 @@
+{
+  "code": "ICTR",
+  "name": "인천교통공사",
+  "category": "SOC/교통/환경",
+  "description": "인천교통공사 - 안전하고 편리한 도시철도 서비스로 인천시민의 삶의 질 향상",
+  "keywords": [
+    "도시철도",
+    "지하철",
+    "인천",
+    "안전",
+    "전동차",
+    "역무",
+    "교통서비스",
+    "스마트교통",
+    "시민",
+    "공공서비스"
+  ],
+  "keywords_by_position": {
+    "사무직": [
+      "경영기획",
+      "고객서비스",
+      "사업관리"
+    ],
+    "운전": [
+      "전동차운전",
+      "관제",
+      "정책기획",
+      "예산관리",
+      "인사관리"
+    ],
+    "승무": [
+      "역무",
+      "고객응대",
+      "정책기획",
+      "예산관리",
+      "인사관리"
+    ],
+    "차량": [
+      "전동차정비",
+      "전자개발"
+    ],
+    "경영기획": [
+      "경영기획",
+      "사업관리",
+      "조직진단",
+      "리스크관리"
+    ],
+    "사업관리": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "고객서비스": [
+      "고객상담",
+      "민원처리",
+      "서비스품질",
+      "VOC관리"
+    ],
+    "전기": [
+      "전기설비",
+      "전력계통",
+      "배전관리",
+      "전기안전"
+    ],
+    "전기철도": [
+      "전기설비",
+      "전력계통",
+      "배전관리",
+      "전기안전"
+    ],
+    "철도신호": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "통신": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "전자개발": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "토목": [
+      "토목설계",
+      "시공관리",
+      "구조물점검",
+      "도로관리"
+    ],
+    "건축": [
+      "건축설계",
+      "시설물관리",
+      "건축허가",
+      "인테리어"
+    ],
+    "기계": [
+      "기계설비",
+      "플랜트운영",
+      "설비보전",
+      "기계설계"
+    ],
+    "철도차량": [
+      "차량정비",
+      "차량검수",
+      "유지보수",
+      "부품관리"
+    ]
+  },
+  "core_values": [
+    "안전",
+    "고객",
+    "소통",
+    "혁신",
+    "청렴"
+  ],
+  "talent_image": "인천 도시철도의 미래를 이끄는 전문인재",
+  "slogan": "인천시민의 발, 인천교통공사",
+  "positions": [
+    "경영기획",
+    "사업관리",
+    "고객서비스",
+    "운전",
+    "승무",
+    "전기",
+    "전기철도",
+    "철도신호",
+    "통신",
+    "전자개발",
+    "토목",
+    "건축",
+    "기계",
+    "철도차량"
+  ],
+  "mission": "안전하고 편리한 도시철도 서비스로 인천시민의 삶의 질 향상",
+  "vision": "시민과 함께 성장하는 인천의 교통 파트너",
+  "recent_initiatives": [
+    "2호선 연장 운영",
+    "안전설비 고도화",
+    "친환경 역사 조성",
+    "스마트 승차 서비스",
+    "역사 환경개선"
+  ],
+  "recruitment_news": [
+    {
+      "title": "[오늘의 공기업 채용정보] 인천교통공사, 2024년 신입사원 217명 채용 - 아웃소싱타임스",
+      "date": "2024-09-04",
+      "summary": "[오늘의 공기업 채용정보] 인천교통공사, 2024년 신입사원 217명 채용아웃소싱타임스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lc25fRVgyNENDVzVER2pRNy1HRHBwal9hMmNldDJMalIwVEU4SFRndGp4VEJ3TzVMeWVlbm1ZaVpwOHNxWDQwbjZ3ZDJLbzBaMjlBQjJmMHZ6ejliTHY4WE1LYWlveTJZbVdJTVBtSDc?oc=5"
+    },
+    {
+      "title": "2021년 인천교통공사 신입사원 채용공고 - 법률저널",
+      "date": "2021-06-28",
+      "summary": "2021년 인천교통공사 신입사원 채용공고법률저널",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE42elBId0hESUd4VGNaOEpTRDZCSXowOWRJVm5VMG5oSTV4OGdhekd3XzdYdDdTbnNXdzJEQjUxNzVRQXE5X2dHRTJ1OU44aDVYUFg0WkRkR0Q5QldDbThTclplcUtCQQ?oc=5"
+    },
+    {
+      "title": "인천교통공사, 신입사원 114명 임용 - 헤럴드경제",
+      "date": "2020-08-04",
+      "summary": "인천교통공사, 신입사원 114명 임용헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfQ0FHWmVWTFhqRklPeUhlSzF4TDQ1LUxSZFpxRjZoTTZBRlUyZ3F1aFBoaDJmWWFWTXBaY09rSG5Qd2JIekw0YUxTbTRhVGJEWWpGUA?oc=5"
+    },
+    {
+      "title": "인천교통공사, 신입사원 114명 임용 - 뉴시스",
+      "date": "2020-08-04",
+      "summary": "인천교통공사, 신입사원 114명 임용뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XXzA2MXNxNk9hc0xUSnJibUs4QU5FXzEyVk1ET1pEa216RmUwcnhXQmpGLUI5dEtmWnF3NnlEalR2TTRtZGdnTUVfSVdhY3hidGtheExyQUNaYTJJcUZoddIBeEFVX3lxTE1IMVNhQlo0MHFsR0EteUd5dGJmaC1pZnlsU0RDdEZuZGJBWlJpNkpBRkxaYlRySjBGOHRkNmRja20zWGlIS3ZGREhmR2FrYU82c2VPTGlpZm5wZkRDaUFRbkl0eHJZVVEzYzRJczhtYm8wbElIWTByUA?oc=5"
+    },
+    {
+      "title": "인천교통공사, ‘2024년 공정채용 우수기업 어워즈’ 행정안전부 장관상 수상 - 서울일보",
+      "date": "2024-11-03",
+      "summary": "인천교통공사, ‘2024년 공정채용 우수기업 어워즈’ 행정안전부 장관상 수상서울일보",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBwNWpBWEUyRGhjeUtOOU9ia1ZGdmpJbW9YMHZSaXMtbmt2Zy0wME9ETnRiT044a0xDZFRkSGRWZUtPYkhWWkk1MmtaVS1RRHdDRzN6cjRhRmVRUDM1VWhiSXdfeS1kbE0tb1800gFvQVVfeXFMUDY2RTFHYVJuUWJZVUtDSElldmxHT3ZscXBaN0JaWkpHMlN6MU1mUWdZdnBHVHJTM0thYnV0bmdJNjZkNERRR3J1dms5Njh2dVlWMlduRDluTGZyTkJvV0h4MDk1eFBtcmdzV01JWkNJ?oc=5"
+    },
+    {
+      "title": "[취린이 입사가이드] '인천교통공사' 채용 합격가이드…인사담당자가 말하는 '우리는 이런 인재 선호한다' - 이투데이",
+      "date": "2020-11-19",
+      "summary": "[취린이 입사가이드] '인천교통공사' 채용 합격가이드…인사담당자가 말하는 '우리는 이런 인재 선호한다'이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vc2g0OFZOVnFrRnFaRm1LZnBoanVaOXRaRU1uSE8xY1BSMERkcFVyclpudDJaV3NSREFxcWxMR0dfQW84TDNiSUpDUDVpaHJkMHpTTw?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.ictr.or.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 1~2회",
+    "method": "NCS 기반 블라인드 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "면접전형"
+    ],
+    "characteristics": [
+      "인프라 전문성",
+      "현장 중심",
+      "전국 배치"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

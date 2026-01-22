@@ -1,0 +1,220 @@
+{
+  "code": "SR",
+  "name": "SR",
+  "category": "SOC/교통/환경",
+  "description": "SR - SRT 운영을 통한 국민의 이동 편의 증진과 철도산업 발전",
+  "keywords": [
+    "SRT",
+    "고속철도",
+    "수서",
+    "철도",
+    "여객운송",
+    "안전",
+    "서비스",
+    "승무",
+    "역무",
+    "교통"
+  ],
+  "keywords_by_position": {
+    "사무직": [
+      "경영기획",
+      "마케팅",
+      "고객서비스",
+      "IT"
+    ],
+    "운전": [
+      "기관사",
+      "열차운행",
+      "정책기획",
+      "예산관리",
+      "인사관리"
+    ],
+    "승무": [
+      "객실장",
+      "역무원",
+      "정책기획",
+      "예산관리",
+      "인사관리"
+    ],
+    "차량": [
+      "철도차량정비",
+      "시설통신"
+    ],
+    "경영기획": [
+      "경영기획",
+      "사업관리",
+      "조직진단",
+      "리스크관리"
+    ],
+    "사업관리": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "마케팅/홍보": [
+      "대외홍보",
+      "언론대응",
+      "SNS관리",
+      "콘텐츠제작"
+    ],
+    "고객서비스": [
+      "고객상담",
+      "민원처리",
+      "서비스품질",
+      "VOC관리"
+    ],
+    "IT/ICT": [
+      "시스템개발",
+      "웹개발",
+      "앱개발",
+      "AI/빅데이터"
+    ],
+    "통신": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "철도차량": [
+      "차량정비",
+      "차량검수",
+      "유지보수",
+      "부품관리"
+    ],
+    "기계": [
+      "기계설비",
+      "플랜트운영",
+      "설비보전",
+      "기계설계"
+    ],
+    "전기": [
+      "전기설비",
+      "전력계통",
+      "배전관리",
+      "전기안전"
+    ],
+    "환경": [
+      "환경관리",
+      "폐기물처리",
+      "대기관리",
+      "수질관리"
+    ]
+  },
+  "core_values": [
+    "안전",
+    "고객",
+    "상생",
+    "신뢰",
+    "혁신"
+  ],
+  "talent_image": "SRT의 안전과 서비스를 책임지는 철도 전문인재",
+  "slogan": "빠르고 편리한 SRT",
+  "positions": [
+    "경영기획",
+    "사업관리",
+    "마케팅/홍보",
+    "고객서비스",
+    "IT/ICT",
+    "운전",
+    "승무",
+    "통신",
+    "철도차량",
+    "기계",
+    "전기",
+    "환경"
+  ],
+  "mission": "SRT 운영을 통한 국민의 이동 편의 증진과 철도산업 발전",
+  "vision": "고객과 함께 성장하는 고속철도 전문기업",
+  "recent_initiatives": [
+    "SRT 노선 확대",
+    "프리미엄 서비스 강화",
+    "비대면 서비스 확대",
+    "친환경 철도 운영",
+    "고객 맞춤 서비스 개발"
+  ],
+  "recruitment_news": [
+    {
+      "title": "SR, 국군장병 취업박람회 채용 부스 운영 - 브릿지경제",
+      "date": "2025-05-08",
+      "summary": "SR, 국군장병 취업박람회 채용 부스 운영브릿지경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBZVF4NlMtVGowY3h6MERkMjc1OTNfUTFyTm1TYnBHVng1TndybUtUa3RqOVdCMkF2Tkx4WEdxdjBDRXJEWEtqLVJseEJPcEp0Q2l2aDJZNUZMdw?oc=5"
+    },
+    {
+      "title": "법원 \"부정 청탁으로 뽑힌 SR 직원들, 근로계약 취소\"…이유는?[법대로] - 뉴시스",
+      "date": "2025-03-15",
+      "summary": "법원 \"부정 청탁으로 뽑힌 SR 직원들, 근로계약 취소\"…이유는?[법대로]뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vbTN4YkdnbEdJcnJBb0NOLUEyY2E1bWRiWk9UMmpjZjk4cHRZaFV1U0ViR19ycFpOTlhLcy1OejREMGlSMTg4UFdHdVlCV1gzMEJrZjVPVjJzVEZrV3cwWdIBeEFVX3lxTFA5dHR5Y3ZNUVJOeU1uTTNTdnFWS2RaUDBpVEFiQndTTEFjY01KbFc2anZocDdObGFUT0R5aG9qS3lCRWhIejRVeTdwUU9ydnVBelZnRnVMQ2xnSm5XRnRPTDN5MGxmenhuYW95MkNfVlBlVTBRNmFnRg?oc=5"
+    },
+    {
+      "title": "SR, 2024년 일반직·계약직 추가 채용 - 전기신문",
+      "date": "2024-11-04",
+      "summary": "SR, 2024년 일반직·계약직 추가 채용전기신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjelpDa2VHVGlWbGxBa0tlNDcyRlBRNmZDSG45NF9yYkhHeXRCWDVtajhLZVJYZG05YndiUTIwV2xIelM5dVgzczFXeFZuT2pYRXZuTjB1bDJRaWdXM1RjQmQzT3pNVVFnTURvMdIBcEFVX3lxTE5tVGJvRVNsc3ZNbHNXMGlSNHpYMGdwZkxibk9XUUpRWk1SQ2RQWUhYS0VVUkRkdUZzeTNCQXFRa1VHSUt3YU14YWh6Z1lmbDN4ZjZSYVpjZlBHSWNibXJMWl85ZHJqYUlTelFKakpmY1g?oc=5"
+    },
+    {
+      "title": "SR, 일반·계약직 총 37명 채용…14일까지 원서접수 - 연합뉴스",
+      "date": "2024-11-04",
+      "summary": "SR, 일반·계약직 총 37명 채용…14일까지 원서접수연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MSDRRZXFTOHJERDllQ2FFMmZ1azllUzBMeTBaenpnN1VyM3JNQ1BiMjZQM3FmakNKX3NLTFRJWWc4TU0wTC1YOGRvUnBSeGpFM05WZ29Fd2FPRVHSAWBBVV95cUxPdWZ5cVQ5cHJpQlkxeWp2d0xYRWdqaVJSOFFUSE1LNW51MlVQcTc4akRpNXNzeDc4SExuOTMxMVNUVTVHbnhaSnNUd2NiaE5wbkZYSjdOZmFKVHlkbXJXYzI?oc=5"
+    },
+    {
+      "title": "“청년 희망 짓밟혔다” 소송 낸 SR 채용비리 피해자…법원 판단은? - KBS 뉴스",
+      "date": "2020-05-19",
+      "summary": "“청년 희망 짓밟혔다” 소송 낸 SR 채용비리 피해자…법원 판단은?KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44X243M0pxd2pJdlJTb0ZXM2pSN2piLTFsWWk2ZUVQZmJySC14RTdRZGhxelp4N2F6aHhEa1Bva1JTZ3VpSWo3MTZ3ZE5zM3ZvRDZsN0QxRUJGR2s?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.srail.or.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 1~2회",
+    "method": "NCS 기반 블라인드 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "면접전형"
+    ],
+    "characteristics": [
+      "인프라 전문성",
+      "현장 중심",
+      "전국 배치"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

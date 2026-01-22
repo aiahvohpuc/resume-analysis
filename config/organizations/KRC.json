@@ -1,0 +1,188 @@
+{
+  "code": "KRC",
+  "name": "한국농어촌공사",
+  "category": "산업진흥/기타",
+  "description": "한국농어촌공사 - 농어촌 자원의 효율적 개발·관리로 농어촌 발전과 국민 삶의 질 향상",
+  "keywords": [
+    "농어촌",
+    "농업기반",
+    "농지은행",
+    "관개",
+    "저수지",
+    "용수",
+    "농촌정비",
+    "스마트팜",
+    "해외농업",
+    "농업용수"
+  ],
+  "keywords_by_position": {
+    "사무직": [
+      "정책기획",
+      "농지관리",
+      "사업운영"
+    ],
+    "토목": [
+      "농업기반",
+      "수리시설",
+      "농촌정비",
+      "토목설계",
+      "시공관리"
+    ],
+    "기계": [
+      "양·배수장",
+      "관개시설",
+      "설비관리",
+      "기계설비",
+      "플랜트운영"
+    ],
+    "전기": [
+      "전기설비",
+      "자동화시스템",
+      "전력계통",
+      "배전관리",
+      "전기안전"
+    ],
+    "경영기획": [
+      "경영기획",
+      "사업관리",
+      "조직진단",
+      "리스크관리"
+    ],
+    "사업관리": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "인사/총무": [
+      "채용관리",
+      "교육훈련",
+      "인사평가",
+      "노무관리"
+    ],
+    "재무/회계/감사": [
+      "회계관리",
+      "재무분석",
+      "결산",
+      "세무"
+    ],
+    "IT/ICT": [
+      "시스템개발",
+      "웹개발",
+      "앱개발",
+      "AI/빅데이터"
+    ]
+  },
+  "core_values": [
+    "상생",
+    "안전",
+    "전문성",
+    "혁신",
+    "청렴"
+  ],
+  "talent_image": "농어촌의 가치를 높이고 지속가능한 발전을 이끄는 농업기반 전문인재",
+  "slogan": "농어촌의 내일을 함께합니다",
+  "positions": [
+    "경영기획",
+    "사업관리",
+    "인사/총무",
+    "재무/회계/감사",
+    "토목",
+    "기계",
+    "전기",
+    "IT/ICT"
+  ],
+  "mission": "농어촌 자원의 효율적 개발·관리로 농어촌 발전과 국민 삶의 질 향상",
+  "vision": "농어촌과 국민을 잇는 환경·생명·문화의 공간을 만드는 전문기관",
+  "recent_initiatives": [
+    "스마트 관개시스템 도입",
+    "농촌 태양광 사업 확대",
+    "저수지 안전관리 강화",
+    "농지 집적·이용 촉진",
+    "탄소중립 농업기반 구축"
+  ],
+  "recruitment_news": [
+    {
+      "title": "한국농어촌공사 달성지사 일반계약직(병역휴직 대체인력-농지은행사업 종사) 채용 공고 - go.seoul.co.kr",
+      "date": "2026-01-12",
+      "summary": "한국농어촌공사 달성지사 일반계약직(병역휴직 대체인력-농지은행사업 종사) 채용 공고go.seoul.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYXhrNEg5RG5QSU5mWFlmaVBuOFo5WGpUUnkyR2hQaUE0NVBtYjZBNnc3V2ZFSERLRzVSLXVhSVVmU0dEd2pRNW5FRnBLRGE3eXdvWFhoYTdJOE4wTm1vZE0xUGoyOGktTmVUU2xaM1YyeGFIOWIzYlR5ZTNwU1NjaHpmMnQ?oc=5"
+    },
+    {
+      "title": "농어촌공사, 신입사원 288명 공개채용... 10월 15일 접수마감 - 한국농촌경제신문",
+      "date": "2025-09-30",
+      "summary": "농어촌공사, 신입사원 288명 공개채용... 10월 15일 접수마감한국농촌경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YQ2ZLUmxjaGNYVlNybkIxY0c1V3VxbWpvTEhvSVd5TDZZSEdhYmR5bkh2RmZ0UkQ4U2lYaTBLTGJEQ2R6SWxodUNVX1BCTzRXejh6UW53VUhrTU0?oc=5"
+    },
+    {
+      "title": "한국농어촌공사, 2025년도 신입사원 공개 채용 - jnilbo.com",
+      "date": "2025-09-30",
+      "summary": "한국농어촌공사, 2025년도 신입사원 공개 채용jnilbo.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xS0VNcU5MTm9TbUlweHMxeFpCbXU4UDIwN3FUV2duSk9Ib1dWcjFFVXY2NHVJbWhZSEczSl9oYjc2SkZYdllwNG5DdTBoYUNWNjc5Qk1mVlJxTFZMTE1SbFBSREk1SHhhOUNXcXJRZw?oc=5"
+    },
+    {
+      "title": "\"1곳만 유일 87%\"…나주혁신도시 지역인재 채용 '초라' - 뉴시스",
+      "date": "2026-01-19",
+      "summary": "\"1곳만 유일 87%\"…나주혁신도시 지역인재 채용 '초라'뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoTjV5OHRTUC0zcjZKN01Eb3NnR0tqNjdDYmRjSVJ3SXZGazdYVnNySHA5TDVlNlZvVzFEcjVVOGswR2hXMTNuWGZrQm9tQTBfTE81N1F0ZUFPckRRend1bdIBeEFVX3lxTE1lTlY2aEtoTHRQQ2dLSm41Sk1QTUZZRFUzQWprcUg2cHZkZjJBNm9BbWVUVzlnZ3pTNWJQRlEtSHhISUwxZHZUTzUzWTdGbUc2alQwemJvWWpZeC1oQkllMGtraC1WZG5LRTJ5Z1RhSmV0cld1dkFlVw?oc=5"
+    },
+    {
+      "title": "한국농어촌공사 충남지역본부 일용직(경사면 광역제초기 운전) 공개경쟁 채용 - go.seoul.co.kr",
+      "date": "2026-01-10",
+      "summary": "한국농어촌공사 충남지역본부 일용직(경사면 광역제초기 운전) 공개경쟁 채용go.seoul.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSUxNd1Y1bWV3ZkVtTnZMUDY0N0RHMGhCTHl1SlJocTBseWNoRXQ1SW5nU1hTRGlURnp4eVI4RE9ubVZOLS10NEd4ZlJZWEd4RFdLV0VXa1hlOHJsTEZxdEpQczNjZmE0TTgwMkVOTGpUa0pFTHVzb216Sm1IMVg0ZTliMA?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.ekr.or.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 1~2회",
+    "method": "NCS 기반 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "면접전형"
+    ],
+    "characteristics": [
+      "정책 이해도",
+      "사업 기획력",
+      "전문 분야 지식"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

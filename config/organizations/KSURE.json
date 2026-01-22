@@ -1,0 +1,169 @@
+{
+  "code": "KSURE",
+  "name": "한국무역보험공사",
+  "category": "금융",
+  "description": "한국무역보험공사 - 무역보험을 통한 수출기업 지원과 국가경쟁력 강화",
+  "keywords": [
+    "무역보험",
+    "수출보험",
+    "해외투자보험",
+    "환위험",
+    "국가리스크",
+    "신용위험",
+    "무역금융",
+    "수출지원",
+    "글로벌",
+    "언더라이팅"
+  ],
+  "keywords_by_position": {
+    "금융": [
+      "언더라이팅",
+      "리스크분석",
+      "보험심사",
+      "채권관리"
+    ],
+    "경영기획": [
+      "전략기획",
+      "상품개발",
+      "해외사업",
+      "경영기획",
+      "사업관리"
+    ],
+    "보험심사": [
+      "국가리스크",
+      "기업심사",
+      "손해사정",
+      "정책기획",
+      "예산관리"
+    ],
+    "IT/ICT": [
+      "시스템운영",
+      "데이터분석",
+      "핀테크",
+      "시스템개발",
+      "웹개발"
+    ],
+    "재무/회계/감사": [
+      "회계관리",
+      "재무분석",
+      "결산",
+      "세무"
+    ],
+    "법무/노무": [
+      "법률검토",
+      "계약관리",
+      "소송관리",
+      "컴플라이언스"
+    ]
+  },
+  "core_values": [
+    "고객중심",
+    "글로벌",
+    "신뢰",
+    "전문성",
+    "혁신"
+  ],
+  "talent_image": "무역금융 전문지식으로 수출기업을 지원하는 글로벌 인재",
+  "slogan": "수출기업의 든든한 보험 파트너",
+  "positions": [
+    "금융",
+    "경영기획",
+    "재무/회계/감사",
+    "보험심사",
+    "법무/노무",
+    "IT/ICT"
+  ],
+  "mission": "무역보험을 통한 수출기업 지원과 국가경쟁력 강화",
+  "vision": "글로벌 무역금융의 선도기관",
+  "recent_initiatives": [
+    "중소기업 수출보험 지원 확대",
+    "친환경 수출기업 우대 프로그램",
+    "디지털 무역금융 서비스 강화",
+    "신흥시장 리스크 관리 강화",
+    "K-방산 수출 보험 지원"
+  ],
+  "recruitment_news": [
+    {
+      "title": "[오늘의 공기업 채용정보] 한국무역보험공사, 2025년 하반기 일반직 신입사원 30명 채용 - 아웃소싱타임스",
+      "date": "2025-08-19",
+      "summary": "[오늘의 공기업 채용정보] 한국무역보험공사, 2025년 하반기 일반직 신입사원 30명 채용아웃소싱타임스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTN3Q2TTItRXBESFNiM0hJdlVZUkpadDMxVndGa0lSUmExdU5IVnZmdnFoMG1pbWhteE1pTG9QOXo4NU9jR0dBb3N1aF9aNDR3T1pEdUZUcUdzWTdCTF9VSTE5Zl9aX1BYTmVaQ1c1NHA2Zw?oc=5"
+    },
+    {
+      "title": "'여름 방학 마지막 기회'…인크루트, 공기업 및 공공기관 채용 공고 전해 - 뉴스핌",
+      "date": "2025-08-14",
+      "summary": "'여름 방학 마지막 기회'…인크루트, 공기업 및 공공기관 채용 공고 전해뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MNDJyWWt5S0RHTHE1TEdxZnp5dXpUSXBZVW5aYkx0SkFsTmw4dnJxTmdCc3QxZTctWHRZODVxUW1tRmNQQkR4aU1uN1BlV0VlSlp0bDdvMnlNTS1o?oc=5"
+    },
+    {
+      "title": "혁신하는 공공기관, 경제 활성화·사회적 가치 실현 선도 - 한국경제",
+      "date": "2025-04-28",
+      "summary": "혁신하는 공공기관, 경제 활성화·사회적 가치 실현 선도한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jQ1BkYWhUN3IwOWNpdEY5VWd4eXhnMGZVQ2hHOHZCZWFSWmM3RGV5clBMd2I2SzlaVWs0dkJ3OGx6OVZjeHpDV1I2VlhCLVpLajFLRlpTbVBvd9IBVEFVX3lxTE1pUWxwOVlaX043T2ExdnpvcUZUcWdHZ0RMZk5hSExFeGRNODBEQ1ZtOGRRSlBZczM1eXlXZjh5eVhUWGxTSFhpSlNZWlRDUHVlSkpFdw?oc=5"
+    },
+    {
+      "title": "인크루트, 공기업 및 공공기관 채용 공고 소식 소개 - 로이슈",
+      "date": "2025-08-14",
+      "summary": "인크루트, 공기업 및 공공기관 채용 공고 소식 소개로이슈",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ITUx5ejdDcXZINVVpbkRDVXNodkVBS3lxbGFYaktzOVRWNnNVVWxjTE05eDdJbDQ5Q2h5eFAyV3RTUTRHb0RvUm1lTFlpWWZPYWNTUnNqUWMwNk9YNnRGT1BsaEJ0X2NCVk1MRDlSb0dkUFZhclVQdg?oc=5"
+    },
+    {
+      "title": "공기업 및 공공기관, 2025 하반기 채용 공고 전해 - 일간투데이",
+      "date": "2025-08-14",
+      "summary": "공기업 및 공공기관, 2025 하반기 채용 공고 전해일간투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaMGpRV0JCcVphN3JNMmhzdWotLTd5eFFGUnhQOVlONm9IOFJ6clA5TjZYZVhvdmFZWmpMRlR6cTBaMkdWck9wWDl1NWZSeEVBNXlTVkxJTG5sbEZlNUR0U2I0djVKT05uYXfSAW5BVV95cUxORm1GX29rcXpNWWFta0xMT1pwOF9YYWxlRGNJWVNRY0NQMlQzVjZkVTVldXJFMkhfbGhXVmJUTTVJdHY0NWYyck9CcDVNZEx0am14ZnJNR25idEhIOEMyZkE4UnJVRFpvb042ck9OUQ?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.ksure.or.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 1~2회",
+    "method": "NCS 기반 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "면접전형"
+    ],
+    "characteristics": [
+      "금융 전문성",
+      "분석력 중시",
+      "자격증 우대"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "code": "SMRT",
+  "name": "서울교통공사",
+  "category": "SOC/교통/환경",
+  "description": "서울교통공사 - 안전하고 편리한 도시철도 서비스로 시민의 이동권 보장",
+  "keywords": [
+    "지하철",
+    "도시철도",
+    "역사",
+    "안전",
+    "스크린도어",
+    "전동차",
+    "승무",
+    "역무",
+    "교통",
+    "시민서비스"
+  ],
+  "keywords_by_position": {
+    "사무직": [
+      "경영기획",
+      "고객서비스",
+      "안전관리"
+    ],
+    "운전": [
+      "전동차운전",
+      "관제"
+    ],
+    "역무": [
+      "역무",
+      "승무",
+      "고객응대"
+    ],
+    "차량": [
+      "전동차정비",
+      "기계정비",
+      "전기정비"
+    ],
+    "경영기획": [
+      "경영기획",
+      "사업관리",
+      "조직진단",
+      "리스크관리"
+    ],
+    "사업관리": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "인사/총무": [
+      "채용관리",
+      "교육훈련",
+      "인사평가",
+      "노무관리"
+    ],
+    "재무/회계/감사": [
+      "회계관리",
+      "재무분석",
+      "결산",
+      "세무"
+    ],
+    "고객서비스": [
+      "고객상담",
+      "민원처리",
+      "서비스품질",
+      "VOC관리"
+    ],
+    "운전(전동차기관사)": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "승무(역무/승무)": [
+      "역무관리",
+      "여객서비스",
+      "안전관리",
+      "운행관리"
+    ],
+    "철도차량": [
+      "차량정비",
+      "차량검수",
+      "유지보수",
+      "부품관리"
+    ],
+    "전기": [
+      "전기설비",
+      "전력계통",
+      "배전관리",
+      "전기안전"
+    ],
+    "전기철도": [
+      "전기설비",
+      "전력계통",
+      "배전관리",
+      "전기안전"
+    ],
+    "IT/ICT": [
+      "시스템개발",
+      "웹개발",
+      "앱개발",
+      "AI/빅데이터"
+    ],
+    "통신": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "철도토목": [
+      "토목설계",
+      "시공관리",
+      "구조물점검",
+      "도로관리"
+    ],
+    "철도신호": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "궤도": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "기계": [
+      "기계설비",
+      "플랜트운영",
+      "설비보전",
+      "기계설계"
+    ],
+    "토목": [
+      "토목설계",
+      "시공관리",
+      "구조물점검",
+      "도로관리"
+    ],
+    "건축": [
+      "건축설계",
+      "시설물관리",
+      "건축허가",
+      "인테리어"
+    ],
+    "승강장안전문": [
+      "산업안전",
+      "재해예방",
+      "안전점검",
+      "비상대응"
+    ],
+    "지하철보안": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ]
+  },
+  "core_values": [
+    "안전",
+    "고객",
+    "소통",
+    "혁신",
+    "청렴"
+  ],
+  "talent_image": "서울 지하철의 안전과 서비스를 책임지는 전문인재",
+  "slogan": "서울의 발, 시민의 발",
+  "positions": [
+    "경영기획",
+    "사업관리",
+    "인사/총무",
+    "재무/회계/감사",
+    "고객서비스",
+    "운전(전동차기관사)",
+    "승무(역무/승무)",
+    "철도차량",
+    "전기",
+    "전기철도",
+    "IT/ICT",
+    "통신",
+    "철도토목",
+    "철도신호",
+    "궤도",
+    "기계",
+    "토목",
+    "건축",
+    "승강장안전문",
+    "지하철보안"
+  ],
+  "mission": "안전하고 편리한 도시철도 서비스로 시민의 이동권 보장",
+  "vision": "시민과 함께하는 세계 최고의 도시철도",
+  "recent_initiatives": [
+    "지하철 안전시설 강화",
+    "무인운전 확대",
+    "스크린도어 전면 설치",
+    "역사 환경개선",
+    "스마트 역사 구축"
+  ],
+  "recruitment_news": [
+    {
+      "title": "[채용게시판] 한국수자원공사·서울교통공사 등 모집 - v.daum.net",
+      "date": "2026-01-04",
+      "summary": "[채용게시판] 한국수자원공사·서울교통공사 등 모집v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wZDRReGNFMGcxR3BWekpXTEJsNk5SSTA2aVFmQmhJbFlIWjZ3cXY3OVJ4cy1TbjBLeXRYQVBYTjdENWg1RXVxWGEwYWJ1Vjg?oc=5"
+    },
+    {
+      "title": "서울교통공사, 15개 분야 820명 공개채용…청년 일자리 창출 본격화 - 문화일보",
+      "date": "2025-12-30",
+      "summary": "서울교통공사, 15개 분야 820명 공개채용…청년 일자리 창출 본격화문화일보",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBORUg0V21fZ1dLWE9ONDJBd1hSTDNLYVJ2S2U3NTF5TDEzUVg5cldjRlotWkt5VFZFLUtQQ1o0ZVpUeEVRTGgycG5oeHh4aWRk?oc=5"
+    },
+    {
+      "title": "지방공기업 최대 규모 채용...서울교통공사, 청년 일자리 창출·안전 인력 확충 - 한국철도일보",
+      "date": "2025-12-30",
+      "summary": "지방공기업 최대 규모 채용...서울교통공사, 청년 일자리 창출·안전 인력 확충한국철도일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50RHV3clpKQkIyX0tLdWNqSml5eS0yeUtIUjJOcFdVNlB0UllBTlhZbGpUbUJaSW0xemx0ak1Pa2JDMHhuaGdsREdvcmdlZ0gxcVczOHp1b1Z1Y00yLTJIOEwxUVg2allKUFY2ZzQtWQ?oc=5"
+    },
+    {
+      "title": "식약처·서울교통공사 등 2026년 상반기 공공기관 채용 본격화 - 로이슈",
+      "date": "2026-01-14",
+      "summary": "식약처·서울교통공사 등 2026년 상반기 공공기관 채용 본격화로이슈",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZM3hXQVhWSXlOQjFLbUhSNHluVGlrTHJyLTd4dEhPZ2lrR0RVOVEtRkFlMHFTOE5lS3VSRUNOTjVySk9BX09mbjdsZEZGcVVGNUZmWnhQLUJDb0w5SWxSLW00T1F0eUpUekd4LTctTzI4RVl1cDBDc2tn?oc=5"
+    },
+    {
+      "title": "서울교통공사, 신입사원 820명 대규모 공채…청년 일자리 창출 - 위클리서울",
+      "date": "2025-12-30",
+      "summary": "서울교통공사, 신입사원 820명 대규모 공채…청년 일자리 창출위클리서울",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94UTUzaG5PT1Nzbmc0QmxwSXp5R0VaSWVuMkF5Wk1LdTdQVE5qcWVaczRyME9VRFhBcWFHRDN3bG5Ta3hreFVLdzE3Zzl3bGZlNl9jYTE2R0V3OHNmcGROdjFHMm9uVlQxbU9oX0Z3?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.seoulmetro.co.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 1~2회",
+    "method": "NCS 기반 블라인드 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "면접전형"
+    ],
+    "characteristics": [
+      "인프라 전문성",
+      "현장 중심",
+      "전국 배치"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

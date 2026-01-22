@@ -1,0 +1,162 @@
+{
+  "code": "KAMCO",
+  "name": "한국자산관리공사",
+  "category": "금융",
+  "description": "한국자산관리공사 - 부실채권 정리 및 국유재산 관리를 통한 금융시장 안정과 국가재정 기여",
+  "keywords": [
+    "자산관리",
+    "부실채권",
+    "국유재산",
+    "온비드",
+    "채무조정",
+    "기업구조조정",
+    "NPL",
+    "공매",
+    "재정기여",
+    "금융안정"
+  ],
+  "keywords_by_position": {
+    "금융": [
+      "채권관리",
+      "자산평가",
+      "구조조정",
+      "리스크관리"
+    ],
+    "경영기획": [
+      "전략기획",
+      "사업개발",
+      "경영분석",
+      "경영기획",
+      "사업관리"
+    ],
+    "건축": [
+      "부동산관리",
+      "시설평가",
+      "국유재산관리",
+      "건축설계",
+      "시설물관리"
+    ],
+    "IT/ICT": [
+      "온비드운영",
+      "시스템개발",
+      "데이터분석",
+      "웹개발",
+      "앱개발"
+    ],
+    "재무/회계/감사": [
+      "회계관리",
+      "재무분석",
+      "결산",
+      "세무"
+    ]
+  },
+  "core_values": [
+    "부실채권 정리",
+    "공적자산 관리",
+    "소통",
+    "책임",
+    "전문성"
+  ],
+  "talent_image": "자산관리 전문지식으로 국가경제에 기여하는 인재",
+  "slogan": "자산의 가치를 높이는 KAMCO",
+  "positions": [
+    "금융",
+    "경영기획",
+    "재무/회계/감사",
+    "건축",
+    "IT/ICT"
+  ],
+  "mission": "부실채권 정리 및 국유재산 관리를 통한 금융시장 안정과 국가재정 기여",
+  "vision": "공적자산관리의 글로벌 리더",
+  "recent_initiatives": [
+    "소상공인 채무조정 지원 확대",
+    "온비드 플랫폼 고도화",
+    "ESG 경영 강화",
+    "디지털 자산관리 시스템 구축",
+    "국유재산 활용도 제고"
+  ],
+  "recruitment_news": [
+    {
+      "title": "부산 이전 8개 공공기관, 6년간 지역인재 774명 채용 - 네이트",
+      "date": "2025-06-11",
+      "summary": "부산 이전 8개 공공기관, 6년간 지역인재 774명 채용네이트",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtTmxtQU9ralBzeXBjZlFyS2RUN2dfZW5iMGtRcThOcTFSMFR0T1plRUNEZ0pKMldIQ2Zlckt5aWJfbkZGU082NXYwcDRqMTduckJ6MVBERnZmdkFxZWxhaw?oc=5"
+    },
+    {
+      "title": "금융공기업도 채용 확대 박차···\"포용금융 실천할 인재 필요\" [2025 금융권 공동채용 박람회] - 한국금융신문",
+      "date": "2025-08-20",
+      "summary": "금융공기업도 채용 확대 박차···\"포용금융 실천할 인재 필요\" [2025 금융권 공동채용 박람회]한국금융신문",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlOXJ2a2ItOEY2QlpoMzNCa0ZBRWRCSzN4TkRTYnRNVXJqS2tYTDlkNi15eEZYdVNaay1TSnBvY0MzMkJ0T1VsaTZFQVJUa0lwclpjUUdYYjRvWS1xRmlIS0ZwUEpzMzdPamZQcEFBTUtVWkR3RVplQ1BubUg?oc=5"
+    },
+    {
+      "title": "한국자산관리공사, '채용 경쟁률' 81.1:1 기록 - 이코노믹포스트",
+      "date": "2022-05-23",
+      "summary": "한국자산관리공사, '채용 경쟁률' 81.1:1 기록이코노믹포스트",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLWF9iemxaSDRZV0oyOUdYc25zTnJsdHZYc0NYZk5FVDZRZVk5em00TW5qdVhtclBmNnExV1NjOTBEZGt5bW1HbTB0cw?oc=5"
+    },
+    {
+      "title": "한국자산관리공사, 역대 최대 규모 신규직원 채용공고 - 퍼블릭뉴스",
+      "date": "2024-04-08",
+      "summary": "한국자산관리공사, 역대 최대 규모 신규직원 채용공고퍼블릭뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqT3NrVmc5WEJmM0dlU1BMWlIxbW9jdXJrdU9LTjFXR1JZZG9qUGdvb1B0MndLelhQS2J6Z29ub2NOYjMwVTVIbW0tWm1BcV9xVjlqc2M3WkpyczRsaENEemIxMzdGcks2YzhncQ?oc=5"
+    },
+    {
+      "title": "2021년도 한국자산관리공사 하반기 경력직 채용공고 - 법률저널",
+      "date": "2021-09-23",
+      "summary": "2021년도 한국자산관리공사 하반기 경력직 채용공고법률저널",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PYnRkek1ocGJQMGg4RW5HZXk1cnFjeHFPY1h3anBKWC10Nnh1M2YtQUt6cDEyQnRla2ppQ3YzX2dWS2lxLXhSeDlFUWp2bjJ1M0dBR3hMUmVlSFFZcEstcHdTOFBZdw?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.kamco.or.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 1~2회",
+    "method": "NCS 기반 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "면접전형"
+    ],
+    "characteristics": [
+      "금융 전문성",
+      "분석력 중시",
+      "자격증 우대"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

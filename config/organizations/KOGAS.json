@@ -1,0 +1,210 @@
+{
+  "code": "KOGAS",
+  "name": "한국가스공사",
+  "category": "에너지/발전",
+  "description": "한국가스공사 - 천연가스의 안정적 공급을 통한 국민 생활 향상과 국가 경제 발전",
+  "keywords": [
+    "천연가스",
+    "LNG",
+    "배관망",
+    "에너지",
+    "수소",
+    "도시가스",
+    "자원개발",
+    "플랜트",
+    "저장탱크",
+    "청정에너지"
+  ],
+  "keywords_by_position": {
+    "사무직": [
+      "경영기획",
+      "가스영업",
+      "해외사업",
+      "자원개발"
+    ],
+    "기계": [
+      "플랜트운영",
+      "배관설비",
+      "압축기운전",
+      "기계설비",
+      "설비보전"
+    ],
+    "전기": [
+      "전기설비",
+      "계장제어",
+      "전력계통",
+      "배전관리",
+      "전기안전"
+    ],
+    "화공": [
+      "가스처리",
+      "환경관리",
+      "공정운영",
+      "공정관리",
+      "화학물질"
+    ],
+    "경영기획": [
+      "경영기획",
+      "사업관리",
+      "조직진단",
+      "리스크관리"
+    ],
+    "사업관리": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "재무/회계/감사": [
+      "회계관리",
+      "재무분석",
+      "결산",
+      "세무"
+    ],
+    "법무/노무": [
+      "법률검토",
+      "계약관리",
+      "소송관리",
+      "컴플라이언스"
+    ],
+    "IT/ICT": [
+      "시스템개발",
+      "웹개발",
+      "앱개발",
+      "AI/빅데이터"
+    ],
+    "토목": [
+      "토목설계",
+      "시공관리",
+      "구조물점검",
+      "도로관리"
+    ],
+    "건축": [
+      "건축설계",
+      "시설물관리",
+      "건축허가",
+      "인테리어"
+    ],
+    "지질": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ]
+  },
+  "core_values": [
+    "수소경제 선도",
+    "가스 공급 안정",
+    "안전",
+    "상생",
+    "신뢰"
+  ],
+  "talent_image": "에너지의 미래를 개척하는 글로벌 전문인재",
+  "slogan": "깨끗한 에너지, 밝은 미래",
+  "positions": [
+    "경영기획",
+    "사업관리",
+    "재무/회계/감사",
+    "법무/노무",
+    "기계",
+    "전기",
+    "화공",
+    "IT/ICT",
+    "토목",
+    "건축",
+    "지질"
+  ],
+  "mission": "천연가스의 안정적 공급을 통한 국민 생활 향상과 국가 경제 발전",
+  "vision": "글로벌 종합에너지기업",
+  "recent_initiatives": [
+    "수소경제 선도기업 전환",
+    "LNG 터미널 증설",
+    "탄소중립 LNG 도입",
+    "배관망 스마트화",
+    "해외 가스전 개발 확대"
+  ],
+  "recruitment_news": [
+    {
+      "title": "'열린 채용' 가스공사, 하반기 신입사원 94명 선발 - fnnews.com",
+      "date": "2025-12-16",
+      "summary": "'열린 채용' 가스공사, 하반기 신입사원 94명 선발fnnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iM3B0TC1lNm1TTHlneDFqd3JYdXdEZHM0ckZYVmN5WDdSQWRZeGNhRDZ6dDNtNW4yaUtEUUs5TDhDemF3NHhuMVFoRjdZYmFkOWNBVkpWTTI4d9IBXkFVX3lxTE5MSnJ1d1oyMGtfUVptUlNKUHBTYVE0M1lRTXplV3FXVHItYVRZQXFzTUY3MEU3WWZRN20zUmRxazZQckhEZ0JZZDhEeXBBMFlUWGkxV0ZVdjM2NGhwa3c?oc=5"
+    },
+    {
+      "title": "가스공사, 하반기 신입 94명 채용…조직에 새 피 수혈 - 위키리크스한국",
+      "date": "2025-12-17",
+      "summary": "가스공사, 하반기 신입 94명 채용…조직에 새 피 수혈위키리크스한국",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YTmZJT3NQc3RETWtkUXo4Wmx3azdfanl3S3duRzFIaFpaNlVSWFNsYmREVkJuMjdmb183Tzk2UEVJd2VMZVF4c1p3TERQWFU1cjl0ZzJEYm9ZVmlXNnlZdWkyTmQzcVk0VnNVVWU5aw?oc=5"
+    },
+    {
+      "title": "가스공사, 마케팅 등 2025년 하반기 신입사원 94명 채용 - 더팩트",
+      "date": "2025-12-16",
+      "summary": "가스공사, 마케팅 등 2025년 하반기 신입사원 94명 채용더팩트",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BazNjR0RZenpRb002UU92U0R6dDh0NEhkWk14OUtHbGk2WGV2d3k4M1dkZ0JCbTVnZmMxTjJUcnI1enBXRW5OSzJxLXhZZmdXUjdZYm1wbF9vUdIBVEFVX3lxTE1DZGRpeHFVWUZZRUU2TkxJNF9xaG9KMkN3eXVESUdrd1hVbHZNcGZicTl1czd4aERMSEFrUXp0UVZlY2JKck9pUS1qLXhuZG1ERDQwSA?oc=5"
+    },
+    {
+      "title": "가스공사, 2025년 하반기 신입사원 94명 채용 - 전자신문",
+      "date": "2025-12-16",
+      "summary": "가스공사, 2025년 하반기 신입사원 94명 채용전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1lRGdqVU9VR0swRGNCU3RaR212ODkybWhPdEhSUXJTTnlzVFBVNnhXUDMtb3gzaHpNRUNqTXB2cUFabllneHY2dGZjeFBfQQ?oc=5"
+    },
+    {
+      "title": "가스공사, 2025년 하반기 신입사원 94명 채용 - 중소기업신문",
+      "date": "2025-12-16",
+      "summary": "가스공사, 2025년 하반기 신입사원 94명 채용중소기업신문",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYeGdmNk9zakE2bThVaElkeVlNdjJJakFyYnI1eGVLRlEwR3ZkeXlmS0RhYkFHY28yQkxmUVhKdmZTam8wbmNCSTZJbWsyWHQwUmdXeGJDX3VENkNvcVNaQmRZVVBmMl9GWEVkN1Nn?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.kogas.or.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 1~2회",
+    "method": "NCS 기반 블라인드 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "면접전형"
+    ],
+    "characteristics": [
+      "화공/기계 전공 우대",
+      "현장 근무 비중",
+      "안전의식 강조"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "code": "KOROAD",
+  "name": "도로교통공단",
+  "category": "SOC/교통/환경",
+  "description": "도로교통공단 - 교통안전 교육과 연구로 국민의 생명과 재산 보호",
+  "keywords": [
+    "교통안전",
+    "운전면허",
+    "교통교육",
+    "사고조사",
+    "교통연구",
+    "교통방송",
+    "안전운전",
+    "자율주행",
+    "빅데이터",
+    "교통정책"
+  ],
+  "keywords_by_position": {
+    "사무직": [
+      "경영기획",
+      "교육운영",
+      "면허관리",
+      "고객서비스"
+    ],
+    "교육/훈련": [
+      "교통교육",
+      "면허시험",
+      "안전교육",
+      "정책기획",
+      "예산관리"
+    ],
+    "IT/ICT": [
+      "시스템운영",
+      "데이터분석",
+      "정보보안",
+      "시스템개발",
+      "웹개발"
+    ],
+    "경영기획": [
+      "경영기획",
+      "사업관리",
+      "조직진단",
+      "리스크관리"
+    ],
+    "사업관리": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "인사/총무": [
+      "채용관리",
+      "교육훈련",
+      "인사평가",
+      "노무관리"
+    ],
+    "재무/회계/감사": [
+      "회계관리",
+      "재무분석",
+      "결산",
+      "세무"
+    ],
+    "고객서비스": [
+      "고객상담",
+      "민원처리",
+      "서비스품질",
+      "VOC관리"
+    ],
+    "도시계획(교통)": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ]
+  },
+  "core_values": [
+    "안전",
+    "소통",
+    "전문성",
+    "혁신",
+    "청렴"
+  ],
+  "talent_image": "교통안전 교육과 정책을 이끄는 전문인재",
+  "slogan": "안전한 교통, 행복한 국민",
+  "positions": [
+    "경영기획",
+    "사업관리",
+    "인사/총무",
+    "재무/회계/감사",
+    "교육/훈련",
+    "고객서비스",
+    "IT/ICT",
+    "도시계획(교통)"
+  ],
+  "mission": "교통안전 교육과 연구로 국민의 생명과 재산 보호",
+  "vision": "국민이 신뢰하는 교통안전 전문기관",
+  "recent_initiatives": [
+    "고령운전자 교육 강화",
+    "자율주행 안전기준 연구",
+    "빅데이터 기반 사고분석",
+    "비대면 면허교육 확대",
+    "교통안전 문화 확산"
+  ],
+  "recruitment_news": [
+    {
+      "title": "도로교통공단, 4분기 실무직 공개 채용 - 국토일보",
+      "date": "2025-11-18",
+      "summary": "도로교통공단, 4분기 실무직 공개 채용국토일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCR1V1YnR3WDZBSjNuY0g2QU5YUWJvWDdnWmhYQ29fbE1OSHVHMkxFOXBsaXFTazROc3RoOG10ZHliRUdhd2RrUXVUUmp3aHpYVTlQbmUtbG1VV1FfdmRIR2d2UEM?oc=5"
+    },
+    {
+      "title": "한국도로교통공단, 2025년 4분기 실무직 (무기계약직) 공개 채용 - wbcb.co.kr",
+      "date": "2025-11-18",
+      "summary": "한국도로교통공단, 2025년 4분기 실무직 (무기계약직) 공개 채용wbcb.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xMERmSHZZUlNFMjI2VklVZ3I5REwyem9CQWVaeTRQLVRqWWxYOEV2R2pXc1dOckM3QWdpTVFvTFhlQm1PbnIzcDB6enhMMUYwd0RRVmlBSHI1cjVFcHo1NUxYZ3VPUmM?oc=5"
+    },
+    {
+      "title": "한국도로교통공단, 오는 26일까지 2025년 4분기 실무직 공개 채용 - 비즈월드",
+      "date": "2025-11-18",
+      "summary": "한국도로교통공단, 오는 26일까지 2025년 4분기 실무직 공개 채용비즈월드",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ueG1kQTFSaTFsdy03ZENNM1FHV2Q4SmF5eGlfZ3dRVVRrdVkxZzEwSUpqYmJ5ZDF1UHdzWnpHTV9TU3E0TWhrVE9SdnRGeldjXzlXRTJoN18zejM0WnlDT1FTTnlsRlRNSjJj?oc=5"
+    },
+    {
+      "title": "아산스마트팩토리마이스터고 이세훈 학생, 한국도로교통공단 NCS(국가직무능력표준)기반 공개채용 최종 합격 - ccnnews.co.kr",
+      "date": "2025-07-16",
+      "summary": "아산스마트팩토리마이스터고 이세훈 학생, 한국도로교통공단 NCS(국가직무능력표준)기반 공개채용 최종 합격ccnnews.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qME50aWo5OHFWRGpTaUlhaHhEa0ZlaEsyX0ZoYnBpaWxQS0NUVlVzSWxGWE1uWVc2NVJJcWZkMEtESTROYWFtR09WSk13dDBsSGEzdmdUUGtkZExBdUtDOUNzai1FeTA?oc=5"
+    },
+    {
+      "title": "도로교통공단, 실무직 28명 공개 채용...26일까지 접수 - MTN 머니투데이방송",
+      "date": "2025-11-18",
+      "summary": "도로교통공단, 실무직 28명 공개 채용...26일까지 접수MTN 머니투데이방송",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YdU1iMGdFUTRvYnJSTWZtWDV5QkRUM3UwM0lBT21LYllPaTJiVVdnTkZ3WWhWd0J6emNvdmlrMi1xUS1qZTFOSFBlZXE0dGFLWXctZzNJLXBfMXhmWlFEWWhHOEE?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.koroad.or.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 1~2회",
+    "method": "NCS 기반 블라인드 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "면접전형"
+    ],
+    "characteristics": [
+      "인프라 전문성",
+      "현장 중심",
+      "전국 배치"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

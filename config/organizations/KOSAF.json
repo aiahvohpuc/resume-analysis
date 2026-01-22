@@ -1,0 +1,181 @@
+{
+  "code": "KOSAF",
+  "name": "한국장학재단",
+  "category": "산업진흥/기타",
+  "description": "한국장학재단 - 학자금 지원과 장학사업으로 교육기회의 평등 실현",
+  "keywords": [
+    "장학금",
+    "학자금",
+    "대출",
+    "국가장학금",
+    "근로장학",
+    "교육",
+    "대학생",
+    "푸른등대",
+    "상환",
+    "학비"
+  ],
+  "keywords_by_position": {
+    "사무직": [
+      "장학사업",
+      "학자금관리",
+      "채권관리"
+    ],
+    "전산직": [
+      "시스템운영",
+      "데이터분석",
+      "정보보안"
+    ],
+    "고객상담": [
+      "상담서비스",
+      "민원처리",
+      "고객지원"
+    ],
+    "경영기획": [
+      "경영기획",
+      "사업관리",
+      "조직진단",
+      "리스크관리"
+    ],
+    "사업관리": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "인사/총무": [
+      "채용관리",
+      "교육훈련",
+      "인사평가",
+      "노무관리"
+    ],
+    "재무/회계/감사": [
+      "회계관리",
+      "재무분석",
+      "결산",
+      "세무"
+    ],
+    "IT/ICT": [
+      "시스템개발",
+      "웹개발",
+      "앱개발",
+      "AI/빅데이터"
+    ],
+    "고객서비스": [
+      "고객상담",
+      "민원처리",
+      "서비스품질",
+      "VOC관리"
+    ]
+  },
+  "core_values": [
+    "공정",
+    "신뢰",
+    "소통",
+    "혁신",
+    "청렴"
+  ],
+  "talent_image": "교육 평등과 인재 양성을 위해 헌신하는 장학 전문인재",
+  "slogan": "배움의 꿈, 장학재단이 함께합니다",
+  "positions": [
+    "경영기획",
+    "사업관리",
+    "인사/총무",
+    "재무/회계/감사",
+    "IT/ICT",
+    "고객서비스"
+  ],
+  "mission": "학자금 지원과 장학사업으로 교육기회의 평등 실현",
+  "vision": "모든 학생이 꿈을 펼치는 희망의 파트너",
+  "recent_initiatives": [
+    "학자금 대출 금리 인하",
+    "장학금 지원 확대",
+    "학자금 상환 부담 완화",
+    "디지털 서비스 고도화",
+    "저소득층 맞춤형 지원 강화"
+  ],
+  "recruitment_news": [
+    {
+      "title": "한국장학재단, 직원 5명 신규 채용 - 아시아경제",
+      "date": "2025-05-15",
+      "summary": "한국장학재단, 직원 5명 신규 채용아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pbWk0OGlMRkNIMElHSjlGRi0tRXpFUGRwTlFMNTdTcWJUaFVSa1lSbzRKbG1IWU5YVVJvak1GNnlwdVBNWlVTMUdlUUhhYjVOQzZ6elg0TmJyYjNCekhzLQ?oc=5"
+    },
+    {
+      "title": "한국장학재단, 하반기 수시 채용 원서 접수 마감···평균 100:1 경쟁률 - dgmbc.com",
+      "date": "2025-09-09",
+      "summary": "한국장학재단, 하반기 수시 채용 원서 접수 마감···평균 100:1 경쟁률dgmbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE82cXo1SWlSclJqTmNSMno4OUNobEZrT2czTUVZWDVRZTBrVGxqZnhXWFNwTTA2bkFNNUV2REZjNG9EYy1tVjBoVGxtNy1JNFdT?oc=5"
+    },
+    {
+      "title": "한국장학재단, 2025년 종합직·수시채용 평균 경쟁률 100대 1… 3503명 지원 - 핀포인트뉴스",
+      "date": "2025-09-10",
+      "summary": "한국장학재단, 2025년 종합직·수시채용 평균 경쟁률 100대 1… 3503명 지원핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDNG5VUUZjSUE5NGUwZS1wZm9CUUVlNDRxTlUxZ1FjTzBRMWszRERpS242OGZTTGhsM3NqZnhkMDk1WHZqRGthQWxrWC1lOXRESzNVWDdqbUFhZ1cwR1FRSTJ4bF9iVWt3ZV9jWWl6Y2phVlXSAXdBVV95cUxPZElPVWw0YXBUYTF5bm44LUxUOEw5bXVPeVgzNmpBTDhkdXFUdjhVNkx3eV9MRGJEVnEzcWhGSGxDck9uYmotaUJtN1FibVNqenJTckpaMlJHZFJUQ3JiZE9IREFlWjRFX0x0dG5sQ19meXJ0dlM3OA?oc=5"
+    },
+    {
+      "title": "한국장학재단 학자금 대출자 150만명 중 부실 채무자 ‘9만7천여명’ - yeongnam.com",
+      "date": "2026-01-08",
+      "summary": "한국장학재단 학자금 대출자 150만명 중 부실 채무자 ‘9만7천여명’yeongnam.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54Ui1RME5HY1U2ekV3UndIMWE0TXN1bXI0bEF4YzJ0NFRHOUpZaDlFNWpkRTZIakJSbUFuMmQzdEJXVlpRN09VaUtsQjJSZEpiNGp2LXhTTFlvSnlHQWNmNlU2dEczcXF6eFUw?oc=5"
+    },
+    {
+      "title": "한국장학재단, 2025년 채용 경쟁률 100대 1 기록… 구직 열기 뜨겁다 - 경기신문",
+      "date": "2025-09-09",
+      "summary": "한국장학재단, 2025년 채용 경쟁률 100대 1 기록… 구직 열기 뜨겁다경기신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ldm8xc000RVBSNmNyd1pjeVRVc0ZUSXFvY0FnWUxiYUMxMFpDa2NQRFpzZmppeUVDZlpxT2VoVnZaR1A2RVBLVlZndWJ2ck9xRVhIMGJranI1TlpfTzh1SGJR?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.kosaf.go.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 1~2회",
+    "method": "NCS 기반 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "면접전형"
+    ],
+    "characteristics": [
+      "정책 이해도",
+      "사업 기획력",
+      "전문 분야 지식"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

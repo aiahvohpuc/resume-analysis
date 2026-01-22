@@ -1,0 +1,202 @@
+{
+  "code": "KEA",
+  "name": "한국에너지공단",
+  "category": "에너지/발전",
+  "description": "한국에너지공단 - 에너지 이용 합리화와 신재생에너지 보급을 통한 지속가능한 에너지 체계 구축",
+  "keywords": [
+    "에너지효율",
+    "신재생에너지",
+    "탄소중립",
+    "에너지진단",
+    "RE100",
+    "전기차",
+    "태양광",
+    "그린리모델링",
+    "에너지정책",
+    "온실가스"
+  ],
+  "keywords_by_position": {
+    "사무직": [
+      "정책기획",
+      "보급사업",
+      "교육훈련"
+    ],
+    "전기": [
+      "에너지진단",
+      "전기설비",
+      "신재생설비",
+      "전력계통",
+      "배전관리"
+    ],
+    "기계": [
+      "에너지진단",
+      "열설비",
+      "효율개선",
+      "기계설비",
+      "플랜트운영"
+    ],
+    "건축": [
+      "건물에너지",
+      "그린리모델링",
+      "에너지효율",
+      "건축설계",
+      "시설물관리"
+    ],
+    "경영기획": [
+      "경영기획",
+      "사업관리",
+      "조직진단",
+      "리스크관리"
+    ],
+    "사업관리": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "에너지/가스": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "IT/ICT": [
+      "시스템개발",
+      "웹개발",
+      "앱개발",
+      "AI/빅데이터"
+    ],
+    "토목": [
+      "토목설계",
+      "시공관리",
+      "구조물점검",
+      "도로관리"
+    ],
+    "화공": [
+      "공정관리",
+      "화학물질",
+      "안전관리",
+      "품질분석"
+    ],
+    "환경": [
+      "환경관리",
+      "폐기물처리",
+      "대기관리",
+      "수질관리"
+    ]
+  },
+  "core_values": [
+    "협력",
+    "신뢰",
+    "책임",
+    "전문성",
+    "혁신"
+  ],
+  "talent_image": "에너지 효율과 신재생에너지 전문가",
+  "slogan": "지속가능한 에너지, 밝은 미래",
+  "positions": [
+    "경영기획",
+    "사업관리",
+    "전기",
+    "기계",
+    "에너지/가스",
+    "건축",
+    "IT/ICT",
+    "토목",
+    "화공",
+    "환경"
+  ],
+  "mission": "에너지 이용 합리화와 신재생에너지 보급을 통한 지속가능한 에너지 체계 구축",
+  "vision": "탄소중립 실현을 선도하는 에너지 전환 전문기관",
+  "recent_initiatives": [
+    "RE100 기업 지원 확대",
+    "건물에너지 효율등급 강화",
+    "전기차 충전인프라 확충",
+    "그린리모델링 사업 확대",
+    "에너지빈곤층 지원 강화"
+  ],
+  "recruitment_news": [
+    {
+      "title": "[KHARN칸] 에너지公, 기후산업국제박람회서 채용설명회 개최 - kharn.kr",
+      "date": "2025-08-17",
+      "summary": "[KHARN칸] 에너지公, 기후산업국제박람회서 채용설명회 개최kharn.kr",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzdFFOZTJaR2xvNGsxRk5wMGRiNkVRZlc3Rmh2THctemVzTGktRzFkUS1UX28wVnFGVXJVOHFwMWtha0k4VzlBZlprSTlaU19KeWo4UEo4T2FDYWM?oc=5"
+    },
+    {
+      "title": "커리어넷, 우체국물류지원단·한국보건산업진흥원·한국에너지공과대학교·차세대융합기술연구원·한국교육방송공사 채용 소식 - 백뉴스",
+      "date": "2026-01-09",
+      "summary": "커리어넷, 우체국물류지원단·한국보건산업진흥원·한국에너지공과대학교·차세대융합기술연구원·한국교육방송공사 채용 소식백뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFA3bnA4Ylh1RnptSUhEZXM1WVhHaDlsc3FGMnZ2V0h6clBfN2dwbE1RdEV4eHU4d3Zrelg1YTl0a3g?oc=5"
+    },
+    {
+      "title": "에너지공단, 부산서 ‘기후·에너지 산업 미래 인재 발굴 위한 채용설명회’ 개최 - busan.com",
+      "date": "2025-08-14",
+      "summary": "에너지공단, 부산서 ‘기후·에너지 산업 미래 인재 발굴 위한 채용설명회’ 개최busan.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xZzBrVnk0eV9ZSEc4ZTQ0bDR3Qm91Qi14cjdpU3JuNGxXWENjWjUwYm1GN1lKWG1nRldZZlFfdlhRRVo1UEZGVW54bXN4UFpRbGVhOVd1T0J4X01wa0R1bnNRaXhvQUJsX1F5V2NlODU2RXV4?oc=5"
+    },
+    {
+      "title": "한국에너지공단, 기후·에너지 미래 인재 위한 채용설명회 개최 - econovill.com",
+      "date": "2025-08-14",
+      "summary": "한국에너지공단, 기후·에너지 미래 인재 위한 채용설명회 개최econovill.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwUG54T0U1X2I2VlpfODRUR1dIOFZYcFFrS0RDV2hIZVExQVp3WlAtZmZSa1kyVHMyOWhudzgwZ3gwYjZOM2RESEl1d1o3X2w4Nk5VaWctbE1hbGNDcWw0MUJOQ0xyQ3dfcTE3bQ?oc=5"
+    },
+    {
+      "title": "에너지公, 기후·에너지 산업 채용설명회 - 한스경제",
+      "date": "2025-08-14",
+      "summary": "에너지公, 기후·에너지 산업 채용설명회한스경제",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYZm1kOEF4RXlEbVBHWDdlbzRhemNmbmplZ1hIUUhYb2VlQUNjc2tFUnhMaE9fcFYyZnFVa19lckIzYUtHaGROUU4wem1QVW84cko1WERNbEQyQTVVZXFvQmVvS0k1QUF0M0VV0gFvQVVfeXFMTURzYjdWTnc4Ym9hTXk0anpQYVVpZkw0M0FCSHRaY2lHek1ObkgxWG5scDVCalBwN2VsLW16ZGtsVnpib1lWNWpYWFg4TFRiQ3Y2SFAwaVR4Q1pDcWhlVXFCYlpRWWFpaF9MVTJPOWgw?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.energy.or.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 1~2회",
+    "method": "NCS 기반 블라인드 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "면접전형"
+    ],
+    "characteristics": [
+      "기술직 비중 높음",
+      "안전의식 강조",
+      "현장 근무"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

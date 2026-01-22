@@ -1,0 +1,613 @@
+{
+  "organization_code": "LH",
+  "organization_name": "한국토지주택공사",
+  "category": "SOC/교통/환경",
+  "interview_format": {
+    "type": "직무면접 + 인성면접",
+    "stages": [
+      "서류전형",
+      "필기시험",
+      "면접전형"
+    ],
+    "duration": "약 20분 (직무 10분 + 인성 10분)",
+    "difficulty": "3.3/5.0 (보통)",
+    "positive_rate": "50%"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "personality",
+      "question": "1분 자기소개를 해주세요.",
+      "category": "자기소개",
+      "year": 2024,
+      "position": "공통",
+      "ncs_competencies": [
+        "자기개발능력",
+        "의사소통능력",
+        "대인관계능력"
+      ],
+      "difficulty": 1,
+      "frequency": "high"
+    },
+    {
+      "id": 2,
+      "type": "personality",
+      "question": "LH에 지원한 동기를 말씀해주세요.",
+      "category": "지원동기",
+      "year": 2024,
+      "position": "공통",
+      "ncs_competencies": [
+        "조직이해능력",
+        "의사소통능력",
+        "대인관계능력"
+      ],
+      "difficulty": 2,
+      "frequency": "high",
+      "keywords": [
+        "동기"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "job_competency",
+      "question": "한국토지주택공사가 리츠에서 어떤 역할을 하는지 아시나요?",
+      "category": "직무지식",
+      "year": 2024,
+      "position": "공통",
+      "tips": "리츠 구조, 자산관리회사 역할",
+      "ncs_competencies": [
+        "문제해결능력",
+        "기술능력",
+        "정보능력"
+      ],
+      "difficulty": 5,
+      "frequency": "low"
+    },
+    {
+      "id": 4,
+      "type": "job_competency",
+      "question": "뉴홈정책과 특화평면 등 현재 시행 중인 사업에 대해 말씀해주세요.",
+      "category": "직무지식",
+      "year": 2024,
+      "position": "공통",
+      "ncs_competencies": [
+        "문제해결능력",
+        "기술능력",
+        "정보능력"
+      ],
+      "difficulty": 5,
+      "frequency": "low"
+    },
+    {
+      "id": 5,
+      "type": "job_competency",
+      "question": "LH 사업 중 관심 있는 분야와 개선점을 말씀해주세요.",
+      "category": "직무역량",
+      "year": 2024,
+      "position": "공통",
+      "tips": "홈페이지에서 사업 정리 필수",
+      "ncs_competencies": [
+        "문제해결능력",
+        "기술능력",
+        "자기개발능력"
+      ],
+      "difficulty": 4,
+      "frequency": "medium",
+      "keywords": [
+        "개선"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "experience",
+      "question": "단체에서의 경험을 말씀해주세요.",
+      "category": "경험",
+      "year": 2024,
+      "position": "공통",
+      "tips": "자기소개서 기반 질문",
+      "ncs_competencies": [
+        "자기개발능력",
+        "문제해결능력"
+      ],
+      "difficulty": 3,
+      "frequency": "medium"
+    },
+    {
+      "id": 7,
+      "type": "situational",
+      "question": "일은 못하지만 매뉴얼을 지키는 직원 vs 일은 잘하지만 인성이 좋지 않은 직원, 누구를 채용하시겠어요?",
+      "category": "상황",
+      "year": 2024,
+      "position": "공통",
+      "ncs_competencies": [
+        "문제해결능력",
+        "대인관계능력"
+      ],
+      "difficulty": 4,
+      "frequency": "medium"
+    },
+    {
+      "id": 8,
+      "type": "personality",
+      "question": "본인은 리더에 가까운가요, 팔로워에 가까운가요?",
+      "category": "인성",
+      "year": 2024,
+      "position": "공통",
+      "ncs_competencies": [
+        "의사소통능력",
+        "대인관계능력"
+      ],
+      "difficulty": 2,
+      "frequency": "high",
+      "keywords": [
+        "리더"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "job_competency",
+      "question": "본인의 직무 관련 강점은 무엇인가요?",
+      "category": "직무역량",
+      "year": 2024,
+      "position": "공통",
+      "ncs_competencies": [
+        "문제해결능력",
+        "기술능력",
+        "자기개발능력"
+      ],
+      "difficulty": 4,
+      "frequency": "medium",
+      "keywords": [
+        "강점"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "job_competency",
+      "question": "주택/도시 관련 최근 이슈에 대해 말씀해주세요.",
+      "category": "시사",
+      "year": 2024,
+      "position": "공통",
+      "tips": "전세사기, 주택공급, 도시재생 등",
+      "ncs_competencies": [
+        "문제해결능력",
+        "기술능력",
+        "조직이해능력"
+      ],
+      "difficulty": 5,
+      "frequency": "low"
+    },
+    {
+      "id": 11,
+      "type": "experience",
+      "question": "LH 인턴을 통해 어떤 목표를 가지고 있으며 어떻게 배워 나갈 것인가요?",
+      "category": "경험",
+      "year": 2024,
+      "position": "인턴",
+      "ncs_competencies": [
+        "자기개발능력",
+        "문제해결능력"
+      ],
+      "difficulty": 3,
+      "frequency": "medium",
+      "keywords": [
+        "목표"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "personality",
+      "question": "입사 후 포부를 말씀해주세요.",
+      "category": "포부",
+      "year": 2024,
+      "position": "공통",
+      "ncs_competencies": [
+        "자기개발능력",
+        "조직이해능력",
+        "의사소통능력"
+      ],
+      "difficulty": 2,
+      "frequency": "high",
+      "keywords": [
+        "포부"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "personality",
+      "question": "본인의 장단점을 말씀해주세요.",
+      "category": "자기분석",
+      "year": 2025,
+      "position": "공통",
+      "tips": "단점은 극복 노력과 함께 언급",
+      "ncs_competencies": [
+        "자기개발능력",
+        "의사소통능력",
+        "대인관계능력"
+      ],
+      "difficulty": 2,
+      "frequency": "high",
+      "keywords": [
+        "장단점"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "personality",
+      "question": "팀 프로젝트에서 갈등이 발생했을 때 어떻게 해결했나요?",
+      "category": "갈등해결",
+      "year": 2025,
+      "position": "공통",
+      "tips": "구체적인 사례와 해결 과정 설명",
+      "ncs_competencies": [
+        "문제해결능력",
+        "의사소통능력",
+        "대인관계능력"
+      ],
+      "difficulty": 4,
+      "frequency": "medium",
+      "keywords": [
+        "갈등",
+        "팀",
+        "해결"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "personality",
+      "question": "스트레스를 받을 때 어떻게 해소하나요?",
+      "category": "스트레스관리",
+      "year": 2025,
+      "position": "공통",
+      "tips": "건강한 해소 방법 제시",
+      "ncs_competencies": [
+        "자기개발능력",
+        "의사소통능력",
+        "대인관계능력"
+      ],
+      "difficulty": 3,
+      "frequency": "medium",
+      "keywords": [
+        "스트레스"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "personality",
+      "question": "리더십을 발휘했던 경험을 말씀해주세요.",
+      "category": "리더십",
+      "year": 2025,
+      "position": "공통",
+      "tips": "결과보다 과정과 배운 점 강조",
+      "ncs_competencies": [
+        "의사소통능력",
+        "대인관계능력",
+        "자원관리능력"
+      ],
+      "difficulty": 3,
+      "frequency": "medium",
+      "keywords": [
+        "리더"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "personality",
+      "question": "실패했던 경험과 그로부터 배운 점을 말씀해주세요.",
+      "category": "실패경험",
+      "year": 2025,
+      "position": "공통",
+      "tips": "실패 원인 분석과 성장 포인트",
+      "ncs_competencies": [
+        "자기개발능력",
+        "문제해결능력",
+        "의사소통능력"
+      ],
+      "difficulty": 4,
+      "frequency": "medium",
+      "keywords": [
+        "실패"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "personality",
+      "question": "10년 후 자신의 모습은 어떨 것 같나요?",
+      "category": "비전",
+      "year": 2025,
+      "position": "공통",
+      "tips": "기관과 연계한 성장 계획",
+      "ncs_competencies": [
+        "자기개발능력",
+        "조직이해능력",
+        "의사소통능력"
+      ],
+      "difficulty": 3,
+      "frequency": "high"
+    },
+    {
+      "id": 19,
+      "type": "personality",
+      "question": "주변 사람들은 본인을 어떻게 평가하나요?",
+      "category": "타인평가",
+      "year": 2025,
+      "position": "공통",
+      "tips": "객관적이고 구체적인 평가 언급",
+      "ncs_competencies": [
+        "자기개발능력",
+        "의사소통능력",
+        "대인관계능력"
+      ],
+      "difficulty": 3,
+      "frequency": "high"
+    },
+    {
+      "id": 20,
+      "type": "personality",
+      "question": "공기업 직원으로서 가장 중요한 덕목은 무엇이라고 생각하나요?",
+      "category": "직업윤리",
+      "year": 2025,
+      "position": "공통",
+      "tips": "공공성, 책임감, 봉사정신 등",
+      "ncs_competencies": [
+        "조직이해능력",
+        "의사소통능력",
+        "대인관계능력"
+      ],
+      "difficulty": 5,
+      "frequency": "high"
+    },
+    {
+      "id": 21,
+      "type": "experience",
+      "question": "가장 도전적이었던 경험을 말씀해주세요.",
+      "category": "도전경험",
+      "year": 2025,
+      "position": "공통",
+      "tips": "STAR 기법으로 구조화",
+      "ncs_competencies": [
+        "자기개발능력",
+        "문제해결능력"
+      ],
+      "difficulty": 3,
+      "frequency": "medium",
+      "keywords": [
+        "도전"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "experience",
+      "question": "팀원과 협력하여 성과를 낸 경험이 있나요?",
+      "category": "협업경험",
+      "year": 2025,
+      "position": "공통",
+      "tips": "본인의 역할과 기여도 명확히",
+      "ncs_competencies": [
+        "자기개발능력",
+        "문제해결능력",
+        "대인관계능력"
+      ],
+      "difficulty": 3,
+      "frequency": "medium",
+      "keywords": [
+        "협력",
+        "팀"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "experience",
+      "question": "창의적인 아이디어로 문제를 해결한 경험이 있나요?",
+      "category": "창의성",
+      "year": 2025,
+      "position": "공통",
+      "tips": "문제 상황과 아이디어 도출 과정",
+      "ncs_competencies": [
+        "자기개발능력",
+        "문제해결능력",
+        "정보능력"
+      ],
+      "difficulty": 4,
+      "frequency": "medium",
+      "keywords": [
+        "문제",
+        "해결",
+        "창의"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "experience",
+      "question": "마감 기한을 지키기 어려웠던 상황에서 어떻게 대처했나요?",
+      "category": "시간관리",
+      "year": 2025,
+      "position": "공통",
+      "tips": "우선순위 설정과 효율적 업무 처리",
+      "ncs_competencies": [
+        "자기개발능력",
+        "문제해결능력",
+        "자원관리능력"
+      ],
+      "difficulty": 4,
+      "frequency": "medium"
+    },
+    {
+      "id": 25,
+      "type": "situational",
+      "question": "상사의 지시가 본인의 생각과 다를 때 어떻게 하겠습니까?",
+      "category": "조직적응",
+      "year": 2025,
+      "position": "공통",
+      "tips": "존중하되 의견 제시 방법도 언급",
+      "ncs_competencies": [
+        "문제해결능력",
+        "대인관계능력"
+      ],
+      "difficulty": 4,
+      "frequency": "medium"
+    },
+    {
+      "id": 26,
+      "type": "situational",
+      "question": "민원인이 무리한 요구를 할 때 어떻게 대응하겠습니까?",
+      "category": "민원대응",
+      "year": 2025,
+      "position": "공통",
+      "tips": "고객 중심 사고와 원칙 준수 균형",
+      "ncs_competencies": [
+        "문제해결능력",
+        "대인관계능력"
+      ],
+      "difficulty": 4,
+      "frequency": "medium",
+      "keywords": [
+        "민원"
+      ]
+    },
+    {
+      "id": 27,
+      "type": "situational",
+      "question": "동료가 업무를 제대로 수행하지 않는다면 어떻게 하겠습니까?",
+      "category": "동료관계",
+      "year": 2025,
+      "position": "공통",
+      "tips": "직접 대화 후 필요시 상사 보고",
+      "ncs_competencies": [
+        "문제해결능력",
+        "의사소통능력",
+        "대인관계능력"
+      ],
+      "difficulty": 4,
+      "frequency": "medium"
+    },
+    {
+      "id": 28,
+      "type": "situational",
+      "question": "업무 중 윤리적 딜레마 상황이 발생하면 어떻게 하겠습니까?",
+      "category": "윤리의식",
+      "year": 2025,
+      "position": "공통",
+      "tips": "원칙 준수와 투명한 보고",
+      "ncs_competencies": [
+        "문제해결능력",
+        "대인관계능력",
+        "직업윤리"
+      ],
+      "difficulty": 5,
+      "frequency": "low",
+      "keywords": [
+        "윤리"
+      ]
+    },
+    {
+      "id": 29,
+      "type": "job_competency",
+      "question": "대중교통 활성화를 위한 정책 방안은?",
+      "category": "교통정책",
+      "year": 2025,
+      "position": "공통",
+      "tips": "친환경 교통, MaaS 등",
+      "ncs_competencies": [
+        "문제해결능력",
+        "기술능력"
+      ],
+      "difficulty": 4,
+      "frequency": "medium"
+    },
+    {
+      "id": 30,
+      "type": "job_competency",
+      "question": "SOC 노후화 문제에 대한 해결 방안은?",
+      "category": "인프라",
+      "year": 2025,
+      "position": "공통",
+      "tips": "유지보수, 스마트 인프라",
+      "ncs_competencies": [
+        "문제해결능력",
+        "기술능력"
+      ],
+      "difficulty": 4,
+      "frequency": "medium",
+      "keywords": [
+        "문제",
+        "해결"
+      ]
+    },
+    {
+      "id": 31,
+      "type": "situational",
+      "question": "교통사고나 자연재해 발생 시 대응 방안은?",
+      "category": "재난대응",
+      "year": 2025,
+      "position": "공통",
+      "tips": "비상 대응 체계, 복구 계획",
+      "ncs_competencies": [
+        "문제해결능력",
+        "대인관계능력"
+      ],
+      "difficulty": 4,
+      "frequency": "medium"
+    },
+    {
+      "id": 32,
+      "type": "job_competency",
+      "question": "스마트시티와 연계한 교통 혁신 방안은?",
+      "category": "스마트교통",
+      "year": 2025,
+      "position": "공통",
+      "tips": "자율주행, ITS, C-ITS",
+      "ncs_competencies": [
+        "문제해결능력",
+        "기술능력"
+      ],
+      "difficulty": 4,
+      "frequency": "medium",
+      "keywords": [
+        "혁신"
+      ]
+    },
+    {
+      "id": 33,
+      "type": "personality",
+      "question": "마지막으로 하고 싶은 말씀이 있으신가요?",
+      "category": "마무리",
+      "year": 2025,
+      "position": "공통",
+      "tips": "핵심 역량과 입사 의지 강조",
+      "ncs_competencies": [
+        "의사소통능력",
+        "대인관계능력"
+      ],
+      "difficulty": 1,
+      "frequency": "high"
+    },
+    {
+      "id": 34,
+      "type": "personality",
+      "question": "궁금한 점이 있으신가요?",
+      "category": "역질문",
+      "year": 2025,
+      "position": "공통",
+      "tips": "기관에 대한 관심 표현",
+      "ncs_competencies": [
+        "조직이해능력",
+        "의사소통능력",
+        "대인관계능력"
+      ],
+      "difficulty": 1,
+      "frequency": "high"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-01-21",
+    "sources": [
+      "자소설닷컴 합격후기",
+      "잡코리아 63건",
+      "당톡 면접학원"
+    ],
+    "total_questions": 34,
+    "verified": true,
+    "tagging_version": "2.0"
+  }
+}

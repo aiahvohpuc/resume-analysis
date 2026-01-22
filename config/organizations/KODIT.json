@@ -1,0 +1,196 @@
+{
+  "code": "KODIT",
+  "name": "신용보증기금",
+  "category": "금융",
+  "description": "신용보증기금 - 담보력이 부족한 기업에 신용보증을 제공하여 기업의 자금융통을 원활히 함",
+  "keywords": [
+    "신용보증",
+    "중소기업",
+    "보증심사",
+    "기업평가",
+    "여신",
+    "리스크관리",
+    "소상공인",
+    "정책금융",
+    "ESG",
+    "디지털금융"
+  ],
+  "keywords_by_position": {
+    "금융": [
+      "보증심사",
+      "기업평가",
+      "여신관리",
+      "구상권관리"
+    ],
+    "경영기획": [
+      "전략기획",
+      "리스크관리",
+      "경영분석",
+      "경영기획",
+      "사업관리"
+    ],
+    "IT/ICT": [
+      "시스템운영",
+      "데이터분석",
+      "핀테크",
+      "시스템개발",
+      "웹개발"
+    ],
+    "재무/회계/감사": [
+      "회계관리",
+      "재무분석",
+      "결산",
+      "세무"
+    ],
+    "보험심사": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "법무/노무": [
+      "법률검토",
+      "계약관리",
+      "소송관리",
+      "컴플라이언스"
+    ],
+    "전기": [
+      "전기설비",
+      "전력계통",
+      "배전관리",
+      "전기안전"
+    ],
+    "전자개발": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "화공": [
+      "공정관리",
+      "화학물질",
+      "안전관리",
+      "품질분석"
+    ],
+    "기계": [
+      "기계설비",
+      "플랜트운영",
+      "설비보전",
+      "기계설계"
+    ]
+  },
+  "core_values": [
+    "보증 혁신",
+    "중소기업 금융지원",
+    "고객가치",
+    "전문역량",
+    "소통협력"
+  ],
+  "talent_image": "금융전문성과 중소기업 사랑을 갖춘 신보인",
+  "slogan": "기업을 키우는 힘, 신용보증기금",
+  "positions": [
+    "금융",
+    "경영기획",
+    "재무/회계/감사",
+    "보험심사",
+    "법무/노무",
+    "전기",
+    "전자개발",
+    "화공",
+    "기계",
+    "IT/ICT"
+  ],
+  "mission": "담보력이 부족한 기업에 신용보증을 제공하여 기업의 자금융통을 원활히 함",
+  "vision": "중소기업과 함께 성장하는 신용보증 전문기관",
+  "recent_initiatives": [
+    "ESG 경영 보증상품 확대",
+    "디지털 보증 플랫폼 구축",
+    "소상공인 특별보증 지원",
+    "스타트업 성장단계별 맞춤보증",
+    "비대면 보증심사 시스템 도입"
+  ],
+  "recruitment_news": [
+    {
+      "title": "신용보증기금, 하반기 신입직원 112명 채용 - 매일신문",
+      "date": "2025-08-28",
+      "summary": "신용보증기금, 하반기 신입직원 112명 채용매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iSlBhaWJkS09fb09NQTNCdlR6bUFnaW82U1VpMHVaNTUydXhpOE9SR1FDNEJtMzhKSW5jcElEQ3J3NWhZcUhXZjQwbkNJLU5nZURXZUd5SmRPQW5sbTVXOVNR?oc=5"
+    },
+    {
+      "title": "신용보증기금, 하반기 신입직원 112명 공개 채용 - BBS불교방송",
+      "date": "2025-08-28",
+      "summary": "신용보증기금, 하반기 신입직원 112명 공개 채용BBS불교방송",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mOWFGNzhhU1NwSWFSeGp4c2x0RHpWX0tXb0Z2cm50ekljN09XYUc1VkJJaGZ6RF8zMk1HeVpBUldpUlJNRlFpZFlrOF9EUmJLU3VDajVKS0Q4ZTlWMmw1aU9GMUdwSmZsXzE0?oc=5"
+    },
+    {
+      "title": "신용보증기금, 신입직원 112명 공개 채용 - 마켓인",
+      "date": "2025-08-28",
+      "summary": "신용보증기금, 신입직원 112명 공개 채용마켓인",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByV0FlY3NlWndhYk9lOTZZeXhiZ01kZlZRM00tU1FLREVpVHZzaFFfVVV1cDVwcVh5eGJGNUE0TkIwQUQ2blgwUklFWGhWWWFvLWlkRUFtSVRqd1pOTHNnM1pWQ0p4LTNjdnN0bzNqLXBZX1U?oc=5"
+    },
+    {
+      "title": "신용보증기금, 2025년도 하반기 신입직원 112명 공개 채용 - 뉴스워커",
+      "date": "2025-08-28",
+      "summary": "신용보증기금, 2025년도 하반기 신입직원 112명 공개 채용뉴스워커",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84ZmplSDIzelFraHVKdzV0b2JDb1MxalJ5ampudE9JOTRPTFdLdlRRenFkeTN0UnA3ZzNVNzhybS1HLVJ0VkdMWkg0Qk5zSlphcmNoRzJFanM2LUtpelhkc2ZmUHBSUGtPVWwwbnd0d9IBc0FVX3lxTE41ZmpmWVNsV1A5SWRsQjlpRjdkbjkyc0Vmcjd6NVlqX2xpcHNnTmxTME5UejA3bW4zUXlrMFRMYkZ1bExPa2c0SlZMQWFLUG5mQzExNDg3NkJYN1c1NFlzWldIQ252MDU1VmVMSXo0dV8taGs?oc=5"
+    },
+    {
+      "title": "신용보증기금, 하반기 신입직원 112명 채용 - M이코노미뉴스",
+      "date": "2025-08-28",
+      "summary": "신용보증기금, 하반기 신입직원 112명 채용M이코노미뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5Z1llN2JTalpiN3YtMjE3YmJmMzF4d1JQaU1SLVpCNEVkNWUwVmZlZ3JSVm15QU96N2VzcGVRUmtpNTZ5WmFLeGVEMEtVSFRjTWo3ZUdCV0pVb3dTUWZVWVd6aXljSUE?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.kodit.co.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 1~2회",
+    "method": "NCS 기반 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "면접전형"
+    ],
+    "characteristics": [
+      "금융 전문성",
+      "분석력 중시",
+      "자격증 우대"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

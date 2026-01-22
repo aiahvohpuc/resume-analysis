@@ -1,0 +1,216 @@
+{
+  "code": "KECO",
+  "name": "한국환경공단",
+  "category": "SOC/교통/환경",
+  "description": "한국환경공단 - 환경오염 방지와 환경개선을 통한 국민의 건강한 삶 보장",
+  "keywords": [
+    "환경",
+    "폐기물",
+    "수질",
+    "대기",
+    "탄소중립",
+    "순환경제",
+    "환경오염",
+    "미세먼지",
+    "환경인증",
+    "친환경"
+  ],
+  "keywords_by_position": {
+    "사무직": [
+      "경영기획",
+      "환경정책",
+      "사업관리"
+    ],
+    "환경": [
+      "수질관리",
+      "대기관리",
+      "폐기물관리",
+      "환경관리",
+      "폐기물처리"
+    ],
+    "토목": [
+      "환경시설",
+      "상하수도",
+      "토목설계",
+      "시공관리",
+      "구조물점검"
+    ],
+    "화공": [
+      "환경분석",
+      "공정관리",
+      "화학물질",
+      "안전관리",
+      "품질분석"
+    ],
+    "경영기획": [
+      "경영기획",
+      "사업관리",
+      "조직진단",
+      "리스크관리"
+    ],
+    "사업관리": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "법무/노무": [
+      "법률검토",
+      "계약관리",
+      "소송관리",
+      "컴플라이언스"
+    ],
+    "재무/회계/감사": [
+      "회계관리",
+      "재무분석",
+      "결산",
+      "세무"
+    ],
+    "기계": [
+      "기계설비",
+      "플랜트운영",
+      "설비보전",
+      "기계설계"
+    ],
+    "전기": [
+      "전기설비",
+      "전력계통",
+      "배전관리",
+      "전기안전"
+    ],
+    "건축": [
+      "건축설계",
+      "시설물관리",
+      "건축허가",
+      "인테리어"
+    ],
+    "수자원/상하수도": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "IT/ICT": [
+      "시스템개발",
+      "웹개발",
+      "앱개발",
+      "AI/빅데이터"
+    ]
+  },
+  "core_values": [
+    "환경오염 방지",
+    "환경공단",
+    "소통",
+    "안전",
+    "전문성"
+  ],
+  "talent_image": "환경보전과 탄소중립을 이끄는 환경 전문인재",
+  "slogan": "깨끗한 환경, 건강한 미래",
+  "positions": [
+    "경영기획",
+    "사업관리",
+    "법무/노무",
+    "재무/회계/감사",
+    "토목",
+    "기계",
+    "전기",
+    "건축",
+    "수자원/상하수도",
+    "환경",
+    "화공",
+    "IT/ICT"
+  ],
+  "mission": "환경오염 방지와 환경개선을 통한 국민의 건강한 삶 보장",
+  "vision": "탄소중립 실현을 선도하는 환경 전문기관",
+  "recent_initiatives": [
+    "탄소중립 이행 지원",
+    "순환경제 활성화",
+    "미세먼지 저감 사업",
+    "환경 빅데이터 플랫폼",
+    "친환경 인증 확대"
+  ],
+  "recruitment_news": [
+    {
+      "title": "제주여상, 양민서 졸업생, 한국환경공단 공채 최종 합격 - DWBNEWS",
+      "date": "2025-07-18",
+      "summary": "제주여상, 양민서 졸업생, 한국환경공단 공채 최종 합격DWBNEWS",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mWVNDZ3Y4OEJWdnhfajVselhyQ2RzRkhiR0VTSi1lWjBzSWlLUlo1WFoyTVBucTUycklIcjIxMFg1NmY5NXZ1UVRJMGF5UWZDRW1za09SZHFzRFpfa1ppOHIxV21OUUE?oc=5"
+    },
+    {
+      "title": "한국환경공단, '청년의 날' 맞아 환경청년꿈터 운영 - 우먼타임스",
+      "date": "2025-09-19",
+      "summary": "한국환경공단, '청년의 날' 맞아 환경청년꿈터 운영우먼타임스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1Nm9uRHV2cE5Ienp5Q0NpMW5OMF9hNE9FQTVPS1JCMDZRekdEM2k0R0RSOTVsMjhLZHNvSlYwZGN4aV9GalREYkJUbUt6VWtOUThMZkFSVlk5dEhTVGJaVVVkSUgtYVhhRmdRWDZn0gFyQVVfeXFMUHlKMTRFMGJfQ1BheGNZRXJWdzFGNDNzWkExM0NPby1sN25uYW51RUI5THlYNWhvNHdMM0lSU3lzQzZIeFEwSGZnWkJ5Z3hIdzdpOE5vMEY1dTFYWkNiblJKY0dKRDVtVkhtYi1PaTZhUldB?oc=5"
+    },
+    {
+      "title": "[채용] 한국환경공단 변호사 채용 - 로스쿨타임즈",
+      "date": "2025-03-14",
+      "summary": "[채용] 한국환경공단 변호사 채용로스쿨타임즈",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6VzZMc2xfbDIxZnlKNnlvdDI4Nlc2Q05TM0xNa3FEcGtBdjBVRy1sYVJtT1NGdGYzTlhkSnZjRE9NdzhNeVozNjJzTkg5TG5uRHB2RnN1V0RVRlhkWk8wYjBsT1lydFRtLTFOa3FyRDU?oc=5"
+    },
+    {
+      "title": "부산교통공사·환경공단 직원 ‘채용 허점’ 시 감사서 드러나 - 시사저널",
+      "date": "2026-01-08",
+      "summary": "부산교통공사·환경공단 직원 ‘채용 허점’ 시 감사서 드러나시사저널",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kWjZVcE5RVmMwTmlPZ08tLUlHZmxaZm5NaWtaenduWmxYMDllWm5GQUFMQm5yZS1SeTFxNXc0X3FSNTdoM2FFLXVPOVpHSjJ3N0VVYjZadUhCVnc2UkJhYU1EMzA3WjVFQ01MQWNrc9IBc0FVX3lxTE1MdWZhYlhpcW9WUzVuUFNMMmFzUkdGS19naFZkaFZJUUFDdE45emtwUmdlNlhiM3U0Mjhtdi00QzZWSzBiSVVsdy1lRE41S002V2NnM3hWLWllaEh0MGVZYWtUZUZ6MkhDZkxYRVVrNnpDbDg?oc=5"
+    },
+    {
+      "title": "‘화학·환경 분야 신입+경력 모두 지원’…한국환경공단 기간제 근로자 모집 - 퍼블릭타임스",
+      "date": "2026-01-02",
+      "summary": "‘화학·환경 분야 신입+경력 모두 지원’…한국환경공단 기간제 근로자 모집퍼블릭타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3LUUwamw0NUQzYm5ycWNySU5tbDZKZDlfRVhuQnVVZXVCT1AwQ0hnam1MVkdfNGxOazlDZ3BUWWJ5NnV2cllQZmNNelZFUWZvaGV1anpKajlhaktEUjV5SUVuQ3lUeUxvLWfSAW5BVV95cUxNT2ZUbEFsRllpd2VubE5qcWJ2LVotQnMxUEdxaTVBUUZhVUpHRmVnbnFFSFgxUklJQXBsWWZyN2Y2Yld4TkJVbkdHcWtadmIwMTVEc0Y0Z0w3NkwwMWg4ZVM3NlEtbmhNS0hLZjZPZw?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.keco.or.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 1~2회",
+    "method": "NCS 기반 블라인드 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "면접전형"
+    ],
+    "characteristics": [
+      "인프라 전문성",
+      "현장 중심",
+      "전국 배치"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

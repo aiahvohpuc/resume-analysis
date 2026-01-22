@@ -1,0 +1,259 @@
+{
+  "code": "KORAIL",
+  "name": "한국철도공사",
+  "category": "SOC/교통/환경",
+  "description": "한국철도공사 - 안전하고 편리한 철도서비스 제공으로 국민의 이동권 보장",
+  "keywords": [
+    "철도",
+    "KTX",
+    "여객운송",
+    "철도안전",
+    "기관사",
+    "열차운행",
+    "철도서비스",
+    "역사",
+    "교통",
+    "친환경"
+  ],
+  "keywords_by_position": {
+    "사무직": [
+      "영업",
+      "마케팅",
+      "고객서비스",
+      "경영기획"
+    ],
+    "운전": [
+      "기관사",
+      "열차운행",
+      "운전취급"
+    ],
+    "차량": [
+      "철도차량정비",
+      "전기차량",
+      "기계차량"
+    ],
+    "시설": [
+      "선로보수",
+      "전기설비",
+      "신호설비"
+    ],
+    "경영기획": [
+      "경영기획",
+      "사업관리",
+      "조직진단",
+      "리스크관리"
+    ],
+    "사업관리": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "인사/총무": [
+      "채용관리",
+      "교육훈련",
+      "인사평가",
+      "노무관리"
+    ],
+    "재무/회계/감사": [
+      "회계관리",
+      "재무분석",
+      "결산",
+      "세무"
+    ],
+    "고객서비스(영업)": [
+      "고객관리",
+      "영업전략",
+      "실적관리",
+      "시장분석"
+    ],
+    "운전(기관사)": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "승무(열차승무)": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "철도차량": [
+      "차량정비",
+      "차량검수",
+      "유지보수",
+      "부품관리"
+    ],
+    "기계": [
+      "기계설비",
+      "플랜트운영",
+      "설비보전",
+      "기계설계"
+    ],
+    "전기": [
+      "전기설비",
+      "전력계통",
+      "배전관리",
+      "전기안전"
+    ],
+    "전기철도": [
+      "전기설비",
+      "전력계통",
+      "배전관리",
+      "전기안전"
+    ],
+    "토목": [
+      "토목설계",
+      "시공관리",
+      "구조물점검",
+      "도로관리"
+    ],
+    "철도토목": [
+      "토목설계",
+      "시공관리",
+      "구조물점검",
+      "도로관리"
+    ],
+    "건축": [
+      "건축설계",
+      "시설물관리",
+      "건축허가",
+      "인테리어"
+    ],
+    "IT/ICT": [
+      "시스템개발",
+      "웹개발",
+      "앱개발",
+      "AI/빅데이터"
+    ],
+    "통신": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ]
+  },
+  "core_values": [
+    "친환경 교통",
+    "철도 안전",
+    "안전",
+    "고객",
+    "상생"
+  ],
+  "talent_image": "철도 안전과 서비스를 책임지는 전문인재",
+  "slogan": "사람·세상·미래를 잇다",
+  "positions": [
+    "경영기획",
+    "사업관리",
+    "인사/총무",
+    "재무/회계/감사",
+    "고객서비스(영업)",
+    "운전(기관사)",
+    "승무(열차승무)",
+    "철도차량",
+    "기계",
+    "전기",
+    "전기철도",
+    "토목",
+    "철도토목",
+    "건축",
+    "IT/ICT",
+    "통신"
+  ],
+  "mission": "안전하고 편리한 철도서비스 제공으로 국민의 이동권 보장",
+  "vision": "국민의 발이 되는 대한민국 대표 철도기업",
+  "recent_initiatives": [
+    "KTX 이음 확대 운행",
+    "철도 안전관리 고도화",
+    "비대면 승차권 서비스 확대",
+    "역사 복합개발 추진",
+    "친환경 철도 운영"
+  ],
+  "recruitment_news": [
+    {
+      "title": "한국철도고, 코레일 고졸 채용 전국 최다 합격 - yjinews.com",
+      "date": "2025-10-29",
+      "summary": "한국철도고, 코레일 고졸 채용 전국 최다 합격yjinews.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43RkwzT0cwZWNydENSQTVXY3g2MUc5S1hyVHZUTHZNTkkyRE01cEN5ZHBTVnBuWW9xSThPY0p6QUx4ekRSNF83WTR2Uk5mdExwZl9kX2pSQUlTY1JZdU5Ca2pPWHNvdFEw?oc=5"
+    },
+    {
+      "title": "한국철도고, 한국철도공사(코레일) 15명 최종 합격 - 서울일보",
+      "date": "2025-10-29",
+      "summary": "한국철도고, 한국철도공사(코레일) 15명 최종 합격서울일보",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11dkdESlY5WEN5UTJuRGNBZmxpRTB6WmJsdGFjb19ia1F4WGR1Q05fZEVId0RJSjk1SzRHVlF3aEZpb0xVWmFiTXQwVE9MZk9GWmZSdXNWMXgxbkVyZU5rNkw1OWNNX1docVlv0gFvQVVfeXFMTVByWm5WcllRSDhOdmptRGF2UTl4UzhSanRIQXVncjBubzlVWUI1MUJKcEJCQ013MlJpUU1HRWNpUk0tTU5rM1pCNEQ5UnVyYzl1Ylk0dURDdmNISXN2TW1lRl9EWlpXUGNBNjRjdjNz?oc=5"
+    },
+    {
+      "title": "한국철도고, 코레일 고졸채용 16명 합격 ‘쾌거’ - kyongbuk.co.kr",
+      "date": "2025-12-27",
+      "summary": "한국철도고, 코레일 고졸채용 16명 합격 ‘쾌거’kyongbuk.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Ec2k0WWY1ckNRcDNycS01eHFJMXBteXJuNG1XbXFCeHNWcXlZT2FmU0NaNjZNbjVvYVBQeUttcUxzSGp0Z0F1V1QyVWtPMHFLRnZoQ1dWQnFONUxoSlpkUmdmVEJSZ3hpZ1hQNFhiNA?oc=5"
+    },
+    {
+      "title": "한림공고, 한국철도공사 고졸 채용형 인턴 채용서 3학년 6명 최종 합격 - newslinejeju.com",
+      "date": "2025-10-31",
+      "summary": "한림공고, 한국철도공사 고졸 채용형 인턴 채용서 3학년 6명 최종 합격newslinejeju.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DUU5yRmtBQUttcFJLLWQ5S1hfeXZxMk4tMW9VMENoSEc3TGVOcWEtRG5DanZVNVYtQUM1UXFqY1ZwTnllN3RUcXh0T1Nfam5wdlZnbUl5ZG5WSDhleG9oNDhock4wMWhINVJqTElpYw?oc=5"
+    },
+    {
+      "title": "코레일 하반기 1200명 신규채용…열차승무 직렬 신설 - busan.com",
+      "date": "2025-08-12",
+      "summary": "코레일 하반기 1200명 신규채용…열차승무 직렬 신설busan.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xSS1PTm5rRExnRWgzTnNBVUM0MjQ2eUczX0ttZ3JtVldmSUcwb0RNblBLMUVGazU2NUZnOTR0RWViMmQzdGJ2aGlUWlRCUEdRNWpQeFFOYS0xWmx0WEkyWFdzX2thdmk5R1ZuVE1pVVVKc1d4R2ttcQ?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.korail.com",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 2회 (대규모)",
+    "method": "NCS 기반 블라인드 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "면접전형",
+      "신체검사",
+      "적성검사"
+    ],
+    "characteristics": [
+      "철도 관련 전공 우대",
+      "전국 역사/차량기지 배치",
+      "교대근무"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "code": "KWATER",
+  "name": "한국수자원공사",
+  "category": "SOC/교통/환경",
+  "description": "한국수자원공사 - 물 관리 일원화를 통한 국민의 물 복지 실현",
+  "keywords": [
+    "수자원",
+    "댐",
+    "상수도",
+    "물관리",
+    "수력발전",
+    "환경",
+    "홍수",
+    "가뭄",
+    "스마트워터",
+    "물복지"
+  ],
+  "keywords_by_position": {
+    "사무직": [
+      "경영기획",
+      "사업관리",
+      "재무회계"
+    ],
+    "토목": [
+      "댐설계",
+      "수리구조물",
+      "상수도",
+      "토목설계",
+      "시공관리"
+    ],
+    "기계": [
+      "수문설비",
+      "펌프",
+      "발전설비",
+      "기계설비",
+      "플랜트운영"
+    ],
+    "환경": [
+      "수질관리",
+      "환경영향평가",
+      "환경관리",
+      "폐기물처리",
+      "대기관리"
+    ],
+    "경영기획": [
+      "경영기획",
+      "사업관리",
+      "조직진단",
+      "리스크관리"
+    ],
+    "사업관리": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "인사/총무": [
+      "채용관리",
+      "교육훈련",
+      "인사평가",
+      "노무관리"
+    ],
+    "재무/회계/감사": [
+      "회계관리",
+      "재무분석",
+      "결산",
+      "세무"
+    ],
+    "전기": [
+      "전기설비",
+      "전력계통",
+      "배전관리",
+      "전기안전"
+    ],
+    "수자원/상하수도": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "IT/ICT": [
+      "시스템개발",
+      "웹개발",
+      "앱개발",
+      "AI/빅데이터"
+    ],
+    "건축": [
+      "건축설계",
+      "시설물관리",
+      "건축허가",
+      "인테리어"
+    ],
+    "산업안전": [
+      "산업안전",
+      "재해예방",
+      "안전점검",
+      "비상대응"
+    ],
+    "플랜트": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "지질": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "조경": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ]
+  },
+  "core_values": [
+    "수자원 안보",
+    "물 복지",
+    "안전",
+    "상생",
+    "신뢰"
+  ],
+  "talent_image": "물의 가치를 높이는 글로벌 물 전문인재",
+  "slogan": "물로 여는 미래",
+  "positions": [
+    "경영기획",
+    "사업관리",
+    "인사/총무",
+    "재무/회계/감사",
+    "토목",
+    "기계",
+    "전기",
+    "환경",
+    "수자원/상하수도",
+    "IT/ICT",
+    "건축",
+    "산업안전",
+    "플랜트",
+    "지질",
+    "조경"
+  ],
+  "mission": "물 관리 일원화를 통한 국민의 물 복지 실현",
+  "vision": "물로 행복한 세상을 만드는 글로벌 물종합 플랫폼 기업",
+  "recent_initiatives": [
+    "스마트 물관리 체계 구축",
+    "통합물관리 선도",
+    "기후변화 대응 물안보 강화",
+    "친환경 에너지 사업 확대",
+    "해외 물시장 진출"
+  ],
+  "recruitment_news": [
+    {
+      "title": "[오늘의 공기업 채용정보] 한국수자원공사, 2026년 상반기 일반직 신입사원 164명 채용 - 아웃소싱타임스",
+      "date": "2025-12-30",
+      "summary": "[오늘의 공기업 채용정보] 한국수자원공사, 2026년 상반기 일반직 신입사원 164명 채용아웃소싱타임스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aX01QeVZsRnhTOUlYSERNRHdYeDIyaUZXV2N0Nld0QklPZnd0WjJfMEhjMFRQT1k3cV9KMkFtSkpDXzFrMmFaQ1ZOMUVCUDBfekdXY1hGTjVXWUZnZ0FqdG45Y3U2UE1uVVEwS01aRkdNUQ?oc=5"
+    },
+    {
+      "title": "[오늘의 공기업 채용정보] 한국수자원공사, 2025년 하반기 체험형 청년 250명 채용 - 아웃소싱타임스",
+      "date": "2025-11-19",
+      "summary": "[오늘의 공기업 채용정보] 한국수자원공사, 2025년 하반기 체험형 청년 250명 채용아웃소싱타임스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBcFd3cmR3b0V4NDZvUTFSU1FmaGJ1QmVvMDd1ZmFPNExjaG1uWGp3NTl5OUNMMXhkVzBiWHlvNU9pa25YVHNvWmZnS2x1dUJSZ2lrT2o3VVZLNHV2NEdWRzJxcEYyYXVJeWRJWDh0N3ZjZw?oc=5"
+    },
+    {
+      "title": "[오늘의 공기업 채용정보] 서울교통공사, 2026년 신입사원 820명 채용 - 아웃소싱타임스",
+      "date": "2025-12-31",
+      "summary": "[오늘의 공기업 채용정보] 서울교통공사, 2026년 신입사원 820명 채용아웃소싱타임스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WSldyU3o2OU1vNnN1a1FncGxDQUZWRXBCYzN6Q3JVbDZEbmhMUzU5STlSdFc2Y2dyUFJJUGJESzhoVThlRjlpcm53WEZ2VWtqYnVQVmNUS1pHVTZSQUNVNktydWNOMjhfWXZRdXI1SGVDdw?oc=5"
+    },
+    {
+      "title": "[오늘의 공기업 채용정보] 한국환경공단, 2025년도 하반기 신입직원 58명 채용 - 아웃소싱타임스",
+      "date": "2025-12-31",
+      "summary": "[오늘의 공기업 채용정보] 한국환경공단, 2025년도 하반기 신입직원 58명 채용아웃소싱타임스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FUFotNTRmMTVDVmJoMDZ0U0NINDNWQ1l2aGlLZG9ORmlPUjloNW9WTFJ2MlRoY1p6VGFVOUdSQnR3SlJJdERNRGxXNUROcGd0anh5WktuN2sxLWRlVm1ybUp0TW5sNzhMRzlqUy1BZzZGdw?oc=5"
+    },
+    {
+      "title": "[오늘의 공기업 채용정보] 한국수자원공사, 2025년 하반기 신입직원 204명 채용 - 아웃소싱타임스",
+      "date": "2025-08-28",
+      "summary": "[오늘의 공기업 채용정보] 한국수자원공사, 2025년 하반기 신입직원 204명 채용아웃소싱타임스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GUnRKRjR2bFUzazY3U0NiVmY4b0x4bVhJUXpsd3FubE1PN09qNXZPR29mcnhFdEZramx3WkhIUlZYNElKV2JzbnlOVTZuUFBvMUI0bTViTXlYT0tsTFktRWg4cUZ3WS1JVG5felBRUTU5QQ?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.kwater.or.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 1~2회",
+    "method": "NCS 기반 블라인드 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "면접전형"
+    ],
+    "characteristics": [
+      "토목/환경 전공 우대",
+      "댐/수자원 시설 근무",
+      "지방 근무 비중"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

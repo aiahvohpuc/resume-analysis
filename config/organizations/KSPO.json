@@ -1,0 +1,177 @@
+{
+  "code": "KSPO",
+  "name": "국민체육진흥공단",
+  "category": "산업진흥/기타",
+  "description": "국민체육진흥공단 - 체육진흥 사업으로 국민의 건강하고 행복한 삶 지원",
+  "keywords": [
+    "체육",
+    "스포츠",
+    "스포츠토토",
+    "올림픽공원",
+    "생활체육",
+    "선수육성",
+    "e스포츠",
+    "체육시설",
+    "스포츠산업",
+    "국민체육"
+  ],
+  "keywords_by_position": {
+    "사무직": [
+      "체육정책",
+      "사업기획",
+      "선수지원"
+    ],
+    "시설관리": [
+      "올림픽공원",
+      "체육시설",
+      "운영관리",
+      "시설점검",
+      "설비유지"
+    ],
+    "전산직": [
+      "시스템운영",
+      "데이터분석",
+      "토토시스템"
+    ],
+    "경영기획": [
+      "경영기획",
+      "사업관리",
+      "조직진단",
+      "리스크관리"
+    ],
+    "사업관리": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "인사/총무": [
+      "채용관리",
+      "교육훈련",
+      "인사평가",
+      "노무관리"
+    ],
+    "재무/회계/감사": [
+      "회계관리",
+      "재무분석",
+      "결산",
+      "세무"
+    ],
+    "IT/ICT": [
+      "시스템개발",
+      "웹개발",
+      "앱개발",
+      "AI/빅데이터"
+    ]
+  },
+  "core_values": [
+    "도전",
+    "화합",
+    "전문성",
+    "청렴",
+    "혁신"
+  ],
+  "talent_image": "스포츠 가치 확산과 체육진흥을 이끄는 스포츠 전문인재",
+  "slogan": "스포츠로 행복한 대한민국",
+  "positions": [
+    "경영기획",
+    "사업관리",
+    "인사/총무",
+    "재무/회계/감사",
+    "시설관리",
+    "IT/ICT"
+  ],
+  "mission": "체육진흥 사업으로 국민의 건강하고 행복한 삶 지원",
+  "vision": "스포츠로 하나되는 대한민국을 만드는 체육진흥 전문기관",
+  "recent_initiatives": [
+    "생활체육 활성화",
+    "e스포츠 산업 육성",
+    "스포츠 디지털 전환",
+    "장애인체육 지원 확대",
+    "스포츠 일자리 창출"
+  ],
+  "recruitment_news": [
+    {
+      "title": "국민체육진흥공단, 문체부와 2025 하반기 스포츠산업 채용박람회 개최 - 뉴스핌",
+      "date": "2025-10-22",
+      "summary": "국민체육진흥공단, 문체부와 2025 하반기 스포츠산업 채용박람회 개최뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ENmNGUFg2eUNCOEdxMlUxY190RGJlaUdUQVUtMjN3OFU3UW5DUklyaWtXOHkwUlVieE81c1h3cThyeUo3eUdQbWFFZTgtdmJid0tHMURIN01CbV93?oc=5"
+    },
+    {
+      "title": "체육공단, 2025 하반기 스포츠산업 채용박람회 개최 - 한국경제",
+      "date": "2025-10-22",
+      "summary": "체육공단, 2025 하반기 스포츠산업 채용박람회 개최한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Da0pIeTB5RzZENk5xdXZnTndCV2NsN2FIWVJFT3c5TDU2NFhmVFpBa0M0c3o3UmpWajFscFJfaHppREpLQzBJU2o0dm0wak9HZGhTSWx0cl9KQdIBVEFVX3lxTE5WTEdua3BHN3drVE5GRWVOY3hfMGhpb0dpUGF0SmRyd0d5anVyYkN6WFh0enhkNUktWVhaSnpEMWtEaDJUTnBYSHRKNHJDdXhsVG9wVg?oc=5"
+    },
+    {
+      "title": "커리어넷, 체육진흥공단과 함께 '스포츠산업 채용박람회' 개최 - 뉴스1",
+      "date": "2025-10-22",
+      "summary": "커리어넷, 체육진흥공단과 함께 '스포츠산업 채용박람회' 개최뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UbklHNEt6Uzh3WXQzMWRKWW5WSExjbFN0ZThEeWZRdGtZbEt6aTZzXzNaeXQ4a1ZqNHg2SjVOdGRSZjl4VDU0c2ZjUW13ZFB4clQ2UUxkdHBtQ0dURzk1Z2Y2S1M?oc=5"
+    },
+    {
+      "title": "체육공단, 2025 하반기 스포츠산업 채용박람회 개최 - 연합뉴스",
+      "date": "2025-10-22",
+      "summary": "체육공단, 2025 하반기 스포츠산업 채용박람회 개최연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfV3B6M3VhY05xWWxWTXN6c2I3YlQzdWU1MEtMNEVoeDlJNFdpR1FaeXRNT0RubHBlclNJQ2cxVW1vdnJKYjVza1c0cGhYNjh3VWNpS0RHSnFvVEHSAWBBVV95cUxNVzRoSlNKTHFySDJwSi14b1FlcENKd2NrM001bmRCRWtJM2xjODZ4bnFLQW9oSk1aMmxOdTd6ZHhZN01aeUZSQVo4US1ndVg5NncteEl3cFZaejB5VUI5Zlo?oc=5"
+    },
+    {
+      "title": "국민체육진흥공단, 공공부문 인적자원개발 최우수기관 선정 - 스타뉴스",
+      "date": "2025-09-18",
+      "summary": "국민체육진흥공단, 공공부문 인적자원개발 최우수기관 선정스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zNTVmMGJSRDEtUGZpV01ZbVB6SjdzZ3pOWDA4a3V3NkpTbnBpZE5uaXBSVjRkSFhvb1pjU1lWV25VcERsLVFPQlY3RmplOW1US2xYZVJuVVZXajdMSGJmRmlhNF9Jckphb1MtNWhXTXExajlGQXc?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.kspo.or.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 1~2회",
+    "method": "NCS 기반 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "면접전형"
+    ],
+    "characteristics": [
+      "정책 이해도",
+      "사업 기획력",
+      "전문 분야 지식"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

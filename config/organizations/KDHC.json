@@ -1,0 +1,188 @@
+{
+  "code": "KDHC",
+  "name": "한국지역난방공사",
+  "category": "에너지/발전",
+  "description": "한국지역난방공사 - 친환경 집단에너지 공급을 통한 국민 생활 향상과 에너지 절약",
+  "keywords": [
+    "지역난방",
+    "집단에너지",
+    "열병합발전",
+    "지역냉방",
+    "열에너지",
+    "신재생에너지",
+    "탄소중립",
+    "에너지효율",
+    "인프라",
+    "친환경"
+  ],
+  "keywords_by_position": {
+    "사무직": [
+      "경영기획",
+      "영업관리",
+      "고객서비스"
+    ],
+    "기계": [
+      "발전설비",
+      "열설비",
+      "펌프운전",
+      "기계설비",
+      "플랜트운영"
+    ],
+    "전기": [
+      "전기설비",
+      "계장제어",
+      "발전운전",
+      "전력계통",
+      "배전관리"
+    ],
+    "화공": [
+      "수처리",
+      "환경관리",
+      "열효율",
+      "공정관리",
+      "화학물질"
+    ],
+    "경영기획": [
+      "경영기획",
+      "사업관리",
+      "조직진단",
+      "리스크관리"
+    ],
+    "사업관리": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "재무/회계/감사": [
+      "회계관리",
+      "재무분석",
+      "결산",
+      "세무"
+    ],
+    "전자개발": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "토목": [
+      "토목설계",
+      "시공관리",
+      "구조물점검",
+      "도로관리"
+    ]
+  },
+  "core_values": [
+    "열 공급 안정",
+    "집단에너지",
+    "고객중심",
+    "안전",
+    "상생"
+  ],
+  "talent_image": "친환경 에너지 공급의 전문가",
+  "slogan": "따뜻한 에너지, 깨끗한 환경",
+  "positions": [
+    "경영기획",
+    "사업관리",
+    "재무/회계/감사",
+    "기계",
+    "전기",
+    "전자개발",
+    "토목",
+    "화공"
+  ],
+  "mission": "친환경 집단에너지 공급을 통한 국민 생활 향상과 에너지 절약",
+  "vision": "탄소중립 시대를 선도하는 친환경 에너지 기업",
+  "recent_initiatives": [
+    "탄소중립 열에너지 전환",
+    "수소연료전지 발전 확대",
+    "폐열 회수 시스템 구축",
+    "스마트 열망 관리 시스템",
+    "친환경 냉난방 확대"
+  ],
+  "recruitment_news": [
+    {
+      "title": "제주여상 문현정 학생, 한국지역난방공사 최종 합격…“고졸 공기업 취업 꿈 이뤘다” - jejudomin.co.kr",
+      "date": "2025-09-05",
+      "summary": "제주여상 문현정 학생, 한국지역난방공사 최종 합격…“고졸 공기업 취업 꿈 이뤘다”jejudomin.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWS0FkQ3dNOE5uR2hwckZfMjhLNkpybGpvdG5NdWpWTU84UEp1c1FCRzFqeS1MM2hVV0gydHZydzRUM0M4M29FMkhVVWRCemd6Q1k1aFoyVFhIU0NpZVlFQ1o2QlJMelYwTEtLUEE2cw?oc=5"
+    },
+    {
+      "title": "지역난방公, 신입직원 67명 채용…NCS 기반 블라인드 채용 - 뉴시스",
+      "date": "2025-05-30",
+      "summary": "지역난방公, 신입직원 67명 채용…NCS 기반 블라인드 채용뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nUnpMRVNzcGdXTlc5VlQ3QkswM2tXY2RNaFJ1UUp2TURDb3daZE1XbG5fVHBkaGNSVWNxbm1XMzBpVWZpWkpHcjRsU2lraFEzMDN2Q1RsZFVJWFhfZE56cNIBeEFVX3lxTE5Ma0JsVE85Wk91UEpkX2hubkxHcWZVcmFGd19WcVNMRnN2SkRDUGlpaTkwaGtVWjRDcS1JaWFLR2ZzbDdWNHFLX1B4eS1ha1UzYm1NZHBTQnVHdjY3ZFRGNVJ4N0pfbjlMcWlNQThmY29EeDBibkxOMQ?oc=5"
+    },
+    {
+      "title": "한난, 2025년도 신입직원 67명 임용 - 민주신문",
+      "date": "2025-09-16",
+      "summary": "한난, 2025년도 신입직원 67명 임용민주신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxNUpzRXUtX1JHbk4xX1hCQUdibWtrY3JDU2V3MXB0ODdIM2lsVmxrcDlaVnFlUHFOZW1YbldhSWNmbTlENnBrRkRnSnFsS3BTVnJUMVBZd3pWQXQyOFpWUHA1Tm5tQ2_SAWtBVV95cUxPdW5Gajh1S2hsSnRodzJScmlnZVBpc2dOSmdaRW1XcGRTMWZ6Um0ySWk1SE9WR2ZEWDBGbzRUcUI4T1JGcWwxVGlPVjhQOHJremFfNUJLNkI4bDdhX3BsT2VYczdvc2ktcXoxMA?oc=5"
+    },
+    {
+      "title": "[공기업 소식] 한국지역난방공사, 신입직원 67명 임용 - incheonilbo.com",
+      "date": "2025-09-15",
+      "summary": "[공기업 소식] 한국지역난방공사, 신입직원 67명 임용incheonilbo.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53dEFNYml6ZEV5a2ljNEEyb0hUaWlObHJvRlMyM3R1emVUeDk5OHc1M0M2WVhCNXdSZ0VZQjgtVGNvV2hLQllPaHNROUZxdjJ3SERuNUNUM1Z2SDZIaWdfRUJSZE1ZNUowbG54b3lZZUc?oc=5"
+    },
+    {
+      "title": "정용기 한난 사장, 주한 키르기스스탄 아이다 이스마일로바 대사와 면담 - 팍스경제TV",
+      "date": "2025-06-11",
+      "summary": "정용기 한난 사장, 주한 키르기스스탄 아이다 이스마일로바 대사와 면담팍스경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JcGNiRThCNFYyOEpmOWsybXNCWGQ2dm5QekEwVXVZUVNjSWEyNmxMY3pfYVVib1VRTGpHZFFhX1NBeUtQVVdMazlQaG5qelVlWGhJTWJ5LVJsWFBDS0w5ZVJTQmZMckph?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.kdhc.co.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 1~2회",
+    "method": "NCS 기반 블라인드 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "면접전형"
+    ],
+    "characteristics": [
+      "기술직 비중 높음",
+      "안전의식 강조",
+      "현장 근무"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

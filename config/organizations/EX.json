@@ -1,0 +1,223 @@
+{
+  "code": "EX",
+  "name": "한국도로공사",
+  "category": "SOC/교통/환경",
+  "description": "한국도로공사 - 고속도로 건설·관리로 국민 이동 편의와 국가 경제 발전에 기여",
+  "keywords": [
+    "고속도로",
+    "도로건설",
+    "유지관리",
+    "휴게소",
+    "통행료",
+    "안전",
+    "교통",
+    "SOC",
+    "스마트도로",
+    "자율주행"
+  ],
+  "keywords_by_position": {
+    "사무직": [
+      "경영기획",
+      "사업관리",
+      "법무",
+      "재무회계"
+    ],
+    "토목": [
+      "도로설계",
+      "교량",
+      "터널",
+      "포장"
+    ],
+    "전기": [
+      "전기설비",
+      "조명",
+      "교통관제",
+      "전력계통",
+      "배전관리"
+    ],
+    "조경": [
+      "휴게소조경",
+      "환경관리",
+      "정책기획",
+      "예산관리",
+      "인사관리"
+    ],
+    "경영기획": [
+      "경영기획",
+      "사업관리",
+      "조직진단",
+      "리스크관리"
+    ],
+    "사업관리": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "법무/노무": [
+      "법률검토",
+      "계약관리",
+      "소송관리",
+      "컴플라이언스"
+    ],
+    "재무/회계/감사": [
+      "회계관리",
+      "재무분석",
+      "결산",
+      "세무"
+    ],
+    "건축": [
+      "건축설계",
+      "시설물관리",
+      "건축허가",
+      "인테리어"
+    ],
+    "기계": [
+      "기계설비",
+      "플랜트운영",
+      "설비보전",
+      "기계설계"
+    ],
+    "IT/ICT": [
+      "시스템개발",
+      "웹개발",
+      "앱개발",
+      "AI/빅데이터"
+    ],
+    "전자개발": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "도시계획": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "교통": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ]
+  },
+  "core_values": [
+    "안전",
+    "고객",
+    "상생",
+    "혁신",
+    "청렴"
+  ],
+  "talent_image": "대한민국 고속도로의 미래를 설계하는 도로 전문인재",
+  "slogan": "길이 열리면 세상이 열립니다",
+  "positions": [
+    "경영기획",
+    "사업관리",
+    "법무/노무",
+    "재무/회계/감사",
+    "토목",
+    "건축",
+    "전기",
+    "조경",
+    "기계",
+    "IT/ICT",
+    "전자개발",
+    "도시계획",
+    "교통"
+  ],
+  "mission": "고속도로 건설·관리로 국민 이동 편의와 국가 경제 발전에 기여",
+  "vision": "세계 최고의 고속도로 서비스 기업",
+  "recent_initiatives": [
+    "스마트 톨링 확대",
+    "고속도로 안전설비 강화",
+    "친환경 휴게소 조성",
+    "자율주행 인프라 구축",
+    "도로 디지털 트윈"
+  ],
+  "recruitment_news": [
+    {
+      "title": "2022년 한국도로공사 실무직(도로관리원) 채용 공고 [취업지원대상자 보훈전형] - go.seoul.co.kr",
+      "date": "2026-01-21",
+      "summary": "2022년 한국도로공사 실무직(도로관리원) 채용 공고 [취업지원대상자 보훈전형]go.seoul.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT2NHOXEtMjlzVUdvamQtbGFfY1JtSlJiWEVpenZmbE8yTjM5SXpyRDR2WWhpREVzVnpuVDQ0d3lZSU8xTDR0SHoxTlVfdEdySkhtZG5PcFRqM1hPQnJ4SnZsZ2JYVDlFcmdGeFh3dmFfZy1YUllYWUxlZ0VFMW8zUE1VQQ?oc=5"
+    },
+    {
+      "title": "공정채용 무시한 한국도로공사서비스, ‘모회사 출신 전용 공고’ 드러나 - 월드장애인사랑뉴스",
+      "date": "2025-10-16",
+      "summary": "공정채용 무시한 한국도로공사서비스, ‘모회사 출신 전용 공고’ 드러나월드장애인사랑뉴스",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BNE8yWW5ZZk5lYzZVUHNqeXhia1RBT3JYRU56Rmx2RFdxT05yYVp2QzlfUEt0bW9yVTJnNktfaTNnWE4tcnhPSmJOUzR2YWd0SWZFRjlGbjZJXzFDRGUxM3F4dE4wOUd6aDRPLUhJVQ?oc=5"
+    },
+    {
+      "title": "권익위, '채용비리·예산유용' 도로공사서비스 사장 경찰에 넘겼다(종합) - 뉴스1",
+      "date": "2025-09-30",
+      "summary": "권익위, '채용비리·예산유용' 도로공사서비스 사장 경찰에 넘겼다(종합)뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oY3NLcnBUekpic2FBN200eWZvVl9mNmFHSDduWVRhUlIteEVKc3F5U2s1bUE5RllXYmdqZlFFLW1tR3VZUFVmQWtfWXcybVBFV0xPdE9hN0VTUV9rekE?oc=5"
+    },
+    {
+      "title": "문진석 \"한국도로공사서비스, 장애인 채용 2명 뿐\" - goodmorningcc.com",
+      "date": "2025-10-30",
+      "summary": "문진석 \"한국도로공사서비스, 장애인 채용 2명 뿐\"goodmorningcc.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NblJiRlZWSFlyQzEyZTJFUEZLMkxmUXhfaFc0UklVdXhtalZvR291Z1N2NUloTk9PUmoxSGNXUmhoNS1tYWdncFB1cEdyRm5VT1E2dUVZdXNLaUl4aDI3OHU4UGZvX3BNT1Rhclg5cWhnQQ?oc=5"
+    },
+    {
+      "title": "한국도로공사서비스, 장애인 채용 우수기관? 5년간 장애인 신규채용은 2건 뿐 - 베이비뉴스",
+      "date": "2025-10-30",
+      "summary": "한국도로공사서비스, 장애인 채용 우수기관? 5년간 장애인 신규채용은 2건 뿐베이비뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVYkQ2UVZiOGItN2VvTTJOUGVwWmlnVkx3ZlBZRFMxUHE1cDE4MkdtdE1WeUN1c1FsYXduTTNjMXJSTDNGRURBdjlRWjFMM2sxSzFudVpwREs3NjR4VUdnVmd4blRmbTBzTjZZQQ?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.ex.co.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 1~2회",
+    "method": "NCS 기반 블라인드 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "면접전형"
+    ],
+    "characteristics": [
+      "인프라 전문성",
+      "현장 중심",
+      "전국 배치"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

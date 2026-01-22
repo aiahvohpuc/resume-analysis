@@ -1,0 +1,178 @@
+{
+  "code": "KDB",
+  "name": "KDB산업은행",
+  "category": "금융",
+  "description": "KDB산업은행 - 산업발전과 국민경제 성장을 위한 정책금융 선도",
+  "keywords": [
+    "산업금융",
+    "정책금융",
+    "IB",
+    "M&A",
+    "프로젝트파이낸싱",
+    "투자금융",
+    "구조조정",
+    "해외금융",
+    "첨단산업",
+    "ESG"
+  ],
+  "keywords_by_position": {
+    "금융": [
+      "여신심사",
+      "투자심사",
+      "IB",
+      "PF",
+      "구조조정"
+    ],
+    "경영기획": [
+      "전략기획",
+      "리스크관리",
+      "해외사업",
+      "경영기획",
+      "사업관리"
+    ],
+    "법무/노무": [
+      "법무지원",
+      "계약심사",
+      "M&A법무",
+      "법률검토",
+      "계약관리"
+    ],
+    "IT/ICT": [
+      "시스템개발",
+      "데이터분석",
+      "디지털금융",
+      "웹개발",
+      "앱개발"
+    ],
+    "재무/회계/감사": [
+      "회계관리",
+      "재무분석",
+      "결산",
+      "세무"
+    ],
+    "바이오/생명": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "화공": [
+      "공정관리",
+      "화학물질",
+      "안전관리",
+      "품질분석"
+    ]
+  },
+  "core_values": [
+    "신뢰",
+    "책임",
+    "협력",
+    "전문성",
+    "혁신"
+  ],
+  "talent_image": "금융과 산업을 융합하는 글로벌 금융전문가",
+  "slogan": "산업의 미래를 금융으로",
+  "positions": [
+    "금융",
+    "경영기획",
+    "재무/회계/감사",
+    "법무/노무",
+    "IT/ICT",
+    "바이오/생명",
+    "화공"
+  ],
+  "mission": "산업발전과 국민경제 성장을 위한 정책금융 선도",
+  "vision": "대한민국 산업의 미래를 여는 글로벌 정책금융 리더",
+  "recent_initiatives": [
+    "탄소중립 산업전환 금융 확대",
+    "반도체·배터리 등 첨단산업 지원",
+    "스타트업 투자 확대",
+    "해외 인프라 금융 강화",
+    "디지털 전환 지원 금융"
+  ],
+  "recruitment_news": [
+    {
+      "title": "KDB산업은행, 부실 대출·특혜 의혹…총 20건 위법·부당 사항 적발 - 오늘경제",
+      "date": "2025-03-07",
+      "summary": "KDB산업은행, 부실 대출·특혜 의혹…총 20건 위법·부당 사항 적발오늘경제",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iTTJubFBPLUdKUFdvMFZqMlM1UUZPaFRaU1dPUzY5SThPZzVySHgzcGZ3NlFFQXM0QjVIRVo5eDYtQmhnTncyNUF4UDZXUkhMQUo3S1NKYy1kUU5hanR5WkszWUtXTENweGs4cmJtLW1RZE0?oc=5"
+    },
+    {
+      "title": "감사원, “산업은행, 부당대출과 채용비리 등 20건 부당 행위” - 세정일보",
+      "date": "2025-03-06",
+      "summary": "감사원, “산업은행, 부당대출과 채용비리 등 20건 부당 행위”세정일보",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZY1ptTUVVN1VBb3VhYmtjellKY0VheXM1cXQzb0ExZHVqYnF1VWw1UG9XczFIOFJHWl9xZno4dGFGcHJEUER1YUdCd1FlRm50UlJDRkx5SVFnbk5qak9zZnBJWkx1RHc5LS0tNg?oc=5"
+    },
+    {
+      "title": "2025년 KDB산업은행 5급 신입행원 채용 공고 - 법률저널",
+      "date": "2024-09-05",
+      "summary": "2025년 KDB산업은행 5급 신입행원 채용 공고법률저널",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Yemk3MnJsTkFpT1JSaGwxZXNsVFBZS2dKLVJQZVo5cUY5cmVZVnc2MFpZZ3BfR1d4am11aC1oempZZ1ptdm9xaWJNYk5yX1VnQWY1SHAyWkVNSlBNZnlpZzZOVjRJUQ?oc=5"
+    },
+    {
+      "title": "“서류심사 공정성에 문제”…산업은행, 신입행원 채용 일정 연기 - kookje.co.kr",
+      "date": "2023-10-03",
+      "summary": "“서류심사 공정성에 문제”…산업은행, 신입행원 채용 일정 연기kookje.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMFVkbUhONm9aSGNzcjNPVU8xNGVqUld5NnBMd0RYSU9wUjBHbWdxRTJYSDVqZmRvMjRpcUxGM2VqR19FRzZfQkoweHBIQVh1TmlweEJjc054WVVQZnhFeHlaNWVXVndEeFJCOURxTllIZ3FUZ25uQmc2bmZNOGxCTXJwR3VEQWhPYTQ2Ql9n?oc=5"
+    },
+    {
+      "title": "채용 청탁에 부실 대출까지...수면 위로 드러난 산업은행 비위 - 핀포인트뉴스",
+      "date": "2025-03-06",
+      "summary": "채용 청탁에 부실 대출까지...수면 위로 드러난 산업은행 비위핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kemFOQlR6MDlXQi05QnI2cVRycWpzY0VfemhUVGtHb1dpczgxOGR1TGQydjZaUjlqR05IaGFMZFgzMFNUcWJ6Vk9xXzRtZi1aTERxN2NnWXkxd1VkVkZ6ZnFmVW5Gdl82SDRfNUlJcGptS2_SAXdBVV95cUxORkpqUEdRRTZ1QlZQX0lWazFNOFdxd19uRkdMdDdXemx1bmZNdFAtajlTaFpTa3hOMHczZ2wwajE1bXdua1RwbjIyQmJ6OW5hcFp1YnZOZnhTbkRGYjVqWkJ1OFhjbGU1YjhUM2JaT2ZRcGpSUFFXbw?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.kdb.co.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 1~2회 (상반기 중심)",
+    "method": "직무역량 중심 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "1차면접",
+      "2차면접"
+    ],
+    "characteristics": [
+      "금융전문가 선호",
+      "어학능력 중시",
+      "본사 근무"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "code": "HUMETRO",
+  "name": "부산교통공사",
+  "category": "SOC/교통/환경",
+  "description": "부산교통공사 - 안전하고 편리한 도시철도 서비스로 부산시민의 이동권 보장",
+  "keywords": [
+    "도시철도",
+    "지하철",
+    "경전철",
+    "부산",
+    "안전",
+    "전동차",
+    "역무",
+    "승무",
+    "교통서비스",
+    "시민"
+  ],
+  "keywords_by_position": {
+    "사무직": [
+      "경영기획",
+      "고객서비스",
+      "사업관리"
+    ],
+    "운전": [
+      "전동차운전",
+      "관제",
+      "정책기획",
+      "예산관리",
+      "인사관리"
+    ],
+    "승무": [
+      "역무",
+      "고객응대",
+      "정책기획",
+      "예산관리",
+      "인사관리"
+    ],
+    "차량": [
+      "전동차정비",
+      "기계정비"
+    ],
+    "경영기획": [
+      "경영기획",
+      "사업관리",
+      "조직진단",
+      "리스크관리"
+    ],
+    "사업관리": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "고객서비스": [
+      "고객상담",
+      "민원처리",
+      "서비스품질",
+      "VOC관리"
+    ],
+    "토목": [
+      "토목설계",
+      "시공관리",
+      "구조물점검",
+      "도로관리"
+    ],
+    "건축": [
+      "건축설계",
+      "시설물관리",
+      "건축허가",
+      "인테리어"
+    ],
+    "기계": [
+      "기계설비",
+      "플랜트운영",
+      "설비보전",
+      "기계설계"
+    ],
+    "전기": [
+      "전기설비",
+      "전력계통",
+      "배전관리",
+      "전기안전"
+    ],
+    "전기철도": [
+      "전기설비",
+      "전력계통",
+      "배전관리",
+      "전기안전"
+    ],
+    "철도신호": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "통신": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "철도차량": [
+      "차량정비",
+      "차량검수",
+      "유지보수",
+      "부품관리"
+    ]
+  },
+  "core_values": [
+    "안전",
+    "고객",
+    "상생",
+    "혁신",
+    "청렴"
+  ],
+  "talent_image": "부산 도시철도의 안전과 미래를 책임지는 인재",
+  "slogan": "시민과 함께하는 부산교통공사",
+  "positions": [
+    "경영기획",
+    "사업관리",
+    "고객서비스",
+    "운전",
+    "승무",
+    "토목",
+    "건축",
+    "기계",
+    "전기",
+    "전기철도",
+    "철도신호",
+    "통신",
+    "철도차량"
+  ],
+  "mission": "안전하고 편리한 도시철도 서비스로 부산시민의 이동권 보장",
+  "vision": "시민 행복을 실현하는 글로벌 교통기업",
+  "recent_initiatives": [
+    "무인운전 경전철 운영",
+    "안전설비 현대화",
+    "역사 환경개선",
+    "친환경 전동차 도입",
+    "스마트 교통서비스"
+  ],
+  "recruitment_news": [
+    {
+      "title": "현직자가 알려주는 '꿀팁'은… 국립부경대, 부산교통공사 직무 멘토링 캠프 - 아시아경제",
+      "date": "2026-01-07",
+      "summary": "현직자가 알려주는 '꿀팁'은… 국립부경대, 부산교통공사 직무 멘토링 캠프아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHV3lGblBoZ3lBUkFtbG9SMGpJOVNrS2lzaGR5VW5Md0dlV29JeHN5aTJTZWhyRVQtN0lUM2ppblpHVm4xVG1SS3Y2dXBvd0NuTDRTa09lMFlhVVhsQWIxRw?oc=5"
+    },
+    {
+      "title": "국립부경대, 부산교통공사 직무 멘토링 캠프 개최 - 베타뉴스",
+      "date": "2026-01-07",
+      "summary": "국립부경대, 부산교통공사 직무 멘토링 캠프 개최베타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NWnN6Y05FOUN6ckxVTTdycUZSLWl0UzR3d1RqeXE4NjlrSnFadU51WjZXNkRtUm5md25wNFRvdHJTZks0dlQzSGxTRlVJb1hvRWxaeG9Cc2lPLTJpMGlKNzdRcHU?oc=5"
+    },
+    {
+      "title": "국립부경대, 부울경 7개 대학 연합 '부산교통공사 직무 캠프' 성료 - 국토일보",
+      "date": "2026-01-07",
+      "summary": "국립부경대, 부울경 7개 대학 연합 '부산교통공사 직무 캠프' 성료국토일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01MEk5NUdrOG1POGE5d1Nsd2F0TF9MN1k5OGhicVk1X3RfclZUX2JPZUhmQy1nVXplZzA4WVZ3Nm53TkFBV2pndG5hcll1VmhqMGNiSGxvTFJiZzdZbldwUXFPVnk?oc=5"
+    },
+    {
+      "title": "부산교통공사, 상반기 187명 신입사원 채용 완료 - 세계일보",
+      "date": "2025-07-23",
+      "summary": "부산교통공사, 상반기 187명 신입사원 채용 완료세계일보",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JLXhsQVJDRGZSTW5kV1NKSmUybW9DWjd0WGFLVWE2Z1U1Q2NFWExqNWppMl9zQ29mYVhjTDNKUE5Tb1I1RGR0UGhHWWpqcmRuX1k2QmZkOUfSAVRBVV95cUxQbVlHeG1kNnR0RjExTkFNMXN1REVsWDZsc2VvNXV6aFVPdEtxc3c5NVQ4LV9lazl6cXJTZmRoQW01a2JkVjlzLVhRcURnZDZmNXpjUlg?oc=5"
+    },
+    {
+      "title": "[이게 뭡니까] 부산교통공사 직원 채용기준 '내 멋대로' - 머니S",
+      "date": "2025-12-22",
+      "summary": "[이게 뭡니까] 부산교통공사 직원 채용기준 '내 멋대로'머니S",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnanlGeGFoZUtQa1dMNmc4Y3kxWl9acHRLRkg1dEd1M2pvYlhXVVFwejZZSDVURzJKeENBSlB3M05XV3NLdF9XT2N0eV9JMktWVmpzOHVrNHpWVGtKak5rNXpn?oc=5"
+    },
+    {
+      "title": "국립부경대, 부산교통공사 직무 멘토링 캠프 개최 - MSN",
+      "date": "2026-01-17",
+      "summary": "국립부경대, 부산교통공사 직무 멘토링 캠프 개최MSN",
+      "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxNMUNzNlUwTXVGbUVrem1vX0dUQS1GQVNGSHRvS3VzY3ZSVzNhWjRNQVI4VzNMMkYtNmthcXo3VDZNQXdEd2VmcmNZUExvLTBpaEtZUnZmNlhJeVJfTmZMMlhKOFJMNndxYXluaWNMQjZTMlVDT0J2bG5rVV82RHBLYTZhcUN6WFpTWl9haVNBak1pRGptYmVqUEtRc0NqbVFGUU02ZXM1UkJIbjBJSnIyOGpLY0NWUjV0R0FzSFEtbm5CZDZvVllyb1p4SDNuSnlXNjlXdHVMRG1zdVhQM1RnNWtzam8zelk1b0NrRU1uckR0QWxrYWJxa054eDZXUW1ZSkJweExYeHRzVkR3NUVqUXNyelhvNHJtc2dYT0JodGJCeWtXa3BVcGNMLXpFaktnSlZUQnRoZUdUc2drWTk1ZGt0N3Y2Um1OT0hpX1k2b3dldVY0LXZ6U1B1dW83NFFjdnBaaEl5Y0hPSVh3VWRmLVdSZjhZQmQ4OHZfbzdpc1VBOTlVLVJ0ZW95bWdYWVgxLWVmOXVrc0o0X0F1MXdyR0Zudm9KWFNrTUNTVEtYT2p1SzhPZV9oSmc2SUF2eDI2MWJGTjMtMlIxa1pFTm9ZLXRqNFNJQ002YlQtbjFSMm5PVzNDOUZPSl9VQQ?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.humetro.busan.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 1~2회",
+    "method": "NCS 기반 블라인드 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "면접전형"
+    ],
+    "characteristics": [
+      "인프라 전문성",
+      "현장 중심",
+      "전국 배치"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

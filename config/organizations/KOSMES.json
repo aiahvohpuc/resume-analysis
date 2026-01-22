@@ -1,0 +1,181 @@
+{
+  "code": "KOSMES",
+  "name": "중소벤처기업진흥공단",
+  "category": "산업진흥/기타",
+  "description": "중소벤처기업진흥공단 - 중소벤처기업의 성장과 혁신을 통한 국가 경제 발전 기여",
+  "keywords": [
+    "중소기업",
+    "벤처",
+    "정책자금",
+    "수출지원",
+    "스마트공장",
+    "창업보육",
+    "기업금융",
+    "해외진출",
+    "연수원",
+    "기업육성"
+  ],
+  "keywords_by_position": {
+    "사무직": [
+      "정책기획",
+      "자금심사",
+      "수출지원"
+    ],
+    "전산직": [
+      "시스템운영",
+      "데이터분석",
+      "정보보안"
+    ],
+    "교육직": [
+      "연수운영",
+      "기업교육",
+      "인력양성"
+    ],
+    "경영기획": [
+      "경영기획",
+      "사업관리",
+      "조직진단",
+      "리스크관리"
+    ],
+    "사업관리": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "인사/총무": [
+      "채용관리",
+      "교육훈련",
+      "인사평가",
+      "노무관리"
+    ],
+    "재무/회계/감사": [
+      "회계관리",
+      "재무분석",
+      "결산",
+      "세무"
+    ],
+    "IT/ICT": [
+      "시스템개발",
+      "웹개발",
+      "앱개발",
+      "AI/빅데이터"
+    ],
+    "금융": [
+      "여신심사",
+      "대출관리",
+      "리스크관리",
+      "금융상품"
+    ]
+  },
+  "core_values": [
+    "고객지향",
+    "협력",
+    "전문성",
+    "혁신",
+    "청렴"
+  ],
+  "talent_image": "중소기업 성장을 지원하는 기업금융/정책 전문인재",
+  "slogan": "중소기업의 성장을 함께합니다",
+  "positions": [
+    "경영기획",
+    "사업관리",
+    "인사/총무",
+    "재무/회계/감사",
+    "IT/ICT",
+    "금융"
+  ],
+  "mission": "중소벤처기업의 성장과 혁신을 통한 국가 경제 발전 기여",
+  "vision": "중소벤처기업 성장의 든든한 파트너",
+  "recent_initiatives": [
+    "스마트공장 보급 확대",
+    "K-글로벌 수출 지원",
+    "그린뉴딜 중소기업 육성",
+    "디지털 전환 컨설팅",
+    "청년 중소기업 취업 연계"
+  ],
+  "recruitment_news": [
+    {
+      "title": "\"맞춤 취업정보 제공\"…중진공, 찾아가는 채용설명회 개최 - 뉴스1",
+      "date": "2025-03-11",
+      "summary": "\"맞춤 취업정보 제공\"…중진공, 찾아가는 채용설명회 개최뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Pem1QMTBIazlTQTVBc1NyWTZvbE1QcEJaYi1HdVFfV05tVndsMzd1em9FZ245MElFUFFUZHhfOE84QkZqQ2JKTXZOY3RUYURidGQtb2ZYWEFFeDhp?oc=5"
+    },
+    {
+      "title": "서울시-중진공, 외국인 취업·채용 박람회…80여 기업 참여 - 연합뉴스",
+      "date": "2025-11-20",
+      "summary": "서울시-중진공, 외국인 취업·채용 박람회…80여 기업 참여연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rR0h3Tk15MFZ0MnFiTDBfMXVqSkU3SFFVWDYxdml0b2RzZUFmRXk1ZmV4XzJDVFRObGl3N2l5bGxYcjgyYmlpbmhEaEdEeUpWY05XelpGS0pGMkHSAWBBVV95cUxPV29CWlBkZlZOMzBvbi1FamNXNjFsM1BmYnVTNjBRaDVsaG5UT0FYOHQ2RUY0NVVzZWtpN0tzRVRaMWRfVHg3cHJmckctUm9zNHM5dThzbHdpM191NTF2OTc?oc=5"
+    },
+    {
+      "title": "[오늘의 공기업 채용정보] 중소벤처기업진흥공단, 2025년 하반기 신입 및 경력사원 66명 채용 - 아웃소싱타임스",
+      "date": "2025-09-05",
+      "summary": "[오늘의 공기업 채용정보] 중소벤처기업진흥공단, 2025년 하반기 신입 및 경력사원 66명 채용아웃소싱타임스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxQWEzMUZOTC1EcG9NRDF1OTdXbVJvOUdaMzBtZmN2eTRkMFFGeEJNeHg1cGdhWlltQTRpc0loU2d5WVpfS3hJeDBIMy1BRFU3dFpfRjVVSXJMcjB5UHAzTkRjMnNZQzhka2xaSmh3NjlmUQ?oc=5"
+    },
+    {
+      "title": "경상국립대-중소벤처기업진흥공단, 업무협약 체결 - 베리타스알파",
+      "date": "2025-07-30",
+      "summary": "경상국립대-중소벤처기업진흥공단, 업무협약 체결베리타스알파",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51QzY0UzRfWVJTWElOcjNCdjhBcGdrYllMX2NYOF9Rdl9PelY1OUY4dkxDd21ycFFyNWZUYzhoZmhEWV9ZUGFxdV9JSXROWUhONHpvREVIUjdrX3FNaVVGUXNmZy1IZzJUWDBr?oc=5"
+    },
+    {
+      "title": "중진공, 글로벌 역량 갖춘 외국인 유학생 채용 박람회 개최...K-Work 활용 - 글로벌이코노믹",
+      "date": "2025-12-01",
+      "summary": "중진공, 글로벌 역량 갖춘 외국인 유학생 채용 박람회 개최...K-Work 활용글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWko1TXI5dmZULVRMWW92QWVIS2tJaDR6WW0xTWNmRTVpS2pHc3I0REU2eHc0TW1WZXJiRG9OOW9IMEY1UXFuOGtWNEkzYzhYcHRjTG8zOFRCQ3JHaWtnMXctOHo3WmtJZU5zeXdhTXZWSTkyQVZ4M2pHUWtrZXBUZzA0ZXlvdTFVSXc?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.kosmes.or.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 1~2회",
+    "method": "NCS 기반 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "면접전형"
+    ],
+    "characteristics": [
+      "정책 이해도",
+      "사업 기획력",
+      "전문 분야 지식"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "code": "KEIS",
+  "name": "한국고용정보원",
+  "category": "산업진흥/기타",
+  "description": "한국고용정보원 - 고용정보 수집·분석·제공으로 국민의 일자리 창출과 고용안정 기여",
+  "keywords": [
+    "고용정보",
+    "워크넷",
+    "일자리",
+    "고용보험",
+    "직업정보",
+    "취업지원",
+    "빅데이터",
+    "직업심리검사",
+    "고용동향",
+    "진로"
+  ],
+  "keywords_by_position": {
+    "사무직": [
+      "고용정책",
+      "직업연구",
+      "사업운영"
+    ],
+    "전산직": [
+      "시스템개발",
+      "데이터분석",
+      "정보보안"
+    ],
+    "연구직": [
+      "고용동향분석",
+      "직업전망연구",
+      "정책연구",
+      "R&D",
+      "기술개발"
+    ],
+    "경영기획": [
+      "경영기획",
+      "사업관리",
+      "조직진단",
+      "리스크관리"
+    ],
+    "사업관리": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "인사/총무": [
+      "채용관리",
+      "교육훈련",
+      "인사평가",
+      "노무관리"
+    ],
+    "재무/회계/감사": [
+      "회계관리",
+      "재무분석",
+      "결산",
+      "세무"
+    ],
+    "IT/ICT": [
+      "시스템개발",
+      "웹개발",
+      "앱개발",
+      "AI/빅데이터"
+    ]
+  },
+  "core_values": [
+    "직업상담",
+    "고용정보",
+    "신뢰",
+    "협력",
+    "전문성"
+  ],
+  "talent_image": "고용정보 분석으로 일자리 정책을 지원하는 데이터 전문인재",
+  "slogan": "고용정보로 여는 희망의 일자리",
+  "positions": [
+    "경영기획",
+    "사업관리",
+    "인사/총무",
+    "재무/회계/감사",
+    "IT/ICT",
+    "연구직"
+  ],
+  "mission": "고용정보 수집·분석·제공으로 국민의 일자리 창출과 고용안정 기여",
+  "vision": "고용정보 빅데이터 플랫폼으로 일자리 미래를 선도하는 기관",
+  "recent_initiatives": [
+    "AI 기반 일자리 매칭 고도화",
+    "고용 빅데이터 분석 플랫폼",
+    "워크넷 사용자 경험 개선",
+    "미래 직업 전망 연구",
+    "고용서비스 디지털 전환"
+  ],
+  "recruitment_news": [
+    {
+      "title": "목포대 대학일자리플러스센터, 성과평가 우수…3년 연속 - 네이트",
+      "date": "2026-01-22",
+      "summary": "목포대 대학일자리플러스센터, 성과평가 우수…3년 연속네이트",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WdnZQS2RYaTNydFVPVmdVUVZDODRhNVdxdk9UOC1uaUxINUpNZVpTTjFzZjBfakxqV0t5bk11UEdtWXRfYTAyUl93ZkZnQWI5dUJnQkU4a1kxdXA4UWIxOVdfVEdid3lLakdQSTg2dmJZWlg4YWI0RQ?oc=5"
+    },
+    {
+      "title": "한국고용정보원, ‘AI 고용서비스 윤리원칙’ 제정··· “국민이 안심하는 일자리 서비스 만든다” - kbmaeil.com",
+      "date": "2025-12-11",
+      "summary": "한국고용정보원, ‘AI 고용서비스 윤리원칙’ 제정··· “국민이 안심하는 일자리 서비스 만든다”kbmaeil.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94RTd3dzMzd0ZVMHpBeEw0bnlIYWRTMi1iOXFuNXdvRkJOdEJPVDN0TjZhQ1VsT0xydndrR21KRFV3Vy1yU1h1RXA0SWM0V2FXN2N3OTJXQzhDUQ?oc=5"
+    },
+    {
+      "title": "건설워커 채용공고, ‘고용24’에서 본다 - 대한경제",
+      "date": "2025-09-04",
+      "summary": "건설워커 채용공고, ‘고용24’에서 본다대한경제",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OemNkdk83WUQ2dFZfdkRVV2MzUGlqOHV5SmZzZ3IySDgzS0JMSW44cWZzX3FMMUcybFB6NnA4RURwWnNOX21RektSQXVmNmxRaEhhRHF3Tjgtc3RzeDNLbUpKMVJUQkZLODZqQ2tKX2RDS0pm?oc=5"
+    },
+    {
+      "title": "고용정보원 \"고령자 재고용, 정년연장보다 임금·근속 모두 취약\" - v.daum.net",
+      "date": "2026-01-11",
+      "summary": "고용정보원 \"고령자 재고용, 정년연장보다 임금·근속 모두 취약\"v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NeXBUZlVka3FqSUliS0VXLWU2ZUlWTDZHRFFKb1RqQzA1T3hpME52a3dreWFqdGs5MHZKOGpmay1udG5lYWVESXZKSDg5VGdCWGRrQw?oc=5"
+    },
+    {
+      "title": "청년 채용시 전문성이 최우선…전공·일경험 중시 - 전기신문",
+      "date": "2025-11-18",
+      "summary": "청년 채용시 전문성이 최우선…전공·일경험 중시전기신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQSWg4OUh1cjlhd0dGZXEyMHZfNXhPVTF0MWdXbXlxS2xQQnhJYUtEX3pra0dUaFp0cThLZTNyS2dXMWQwWVcxMVBmbDRtOVRoZS1GU3B0aGxmVjdxLWtIT3lZX2tkclVvQ3VFT9IBcEFVX3lxTFBGN0d6VTVRTHYwT0hCaEFlYUhxNnhkMEFUci1UZ0ZsNlJnSi10RGQ4amNncXdITS11MFRZczdvZ2c1aWNBZFJ4UW04SmVzWmJLTTdOek0zblNtMW1SVFE2N1BXRkNickpkb290WVRmSDM?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.keis.or.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 1~2회",
+    "method": "NCS 기반 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "면접전형"
+    ],
+    "characteristics": [
+      "정책 이해도",
+      "사업 기획력",
+      "전문 분야 지식"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

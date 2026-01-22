@@ -1,0 +1,203 @@
+{
+  "code": "KGS",
+  "name": "한국가스안전공사",
+  "category": "에너지/발전",
+  "description": "한국가스안전공사 - 가스 안전관리를 통한 국민의 생명과 재산 보호",
+  "keywords": [
+    "가스안전",
+    "검사검정",
+    "안전관리",
+    "사고조사",
+    "안전교육",
+    "수소안전",
+    "LPG",
+    "도시가스",
+    "안전기준",
+    "위험성평가"
+  ],
+  "keywords_by_position": {
+    "사무직": [
+      "경영기획",
+      "안전정책",
+      "교육훈련",
+      "고객서비스"
+    ],
+    "기계": [
+      "시설검사",
+      "설비진단",
+      "기술기준",
+      "기계설비",
+      "플랜트운영"
+    ],
+    "전기": [
+      "전기검사",
+      "계장검사",
+      "안전설비",
+      "전기설비",
+      "전력계통"
+    ],
+    "화공": [
+      "가스검사",
+      "위험성평가",
+      "공정안전",
+      "공정관리",
+      "화학물질"
+    ],
+    "경영기획": [
+      "경영기획",
+      "사업관리",
+      "조직진단",
+      "리스크관리"
+    ],
+    "사업관리": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "인사/총무": [
+      "채용관리",
+      "교육훈련",
+      "인사평가",
+      "노무관리"
+    ],
+    "재무/회계/감사": [
+      "회계관리",
+      "재무분석",
+      "결산",
+      "세무"
+    ],
+    "IT/ICT": [
+      "시스템개발",
+      "웹개발",
+      "앱개발",
+      "AI/빅데이터"
+    ],
+    "산업안전": [
+      "산업안전",
+      "재해예방",
+      "안전점검",
+      "비상대응"
+    ],
+    "에너지/가스": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ]
+  },
+  "core_values": [
+    "안전",
+    "신뢰",
+    "소통",
+    "전문성",
+    "혁신"
+  ],
+  "talent_image": "가스안전 분야의 전문가로서 국민안전을 책임지는 인재",
+  "slogan": "안전한 가스, 행복한 국민",
+  "positions": [
+    "경영기획",
+    "사업관리",
+    "인사/총무",
+    "재무/회계/감사",
+    "IT/ICT",
+    "기계",
+    "전기",
+    "화공",
+    "산업안전",
+    "에너지/가스"
+  ],
+  "mission": "가스 안전관리를 통한 국민의 생명과 재산 보호",
+  "vision": "국민과 함께하는 글로벌 가스안전 전문기관",
+  "recent_initiatives": [
+    "수소충전소 안전관리 체계 구축",
+    "AI 기반 가스안전 진단 시스템",
+    "IoT 가스안전 모니터링",
+    "온라인 안전교육 플랫폼",
+    "가스안전 국제표준 선도"
+  ],
+  "recruitment_news": [
+    {
+      "title": "한국가스안전공사 충북 이전 10년 성과 조명 - 1.지역인재채용 - jbnews.com",
+      "date": "2024-04-15",
+      "summary": "한국가스안전공사 충북 이전 10년 성과 조명 - 1.지역인재채용jbnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvMjZZRlI4YWVnY0pFWFd1YldONHVXLVRhRVZzdWQ0bDdPbmFranNsQmFISDJ4QlRmMWctUjNxV2tFZFNkS1FBZzFtbmxMZ05uQnQ5NnJqWklnTHp4NEFqNXpLU2hxeGFmRHfSAW5BVV95cUxPZ0MzSWRkdW1McGR6djYzS2NEWUIwS1FlMGNEd204QWdPOVFJSjA2ZmVYblNEV3FDNld2MTluLWl6aFpORGNWbEFMZEdEbHJkemlaM1R5S0VRdUxqUDhra3Rpemw1MXd5REJPQW0tZw?oc=5"
+    },
+    {
+      "title": "한국가스안전공사, 노약자 등 사회적 약자 채용 발벗고 나서 고용기회 확대…일자리 우수기관 '2관왕' - 한국경제",
+      "date": "2023-04-24",
+      "summary": "한국가스안전공사, 노약자 등 사회적 약자 채용 발벗고 나서 고용기회 확대…일자리 우수기관 '2관왕'한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FbUpqTGF2akotWGhSdjFzWF9Hanh1T1cxaEx3cTNYZ3VzZG5mTlhiajl2QkhNWmlOLTc4b2czNjdwRWJQRUp4ZklZazRUNHRJLU55Z18tN3hQZ9IBVEFVX3lxTE1yTDlqaEpmNVlBN0RNZGp3dm1ra0FuNmhJVWVoX0VmdjFZdlJKMVoxSmwyZjM4X0JCY01veE43aHZVRndrVzN2VTVJQ0txV3pmTHNTOA?oc=5"
+    },
+    {
+      "title": "\"여성 채용 안돼\" 가스안전공사 면접점수 조작해 7명 낙방(종합) - 연합뉴스",
+      "date": "2017-09-27",
+      "summary": "\"여성 채용 안돼\" 가스안전공사 면접점수 조작해 7명 낙방(종합)연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5haGg3M3NGV05hRVlfdmE4OWxISFplVVh0YW9rdjczdldWTDJrb2Z1ZFdqcFRBWFVXcEtkZFU4UVpNcncxUVA4WF9uenYyM2ZkeDF0U1FqSGlOX3fSAWBBVV95cUxQamNKOVVmQ3hZa1NSZUNXQ0gwc0VjdUhST1p1dFB6SVpXSklKMzN1dENMUEw3SDYxdGxXV3dCeV91UWtfZ2x0QmVKUmx6aVhENVFmTVRyLVNTU1F3bGZyQkY?oc=5"
+    },
+    {
+      "title": "순천공고 손수민‧이영서 학생, 공사·공무원 최종합격 - jnedu.kr",
+      "date": "2025-12-11",
+      "summary": "순천공고 손수민‧이영서 학생, 공사·공무원 최종합격jnedu.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3OTBSZ0JZYzZnaVZoaXJQOFFScmUxYkE5S1h3OE5WSllLcnNab3NBcFBqSy0wRzZQZkFacVhoYWhLZHB1MnVoZFJtWnhMSnZ3eVNLNlRaTWZLTlZaZnotcEs4UUFnQdIBakFVX3lxTE9ZVm1kQlZBYk82R1dlNlJudzRvZ1NPSkdxd1hldGhjOXY2WnE5VEo2aGJCdmNicl82Mm80MTR4WXFVRVRGR0FJWWVsU1hYQ2hTVVpzOU85N2NWV1BBRjlLMmRIaHJWcFcycUE?oc=5"
+    },
+    {
+      "title": "‘채용비리’ 박기동 전 가스안전공사 사장 징역 4년형 확정 - 백세시대",
+      "date": "2018-11-05",
+      "summary": "‘채용비리’ 박기동 전 가스안전공사 사장 징역 4년형 확정백세시대",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ISnJzQ0w2WGM4bTJlQ0xSRndHbmVuQnRVcVVmZExyX1BJZWRqXzhtTzZhVk14VnBzbXVhRVZDRDBoYjJFN2tOMjhINi1iVGQwOXdHV29UNHFkWXNsMDZiV3BvVUtGS2xGWEE?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.kgs.or.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 1~2회",
+    "method": "NCS 기반 블라인드 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "면접전형"
+    ],
+    "characteristics": [
+      "기술직 비중 높음",
+      "안전의식 강조",
+      "현장 근무"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

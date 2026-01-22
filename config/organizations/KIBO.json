@@ -1,0 +1,194 @@
+{
+  "code": "KIBO",
+  "name": "기술보증기금",
+  "category": "금융",
+  "description": "기술보증기금 - 기술혁신 중소기업의 성장을 지원하여 국가경제 발전에 기여",
+  "keywords": [
+    "기술보증",
+    "기술평가",
+    "중소기업",
+    "벤처",
+    "스타트업",
+    "기술금융",
+    "혁신성장",
+    "IP금융",
+    "기술사업화",
+    "창업지원"
+  ],
+  "keywords_by_position": {
+    "금융": [
+      "보증심사",
+      "기술평가",
+      "여신관리",
+      "리스크관리"
+    ],
+    "경영기획": [
+      "전략기획",
+      "경영분석",
+      "사업개발",
+      "경영기획",
+      "사업관리"
+    ],
+    "IT/ICT": [
+      "시스템개발",
+      "데이터분석",
+      "AI/ML",
+      "정보보안"
+    ],
+    "재무/회계/감사": [
+      "회계관리",
+      "재무분석",
+      "결산",
+      "세무"
+    ],
+    "법무/노무": [
+      "법률검토",
+      "계약관리",
+      "소송관리",
+      "컴플라이언스"
+    ],
+    "기계": [
+      "기계설비",
+      "플랜트운영",
+      "설비보전",
+      "기계설계"
+    ],
+    "전기": [
+      "전기설비",
+      "전력계통",
+      "배전관리",
+      "전기안전"
+    ],
+    "화공": [
+      "공정관리",
+      "화학물질",
+      "안전관리",
+      "품질분석"
+    ],
+    "바이오/생명": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ]
+  },
+  "core_values": [
+    "혁신기업 지원",
+    "기술금융",
+    "고객중심",
+    "신뢰",
+    "상생"
+  ],
+  "talent_image": "기술과 금융을 융합하는 창의적 전문인재",
+  "slogan": "기술이 미래다",
+  "positions": [
+    "금융",
+    "경영기획",
+    "재무/회계/감사",
+    "법무/노무",
+    "IT/ICT",
+    "기계",
+    "전기",
+    "화공",
+    "바이오/생명"
+  ],
+  "mission": "기술혁신 중소기업의 성장을 지원하여 국가경제 발전에 기여",
+  "vision": "기술금융 선도기관, 혁신성장의 든든한 파트너",
+  "recent_initiatives": [
+    "AI 기반 기술평가 시스템 고도화",
+    "탄소중립 녹색기술 보증 확대",
+    "스타트업 전용 보증상품 출시",
+    "디지털 플랫폼 기업 지원 강화",
+    "IP(지식재산) 금융 활성화"
+  ],
+  "recruitment_news": [
+    {
+      "title": "기술보증기금, 역대 최대 규모 신입직원 117명 채용에 나서 - 대한금융신문",
+      "date": "2025-06-13",
+      "summary": "기술보증기금, 역대 최대 규모 신입직원 117명 채용에 나서대한금융신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xenhFdTQ0UWZsY0pGVm1TMUI4cTRvQ0JPM0d3ZmZTQ25HQmlwVEs1S2VHQUtmRUoxTEZ4ZjJONWZITEU2Njh5R2JLZW1haTRGa3E4bDYtYUNZM2pNcFVsdEdnRjZGLVlWemo2a9IBcEFVX3lxTE9fZzlQRkx5VGlFcHhLc1dKQXZ6M0pJcU9UQWU4NEdlNS1pWFNzb3pGcHhlRzRtc1RTUURkc2V1dGlWaDgwR1dHMlpFZVhBX2VlLUFBenRZdmhVdUtFUVR1RUZCXzViMGcwa0l5bWpMYXE?oc=5"
+    },
+    {
+      "title": "기보, ‘역대 최대 규모’ 신입 117명 채용한다 - busan.com",
+      "date": "2025-06-13",
+      "summary": "기보, ‘역대 최대 규모’ 신입 117명 채용한다busan.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4VDI2QVhRLW9OVHYwMTVZOUhDQnQzUVZGSlg5bFFqS2otY1J2a2FwZFRFSzF1R01RLUZXc0R5bExoU0lZTWd5bjRnYUV5Y2pGc2c0MjZjaHZoSWdGaXdGbVRha2g3aG1MOXQ2LXZqYWNfQUhO?oc=5"
+    },
+    {
+      "title": "인크루트, 6월 공기업·공공기관 신입 채용 공고 소개 - 지디넷코리아",
+      "date": "2025-06-20",
+      "summary": "인크루트, 6월 공기업·공공기관 신입 채용 공고 소개지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoSDFIa2F2M3hFcWRqeGhZVmFDMTFCcEc4aVphbEo5UGF4YWtNd2ItZkVsSlRxQTJmOXB2MG0wRlc4S2RaUzNtY0NDdURlTFpLRUtLdEtB?oc=5"
+    },
+    {
+      "title": "기술보증기금·KOICA·중부발전·한국투자공사 등 6월 신입채용 공고 - 피앤피뉴스",
+      "date": "2025-06-20",
+      "summary": "기술보증기금·KOICA·중부발전·한국투자공사 등 6월 신입채용 공고피앤피뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkVWZEUl9aSFlibTBBMnNfVjQ1cGY2cUpNMnBLc2JIWkZLY1NrQlhfNmxQV0xIbUZuOE1FSC1VNkk1LTV2OE9VVnMzdEtqUGJOcDBSS3R1eTdiQ1dBV3fSAVZBVV95cUxPOEQ5QzhVbmVFQ3VQNGxYXzJVaTVSS3ZwVlZfdmt0eXZpOWxhLXlKVlY4YkZFX0VsNjFaandlTDJ6OHhwb1Q4aklFQUpTTmFYbDdVdFdnUQ?oc=5"
+    },
+    {
+      "title": "기술보증기금, `공정채용 우수기관 인증` 2년 연속 획득 - busan.com",
+      "date": "2025-06-12",
+      "summary": "기술보증기금, `공정채용 우수기관 인증` 2년 연속 획득busan.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qWG5vN09GRVBwZHpFejBLUzN5aXdtZkNoMmlwMzJlNTFXS09XR0R1QVkzTjZwQXFsZkFyUUJJcGwtdGRadjA4aTY2ZFI5OGptRzRqMGNnaGUzQXZZTEpEb0V5R3ZnYTFJY0Rtd3BSZU80aVFP?oc=5"
+    },
+    {
+      "title": "기술보증기금, 신입 직원 74명 채용…지역인재 32명 - 연합뉴스",
+      "date": "2023-11-23",
+      "summary": "기술보증기금, 신입 직원 74명 채용…지역인재 32명연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92aEVmN1lDWEI5V2ZSbWFTTDVnTmMwM1NIVkF3WHo3RFFpUUx0V1phUVNOUW9Ja3gzNXpTUXd1STJrc2lKeUctaUhPRDB2RVU4d1dtQjZVblZ0SHPSAWBBVV95cUxNTWtPYUJnQnRuRVNRcHJlRmZDajhSZ1dTOHlOclRNVFNLT0tPTGt4MTNnVm8xdmJqaGpnLVdkUkhRNENycUhmdjhfZ3lReXlMcVRoaGVsVjlxS1VTYTBfUXg?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.kibo.or.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 1~2회",
+    "method": "NCS 기반 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "면접전형"
+    ],
+    "characteristics": [
+      "금융 전문성",
+      "분석력 중시",
+      "자격증 우대"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

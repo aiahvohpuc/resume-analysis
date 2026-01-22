@@ -1,0 +1,210 @@
+{
+  "code": "GENCO",
+  "name": "5대 발전사",
+  "category": "에너지/발전",
+  "description": "5대 발전사 - 안정적인 전력 생산으로 국가 에너지 안보와 경제 발전에 기여",
+  "keywords": [
+    "화력발전",
+    "LNG발전",
+    "신재생에너지",
+    "탄소중립",
+    "발전설비",
+    "터빈",
+    "보일러",
+    "환경설비",
+    "에너지전환",
+    "그린수소"
+  ],
+  "keywords_by_position": {
+    "사무직": [
+      "경영기획",
+      "환경안전",
+      "연료구매",
+      "해외사업"
+    ],
+    "기계": [
+      "터빈운전",
+      "보일러운전",
+      "설비정비",
+      "기계설비",
+      "플랜트운영"
+    ],
+    "전기": [
+      "전기운전",
+      "전기설비",
+      "계전",
+      "전력계통",
+      "배전관리"
+    ],
+    "화공": [
+      "환경설비",
+      "수처리",
+      "연료관리",
+      "공정관리",
+      "화학물질"
+    ],
+    "경영기획": [
+      "경영기획",
+      "사업관리",
+      "조직진단",
+      "리스크관리"
+    ],
+    "사업관리": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "재무/회계/감사": [
+      "회계관리",
+      "재무분석",
+      "결산",
+      "세무"
+    ],
+    "법무/노무": [
+      "법률검토",
+      "계약관리",
+      "소송관리",
+      "컴플라이언스"
+    ],
+    "IT/ICT": [
+      "시스템개발",
+      "웹개발",
+      "앱개발",
+      "AI/빅데이터"
+    ],
+    "토목": [
+      "토목설계",
+      "시공관리",
+      "구조물점검",
+      "도로관리"
+    ],
+    "건축": [
+      "건축설계",
+      "시설물관리",
+      "건축허가",
+      "인테리어"
+    ],
+    "산업안전": [
+      "산업안전",
+      "재해예방",
+      "안전점검",
+      "비상대응"
+    ]
+  },
+  "core_values": [
+    "안전",
+    "친환경",
+    "상생",
+    "책임",
+    "혁신"
+  ],
+  "talent_image": "발전설비 운영의 전문가, 에너지 전환을 이끄는 인재",
+  "slogan": "전력의 시작, 발전의 미래",
+  "positions": [
+    "경영기획",
+    "사업관리",
+    "재무/회계/감사",
+    "법무/노무",
+    "기계",
+    "전기",
+    "화공",
+    "IT/ICT",
+    "토목",
+    "건축",
+    "산업안전"
+  ],
+  "mission": "안정적인 전력 생산으로 국가 에너지 안보와 경제 발전에 기여",
+  "vision": "친환경 에너지 전환을 선도하는 발전 전문기업",
+  "recent_initiatives": [
+    "석탄발전 감축 및 LNG 전환",
+    "대규모 신재생에너지 투자",
+    "그린수소 생산사업 추진",
+    "탄소중립 로드맵 이행",
+    "발전소 디지털 전환"
+  ],
+  "recruitment_news": [
+    {
+      "title": "국내 5대 발전 공기업, 사회적 책임 ‘글쎄요’ - 산업일보",
+      "date": "2016-09-26",
+      "summary": "국내 5대 발전 공기업, 사회적 책임 ‘글쎄요’산업일보",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9qZGhSMHNqc211WDNYVjcza2dDSzFrdzZvTVM5WnIyRzN6LW1FYTZ4SDI2TDlLYlk0cC01THJ3a2w1NUN2?oc=5"
+    },
+    {
+      "title": "[창간특집 기획] 발전 5사 해외진출 사업 성과 - 투데이에너지",
+      "date": "2024-09-23",
+      "summary": "[창간특집 기획] 발전 5사 해외진출 사업 성과투데이에너지",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sWlNMMjRCcFlYNFZEaUZtbTdmR0xES2R0cDdOai1CZDZtc1FSN1FqY085eTZJOVV1M0Q1OWt5UGlWcFVDU1lxTFJiaDYyRi1rZ3kwbTI5Q3NvbGsxTFdGdE9yVDBQRjVLTTFZdFhR?oc=5"
+    },
+    {
+      "title": "채용플랫폼 발전사, 데이터 비교분석(원티드,리멤버 등) - 브런치",
+      "date": "2022-07-07",
+      "summary": "채용플랫폼 발전사, 데이터 비교분석(원티드,리멤버 등)브런치",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJN1N5Rmx3TXJNcWlrSWJ0aGVoWXk3eWsxN1dXS2FlWDdQUTZYRzRsOUJtbTV6SEhfSDB0dWNkNGJrNHI4QXBQeDNQWkt2RFlz?oc=5"
+    },
+    {
+      "title": "남부발전, 신입·경력 총 92명 블라인드 방식 채용 - 뉴시스",
+      "date": "2023-08-02",
+      "summary": "남부발전, 신입·경력 총 92명 블라인드 방식 채용뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LVndSanpUTUIwUkVoVlVaLXZ3WXN0TVNTdFJETWxIZXAxdUpsd3RHZ05FSTBWYVdVTUhoenhNeXRRWk5FOURQYVBYVFlRM1kwOTd4R0ZwQmJwNXpiWmxnOEY2cDFYNGV6ODdhUXQzU0dIUlnSAXhBVV95cUxOd05uMnlHSDFuLV9fbmhmVU80c0ljTmdyMEowRjRsX2dYNTJOelAzRW9TYlY1N2Ixd0twUlZYSjVCZUdEekV2UDk1cFQ5NVhiX19aSF92NFM5dnJJMEFhSm9WaTdLZ3plR1VCRU9XbmN1ZTE4cnROOXo?oc=5"
+    },
+    {
+      "title": "한전 5대발전사 통합환경허가 이달 완료…대기오염물질 절반감축 - 연합뉴스",
+      "date": "2020-07-06",
+      "summary": "한전 5대발전사 통합환경허가 이달 완료…대기오염물질 절반감축연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtU2UxLWZQUVRjMlotSVcxM3JxSU5MU3hRaFp0WTVTeUtxTHloS2lDM2tZdG1wV09WWGt0WnJ5dDNqeXJicUxtcHFfOGVTZzExNDlEOE1NdkQtV1HSAWBBVV95cUxQNktLOEVKRjdhSE1mOVVwWTIxdjhRTWRtWnVpZThjWnhlSFZPNVRvN21nckdWZlJ3SXVWaTExSTY2cExDeGZaSWNLVXhWU1pJZzR2VjcxblNXWENOSWZzQmg?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.komipo.co.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 1~2회",
+    "method": "NCS 기반 블라인드 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "면접전형"
+    ],
+    "characteristics": [
+      "기술직 비중 높음",
+      "안전의식 강조",
+      "현장 근무"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

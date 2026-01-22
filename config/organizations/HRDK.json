@@ -1,0 +1,181 @@
+{
+  "code": "HRDK",
+  "name": "한국산업인력공단",
+  "category": "산업진흥/기타",
+  "description": "한국산업인력공단 - 국가직무능력표준(NCS) 기반 인적자원개발로 국가 경쟁력 강화",
+  "keywords": [
+    "자격검정",
+    "NCS",
+    "해외취업",
+    "기능경기",
+    "외국인력",
+    "능력개발",
+    "직업훈련",
+    "인적자원",
+    "자격증",
+    "기술자격"
+  ],
+  "keywords_by_position": {
+    "사무직": [
+      "자격정책",
+      "검정운영",
+      "해외취업지원"
+    ],
+    "전산직": [
+      "시스템개발",
+      "CBT운영",
+      "데이터관리"
+    ],
+    "기술직": [
+      "검정위원",
+      "기능경기",
+      "훈련과정개발"
+    ],
+    "경영기획": [
+      "경영기획",
+      "사업관리",
+      "조직진단",
+      "리스크관리"
+    ],
+    "사업관리": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "인사/총무": [
+      "채용관리",
+      "교육훈련",
+      "인사평가",
+      "노무관리"
+    ],
+    "재무/회계/감사": [
+      "회계관리",
+      "재무분석",
+      "결산",
+      "세무"
+    ],
+    "IT/ICT": [
+      "시스템개발",
+      "웹개발",
+      "앱개발",
+      "AI/빅데이터"
+    ],
+    "교육훈련": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ]
+  },
+  "core_values": [
+    "소통",
+    "고객중심",
+    "전문성",
+    "혁신",
+    "청렴"
+  ],
+  "talent_image": "국민의 능력개발과 자격검정을 이끄는 인적자원개발 전문인재",
+  "slogan": "능력중심사회를 여는 HRD Korea",
+  "positions": [
+    "경영기획",
+    "사업관리",
+    "인사/총무",
+    "재무/회계/감사",
+    "IT/ICT",
+    "교육훈련"
+  ],
+  "mission": "국가직무능력표준(NCS) 기반 인적자원개발로 국가 경쟁력 강화",
+  "vision": "일과 학습을 연결하는 평생능력개발 선도기관",
+  "recent_initiatives": [
+    "디지털 신기술 자격 확대",
+    "온라인 자격검정 시스템 고도화",
+    "K-Move 해외취업 활성화",
+    "외국인력 도입 효율화",
+    "평생능력개발 플랫폼 구축"
+  ],
+  "recruitment_news": [
+    {
+      "title": "산업단지공단, ‘공정채용 우수기업 어워즈’ 기재부 장관상 수상 - 에너지데일리",
+      "date": "2025-11-14",
+      "summary": "산업단지공단, ‘공정채용 우수기업 어워즈’ 기재부 장관상 수상에너지데일리",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ENEJXWmZIdC1uWnp6dTdoUlVISEZrRlpHWnF4WnFYNzBLUXhKUmtvd1VmaDIyWTBORzl3US1tRDZJbUxZT05CZGE5UDNicHVGS0MzQlIzY1p4NlFwR09RVEEtUkpaSDdJZWkxLXdzU1NuQQ?oc=5"
+    },
+    {
+      "title": "씨엔알리서치, 공정채용 문화 선도 기업으로 선정 - 팜뉴스",
+      "date": "2025-11-11",
+      "summary": "씨엔알리서치, 공정채용 문화 선도 기업으로 선정팜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ReUNpR09FeWltdmsteERHWGE1T2hrRWlDUTQ5amMzcGhFOGJwc2Q0azZZN3FhR2NraUhIVzl5WFpURWRncU9BUnByMEZWVTlsVm9sUmJpYWNNckxDZy1IdHNNdEdIVjRiNFBpTg?oc=5"
+    },
+    {
+      "title": "한국산업인력공단, 시험보다 실무역량 키우는 과정평가형 국가기술자격…산업 현장형 인재 키운다 - 한국경제",
+      "date": "2025-08-25",
+      "summary": "한국산업인력공단, 시험보다 실무역량 키우는 과정평가형 국가기술자격…산업 현장형 인재 키운다한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZLTVDMFAtZFRjam5pbWRWYnBSbGhkcFZnRF9EQS1RZ3pSYW85NFV2OVl4eHoxWTdtUno0Umx6aElPUjJ1M2FwcWdkWmotZEpUbW5VRldFNExyUdIBVEFVX3lxTE83emMySE42UnFGcENZNHFycWd0WEZUUFk0aXFQVlBQMHpIZlMxVG1sT1k4RnFBUFZhQ1hwR1NkUEcyMGxTbUc1d2RhSUZ4TV9BclJuag?oc=5"
+    },
+    {
+      "title": "공정채용 확산 위한 ‘우수기업 어워즈’ 공모 시작 - 환경일보",
+      "date": "2025-08-04",
+      "summary": "공정채용 확산 위한 ‘우수기업 어워즈’ 공모 시작환경일보",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BMDV0NlpGTjlUaVRpVjltMnRtVmZsbVVJS2FRb012MGdfV2pQWXllTFBya2lvNmhLVHhsR3ZQZmRtcEVYSk84azg0QVUwUzR4cnRKSzF4NGN1NUhITlFEeWxuc1VKWE5H?oc=5"
+    },
+    {
+      "title": "한국마사회, ‘공정채용 우수기업 어워즈’서 교육부장관상 수상 - 백세시대",
+      "date": "2025-11-10",
+      "summary": "한국마사회, ‘공정채용 우수기업 어워즈’서 교육부장관상 수상백세시대",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qYjVSemRqWmJGSUVoQmhXRUFCNnBDb0pRa2xtRXpCeUNHa2RjZF8xVTFxRW8waHlXam1faXV5OTNwb20tRDBHeTlWZzFLYVNxOG8yTlRIR0steWNoLXpqQmZSVmZVYTdKdmdB?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.hrdkorea.or.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 1~2회",
+    "method": "NCS 기반 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "면접전형"
+    ],
+    "characteristics": [
+      "정책 이해도",
+      "사업 기획력",
+      "전문 분야 지식"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

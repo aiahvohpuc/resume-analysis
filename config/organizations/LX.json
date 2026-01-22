@@ -1,0 +1,173 @@
+{
+  "code": "LX",
+  "name": "한국국토정보공사",
+  "category": "SOC/교통/환경",
+  "description": "한국국토정보공사 - 국토정보의 생산과 관리로 국민 재산권 보호와 국가 공간정보 발전에 기여",
+  "keywords": [
+    "지적측량",
+    "공간정보",
+    "GIS",
+    "디지털트윈",
+    "드론",
+    "부동산",
+    "토지",
+    "국토정보",
+    "측량",
+    "지적"
+  ],
+  "keywords_by_position": {
+    "사무직": [
+      "경영기획",
+      "지적행정",
+      "부동산정보"
+    ],
+    "측량/지적": [
+      "지적측량",
+      "공간정보",
+      "국토조사",
+      "정책기획",
+      "예산관리"
+    ],
+    "IT/ICT": [
+      "GIS개발",
+      "시스템운영",
+      "데이터분석",
+      "시스템개발",
+      "웹개발"
+    ],
+    "경영기획": [
+      "경영기획",
+      "사업관리",
+      "조직진단",
+      "리스크관리"
+    ],
+    "사업관리": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "재무/회계/감사": [
+      "회계관리",
+      "재무분석",
+      "결산",
+      "세무"
+    ],
+    "토목": [
+      "토목설계",
+      "시공관리",
+      "구조물점검",
+      "도로관리"
+    ]
+  },
+  "core_values": [
+    "고객",
+    "상생",
+    "전문성",
+    "혁신",
+    "청렴"
+  ],
+  "talent_image": "공간정보 기술로 디지털 국토를 구현하는 전문인재",
+  "slogan": "국토의 가치를 높이는 LX",
+  "positions": [
+    "경영기획",
+    "사업관리",
+    "재무/회계/감사",
+    "측량/지적",
+    "IT/ICT",
+    "토목"
+  ],
+  "mission": "국토정보의 생산과 관리로 국민 재산권 보호와 국가 공간정보 발전에 기여",
+  "vision": "디지털 국토를 선도하는 공간정보 전문기관",
+  "recent_initiatives": [
+    "디지털트윈 국토 구축",
+    "드론 측량 확대",
+    "AI 기반 지적업무 자동화",
+    "공간정보 플랫폼 고도화",
+    "해외 지적측량 사업 진출"
+  ],
+  "recruitment_news": [
+    {
+      "title": "전주대 부동산국토정보학과, LX 한국국토정보공사 신입사원 공채 최종 합격자 2명 배출 ‘눈길’ - domin.co.kr",
+      "date": "2025-12-18",
+      "summary": "전주대 부동산국토정보학과, LX 한국국토정보공사 신입사원 공채 최종 합격자 2명 배출 ‘눈길’domin.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWkV5X2JHNmluRTJFclhEa3J3Y05fYnRqRjZlOW90dHVrWmNHRXRJU3lxejh0QTdaUHNHVnZYcFJINFlJZkRlRFdfVWpIXzVfSWYyd0t4NHpSSU9rSE81aXBhS3paanpuZDlXczRDYmgwMGhsd2RQNUY5eEtKM1FwVEdGSm5hVlJG?oc=5"
+    },
+    {
+      "title": "전주대 부동산국토정보학과, LX 한국국토정보공사 신입사원 공채 최종 합격자 2명 배출 - 베리타스알파",
+      "date": "2025-12-18",
+      "summary": "전주대 부동산국토정보학과, LX 한국국토정보공사 신입사원 공채 최종 합격자 2명 배출베리타스알파",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1ckxteHQxbXFidFNBbWZrY2hEUFhpeFFZZUpqb0NQUGRVVHRzd3dMcmZ2ZjNBMjMyTVFHZi05M0VsV0djVDNxVHVFUy01UVVDTzBHSzF3Z2tPR2U2cHhnbEZTR3VTemNmTFBuUQ?oc=5"
+    },
+    {
+      "title": "LX한국국토정보공사 신입사원 30명 채용 추진 “지역인재 4명” - jjan.kr",
+      "date": "2025-09-30",
+      "summary": "LX한국국토정보공사 신입사원 30명 채용 추진 “지역인재 4명”jjan.kr",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwRXcwOWRtdGJfMG1ObnhqeGJVd1YxYVB3T0JSV3p1WU9GWU9HX0lZMmpNMXFTWlJuR0c2U3lsR0I2WnZxRHF5UFoyRDBfTjFELTNJa9IBWEFVX3lxTE0tZWx5dVBwaVRNTU4tVzhPZDFEOWhQcU1iaFpzOVdHWHNtSnRmeS1iTk9RY2x5UTBmaDNXNmlNV3FiNWhJUUVSaWFIbnY4VC0zR1F4dUx0Mzc?oc=5"
+    },
+    {
+      "title": "전주대 부동산국토정보학과, LX 신입사원 공채 최종 합격자 2명 배출 - todayan.com",
+      "date": "2025-12-18",
+      "summary": "전주대 부동산국토정보학과, LX 신입사원 공채 최종 합격자 2명 배출todayan.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rNlFvejZQX2w2SktQdXU3ZElVUkxrb1V5NVFQUlhLNjhqajNwXzVvU0ZpRjR5M1c4OGZBSms5VHhsVjRwb0FvNmlGQklkQjZJOEpMd1hKWXBUMm94S01vOFF1WEFGSFRia1E?oc=5"
+    },
+    {
+      "title": "커리어넷, 한국국토정보공사/인천교통공사/인천공항시설관리/한국여성정책연구원/신용회복위원회/한국산업기술시험원/한국특허전략개발원/창업진흥원/국가유산진흥원/극지연구소 채용 소식 발표 - 베리타스알파",
+      "date": "2025-10-02",
+      "summary": "커리어넷, 한국국토정보공사/인천교통공사/인천공항시설관리/한국여성정책연구원/신용회복위원회/한국산업기술시험원/한국특허전략개발원/창업진흥원/국가유산진흥원/극지연구소 채용 소식 발표베리타",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xVm9lTWl5UTg4YnZic0hzU29nb0puQmlpZ3czaXo0bkhXTVBXc1pZWUI5VF9nYUNxVFhLQjYzc3dGdHZ0WE9wMWZRaXRzWlVuNTlPR042cFBqMUJhaEwzWnRRYWozeUphSFNZ?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.lx.or.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 1~2회",
+    "method": "NCS 기반 블라인드 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "면접전형"
+    ],
+    "characteristics": [
+      "인프라 전문성",
+      "현장 중심",
+      "전국 배치"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "code": "KDN",
+  "name": "한전KDN",
+  "category": "에너지/발전",
+  "description": "한전KDN - 전력ICT 기술로 전력산업 발전과 에너지 신산업 선도",
+  "keywords": [
+    "전력ICT",
+    "AMI",
+    "배전자동화",
+    "스마트그리드",
+    "빅데이터",
+    "클라우드",
+    "사이버보안",
+    "에너지IT",
+    "디지털전환",
+    "플랫폼"
+  ],
+  "keywords_by_position": {
+    "사무직": [
+      "경영기획",
+      "사업개발",
+      "영업관리"
+    ],
+    "IT/ICT": [
+      "시스템개발",
+      "인프라운영",
+      "보안관리",
+      "데이터분석"
+    ],
+    "통신": [
+      "통신설비",
+      "네트워크",
+      "무선통신",
+      "정책기획",
+      "예산관리"
+    ],
+    "전기": [
+      "전력계통",
+      "배전시스템",
+      "AMI",
+      "전기설비",
+      "배전관리"
+    ],
+    "경영기획": [
+      "경영기획",
+      "사업관리",
+      "조직진단",
+      "리스크관리"
+    ],
+    "사업관리": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "건축": [
+      "건축설계",
+      "시설물관리",
+      "건축허가",
+      "인테리어"
+    ]
+  },
+  "core_values": [
+    "고객가치",
+    "상생",
+    "신뢰",
+    "전문성",
+    "혁신"
+  ],
+  "talent_image": "에너지 ICT 분야의 디지털 혁신 리더",
+  "slogan": "전력 ICT로 미래를 밝히다",
+  "positions": [
+    "경영기획",
+    "사업관리",
+    "건축",
+    "IT/ICT",
+    "통신",
+    "전기"
+  ],
+  "mission": "전력ICT 기술로 전력산업 발전과 에너지 신산업 선도",
+  "vision": "에너지 디지털 전환을 선도하는 ICT 전문기업",
+  "recent_initiatives": [
+    "클라우드 기반 전력IT 전환",
+    "AI 기반 전력수요 예측",
+    "전력 블록체인 플랫폼",
+    "스마트그리드 고도화",
+    "사이버 보안 강화"
+  ],
+  "recruitment_news": [
+    {
+      "title": "한전KDN, 고졸 인재양성과 채용 활성화 추진 - 에너지타임즈",
+      "date": "2025-12-25",
+      "summary": "한전KDN, 고졸 인재양성과 채용 활성화 추진에너지타임즈",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EUmlIZ0QxMW9YTFAyN2NPRlB3Vlk1bmUyRHBfajMxb0ZDa3pYNU02a0NuVXJlWkVrOEo1Y3FoVGdYaWtMZ3RRTzdZWWdQLVZRU1FWN2VSM2xISHp6SGNuMUVWalZqR3VzMHlfVA?oc=5"
+    },
+    {
+      "title": "‘경기 일용직 20명 뽑는다’…한전KDN 미터링사업팀 현장 인력 채용 - 퍼블릭타임스",
+      "date": "2026-01-20",
+      "summary": "‘경기 일용직 20명 뽑는다’…한전KDN 미터링사업팀 현장 인력 채용퍼블릭타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01OWlLSGw0UjRfdnFUWW1IM3FST09EYzQxTXJNaXVJUDhLbmIwam1RSVptQ0l2Y2ltZjJPanpUMGJQeWdTOEcxLXlKcHNla1IwcUY0dGh2UzJGSV9nLTF5RHE1U0Jxemt0dFHSAW5BVV95cUxNMmRhUWN0RG5ielpXdFN1dUUxUVBreXlkdE1zSmk1Wm5EU1dDaGZKbm9YcE1aVDdWOV96eE1JZ0tEZDc5aGY2M0xzZ1V2TkZQNXhIbklBX3VrNVJhOGlTcWIxZW1pNzdJMmlCSDFpUQ?oc=5"
+    },
+    {
+      "title": "광주·전남공동혁신도시 공공기관 지역인재 채용 인색(?) - namdonews.com",
+      "date": "2026-01-19",
+      "summary": "광주·전남공동혁신도시 공공기관 지역인재 채용 인색(?)namdonews.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMZmdVNnF3RUR1bElPZEtlWk5tT0ZPVExBc24xcEJPNWx3UjNybkV0UTdJQ2ZwYng5MEMxNzVJZzhNQ0RLWmx0N1k2RGxGLUcwNkxXRnNZVGliYllkRmhlNFBhSzNacXAwVHA5Rg?oc=5"
+    },
+    {
+      "title": "‘전북에서 현장 보조 인력 찾는다’…한전KDN, 배전자동화 점검 일용직 3명 모집 - 퍼블릭타임스",
+      "date": "2026-01-19",
+      "summary": "‘전북에서 현장 보조 인력 찾는다’…한전KDN, 배전자동화 점검 일용직 3명 모집퍼블릭타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tRUVYV0hxVC1DS3BlUUFVOUQwYWtYSGVmQmpFQWRrUnItdVhMekU3TmJRb2xYSnkwOHFMY0kxZ2R3aThGQ29peU1qY2hhOFQxYmdFWmRScE1kXzM4enNoZkFmYWd0SHlKZ3fSAW5BVV95cUxPc2xSRTV1SkJBTDF3WUlNalpKc19CWEJmNTB1WnJOZVpveThndXJaaHN4R3NkOXBMdlZzZGdWUkN2WUVnN0JsSmgxLWlrRFRhbjlSdllCbDBCTElSMGhhM25uMHFnZkdkMFY3dUVKUQ?oc=5"
+    },
+    {
+      "title": "‘전북 배전자동화 현장 조공·인부 모집’…한전KDN, 일용근로자 3명 채용 - 퍼블릭타임스",
+      "date": "2026-01-19",
+      "summary": "‘전북 배전자동화 현장 조공·인부 모집’…한전KDN, 일용근로자 3명 채용퍼블릭타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93ZW5FUTJtbEFTV1VTQ2xHbmFFdUI5aWNqVE55MWNNYVd3NTFOTnBFNlZZV1pHOWZLX2ZuOEJfdkhHbDRXR1pNUmdKRHcxakRMRkI3MmtuZ0dBX1VhamYtT2dvV3VMaGhiamfSAW5BVV95cUxPdXZBcXY3U3p3WDFPVDAyamFLN2I1UWJSbXN4enBXYlo0TjBZdXY2X3NuUGdXdGY4YWFWUFZjR1ppRGw0eXVJMmVLcmZMNVByOWNIaE1MQko4bFRBREpFeVFwUFE5NDFMZlpxRW9yUQ?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.kdn.com",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 1~2회",
+    "method": "NCS 기반 블라인드 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "면접전형"
+    ],
+    "characteristics": [
+      "기술직 비중 높음",
+      "안전의식 강조",
+      "현장 근무"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

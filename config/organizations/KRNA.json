@@ -1,0 +1,223 @@
+{
+  "code": "KRNA",
+  "name": "국가철도공단",
+  "category": "SOC/교통/환경",
+  "description": "국가철도공단 - 국가 철도망 구축과 철도시설 관리를 통한 국민 교통 편의 증진",
+  "keywords": [
+    "철도",
+    "고속철도",
+    "GTX",
+    "철도건설",
+    "역세권개발",
+    "철도시설",
+    "인프라",
+    "교통",
+    "SOC",
+    "스마트철도"
+  ],
+  "keywords_by_position": {
+    "사무직": [
+      "사업관리",
+      "용지보상",
+      "계약관리",
+      "해외사업"
+    ],
+    "토목": [
+      "노반설계",
+      "구조물",
+      "터널",
+      "교량"
+    ],
+    "전기철도": [
+      "전차선로",
+      "전력설비",
+      "변전설비",
+      "전기설비",
+      "전력계통"
+    ],
+    "철도신호": [
+      "신호설비",
+      "열차제어",
+      "통신설비",
+      "정책기획",
+      "예산관리"
+    ],
+    "경영기획": [
+      "경영기획",
+      "사업관리",
+      "조직진단",
+      "리스크관리"
+    ],
+    "인사/총무": [
+      "채용관리",
+      "교육훈련",
+      "인사평가",
+      "노무관리"
+    ],
+    "재무/회계/감사": [
+      "회계관리",
+      "재무분석",
+      "결산",
+      "세무"
+    ],
+    "사업관리": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "철도토목": [
+      "토목설계",
+      "시공관리",
+      "구조물점검",
+      "도로관리"
+    ],
+    "건축": [
+      "건축설계",
+      "시설물관리",
+      "건축허가",
+      "인테리어"
+    ],
+    "전기": [
+      "전기설비",
+      "전력계통",
+      "배전관리",
+      "전기안전"
+    ],
+    "통신": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "기계": [
+      "기계설비",
+      "플랜트운영",
+      "설비보전",
+      "기계설계"
+    ],
+    "IT/ICT": [
+      "시스템개발",
+      "웹개발",
+      "앱개발",
+      "AI/빅데이터"
+    ]
+  },
+  "core_values": [
+    "안전",
+    "상생",
+    "신뢰",
+    "혁신",
+    "전문성"
+  ],
+  "talent_image": "철도 인프라 건설의 글로벌 전문인재",
+  "slogan": "철도로 연결하는 대한민국",
+  "positions": [
+    "경영기획",
+    "인사/총무",
+    "재무/회계/감사",
+    "사업관리",
+    "토목",
+    "철도토목",
+    "건축",
+    "전기",
+    "전기철도",
+    "철도신호",
+    "통신",
+    "기계",
+    "IT/ICT"
+  ],
+  "mission": "국가 철도망 구축과 철도시설 관리를 통한 국민 교통 편의 증진",
+  "vision": "세계 최고의 철도 건설·관리 전문기관",
+  "recent_initiatives": [
+    "GTX 건설 추진",
+    "철도 노후시설 개량",
+    "스마트 철도건설 기술 도입",
+    "철도 해외진출 확대",
+    "친환경 철도역사 건설"
+  ],
+  "recruitment_news": [
+    {
+      "title": "철도공단 올해 2차 직원·인턴 195명 채용...9일까지 원서 접수 - metrosejong.com",
+      "date": "2025-10-03",
+      "summary": "철도공단 올해 2차 직원·인턴 195명 채용...9일까지 원서 접수metrosejong.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42OXp5VmFBcW5adDRYRkJpQ2pUN3VUTWVIVEhCckJWNWdRaENVR2Raa2ZfTHpLRElsbFBHTnVqM3Q5UHJIcXhTZHBsWGw3c19DT3pIRTEzN2R2QkhrU3lNWVlIbUNGX0VBUFBZ0gFvQVVfeXFMTWdkMVJfSm1Ia25saHktdmJtak8yVlhlZ2JycGhZMkVzODRaWkkySnJYbUhhSjdaUWtISUdPTFFHN0hkYkJWdXdXMktNSXlKbVB6bnVISHVXT05mdmEtVzVnSUNqUGw0N3VmRUJYeFF3?oc=5"
+    },
+    {
+      "title": "국가철도공단, 하반기에 직원 195명 신규로 뽑는다 - 한국NGO신문",
+      "date": "2025-09-25",
+      "summary": "국가철도공단, 하반기에 직원 195명 신규로 뽑는다한국NGO신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56MXJjd1hSWDY5MC1JcXdVQUFuMTFscTNGek5sbnk3a2hmU2dXSFk5SkV5Q3U1Z0s3V1lsc3pPVVF3QXRvM3JDNHNfRDdnUVZkdW9xRDR6OXR1OWFuYUtidkc4UHo1UDlJ?oc=5"
+    },
+    {
+      "title": "국가철도공단, 하반기 195명 신규 채용 - 노컷뉴스",
+      "date": "2025-09-25",
+      "summary": "국가철도공단, 하반기 195명 신규 채용노컷뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UcHNQQlY0TVQ2MnpITDhXOU12NUtYWUJ1SnVRbEI2Z1BWOGVhaVJqaE9sOTRDWW9jZjFMUk1icWpGVzlDb2N3MzVBMkExb0cwb2c?oc=5"
+    },
+    {
+      "title": "국가철도공단, 상반기 211명 신규 채용 추진 - MSN",
+      "date": "2026-01-14",
+      "summary": "국가철도공단, 상반기 211명 신규 채용 추진MSN",
+      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOSWQxS3dDOUJUTV8xZFlpMndWbXo1X2dNLTJaRWVhaFN5OTJ6TkdObm00d3hpalp0UVRidWE4X2s0d3lueGVrWk1VWW5FbUZpeGF1cGFqWmsyMnBZbXdWRkU5cUUyTjl1QmtrdWRUYTRVWXpJVldDY0lOQ2IxMlRua3o2LUFtQVJ5MDkwVnMtSHBMYXZCWFB1ZU8xOE1SbGZ3Ry1mVzllbXdsNElhOC1mLTVyVElJanpXcEk3YVVmZGNRNHJTTE5abkJfakRQRktYVnQzVWtjZkRqWHpvSTlFSU9oQzdhMTVuLWQ2SG55WXZPa0w4NHhNcWF1Z0NyME5iaS1CVHJNUk5ZRHdfWVFhbHpzSjJVOVRRUm9mOXBKSk5teVVqZHNYU3JvTGw2cjduWjFkS0E2Z1NqcHFkTXRtQjZCOVJLUU0xdWpQWWZsZ2tRNXdlWTJRMTB3bEFhQjVtTV9NNDRxRk0zcHIzcWVkT1ZwZEgyNTJGcU96LWZvSjRsUTZ1b3hENnZ4TElBX2dkMFI4QXd1TC12Yk5ldEh3dnRlQnpZdkNVWm1iTTNoQlZGUEl6Z3pCVnJ2MHBCRkE?oc=5"
+    },
+    {
+      "title": "국가철도공단, '2025년도 상반기 신규 채용' 180명 임용 - 이코노믹포스트",
+      "date": "2025-06-30",
+      "summary": "국가철도공단, '2025년도 상반기 신규 채용' 180명 임용이코노믹포스트",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RaVo1eWxZUW8ySXVJWktRVEVuaVA0eUNfbWpDcUJSYVNIaTZLQlZOVk8tNUQxWTB0TkJPbk9HQjAzckxzMUZvQ0N2V0E?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.kr.or.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 1~2회",
+    "method": "NCS 기반 블라인드 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "면접전형"
+    ],
+    "characteristics": [
+      "인프라 전문성",
+      "현장 중심",
+      "전국 배치"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

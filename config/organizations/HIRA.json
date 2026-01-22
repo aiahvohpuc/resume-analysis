@@ -1,0 +1,165 @@
+{
+  "code": "HIRA",
+  "name": "건강보험심사평가원",
+  "category": "복지/의료",
+  "description": "건강보험심사평가원 - 국민 건강과 의료발전을 위한 최적의 심사·평가 서비스 제공",
+  "keywords": [
+    "심사평가",
+    "요양급여",
+    "의료 질 평가",
+    "보건의료",
+    "빅데이터",
+    "DUR",
+    "의료정보",
+    "데이터 분석",
+    "공공성",
+    "디지털 헬스케어"
+  ],
+  "keywords_by_position": {
+    "사무직": [
+      "심사업무",
+      "평가업무",
+      "정책기획",
+      "데이터분석"
+    ],
+    "IT/ICT": [
+      "시스템개발",
+      "데이터엔지니어링",
+      "AI/ML",
+      "정보보안"
+    ],
+    "경영기획": [
+      "경영기획",
+      "사업관리",
+      "조직진단",
+      "리스크관리"
+    ],
+    "사업관리": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "의료행정": [
+      "행정업무",
+      "정책분석",
+      "법령검토",
+      "민원행정"
+    ],
+    "보험심사": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ]
+  },
+  "core_values": [
+    "공익 우선",
+    "전문성 추구",
+    "소통과 협력",
+    "혁신과 도전",
+    "국민 건강"
+  ],
+  "talent_image": "데이터 기반 의료 혁신을 선도하는 전문인재",
+  "slogan": "국민건강, 함께 지키는 심평원",
+  "positions": [
+    "경영기획",
+    "사업관리",
+    "의료행정",
+    "보험심사",
+    "IT/ICT"
+  ],
+  "mission": "국민 건강과 의료발전을 위한 최적의 심사·평가 서비스 제공",
+  "vision": "국민이 신뢰하는 의료 질 향상 파트너",
+  "recent_initiatives": [
+    "AI 기반 자동심사 시스템 구축",
+    "비급여 진료비 정보 공개 확대",
+    "의료 빅데이터 개방 플랫폼 운영",
+    "실시간 DUR 서비스 고도화",
+    "디지털 헬스케어 기반 마련"
+  ],
+  "recruitment_news": [
+    {
+      "title": "심평원 전북본부, 전주대 보건관리학과 재학생 대상 현장 실습 > 뉴스 - 한의신문",
+      "date": "2026-01-12",
+      "summary": "심평원 전북본부, 전주대 보건관리학과 재학생 대상 현장 실습 > 뉴스한의신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95eVhSZTJuU2pGVkhPek1CSjlGTGpocXZ6LVlmRmpqdlp3VVdhUW1zR0tTMEVDMUE1Tmw2T2sxSWRrbC1kODg1dmsyV2NDLVZ0UjJUTkNmODdjQzFyS1pJT1RJZDk2eHRfQmpiYg?oc=5"
+    },
+    {
+      "title": "커리어넷, 한국교통안전공단·한국표준협회·건강보험심사평가원 채용 소식 발표 - giview.co.kr",
+      "date": "2025-08-28",
+      "summary": "커리어넷, 한국교통안전공단·한국표준협회·건강보험심사평가원 채용 소식 발표giview.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43VXNndnhIbWFweElicjVPTFdFcThEaFpmUDRFbEY2QzRUZlY2bUs3SE52XzBjZzNoU2puRFo4LXJmbGI5azF5V0ZoMWxHQ3M1N1pETjdEVTlJbDlLWXEzRVZ3?oc=5"
+    },
+    {
+      "title": "'여대생 청부살해' 의사 채용…\"괜찮을줄\" 심평원장 해명에 국감 발칵 - 중앙일보",
+      "date": "2025-10-17",
+      "summary": "'여대생 청부살해' 의사 채용…\"괜찮을줄\" 심평원장 해명에 국감 발칵중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vZWFuLVBBSVBjaGRSeFNyVExpckh0NHQtamdlbzh3TnJfcEVBN3dSVmd6bFFXeWFxa3UxSVRfRjFxaVhCYm1nYlk5c2lYVFEyWVY0ejNn?oc=5"
+    },
+    {
+      "title": "건강보험심사평가원 전북본부, 군산 지역대학 2곳 취업박람회 참여 지역 인재 취업 지원 - 데일리메디팜",
+      "date": "2025-11-06",
+      "summary": "건강보험심사평가원 전북본부, 군산 지역대학 2곳 취업박람회 참여 지역 인재 취업 지원데일리메디팜",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QOWloalo0MG5LNkl6dWFYeXZCcUxYXzFIX0ZCdVE4OVkzdWNTNUYwMDFqRGtuN09qbW5nQUZZenNXRU1OX0pvSm9YS2pXZVZCOHcxZHVpUHRXUjlBZlI4N2hSLWVGaVZOdHRhUFV3?oc=5"
+    },
+    {
+      "title": "‘여대생 청부살인범’ 도운 의사 심평원 채용 문제없다더니…국감 지적에 부랴부랴 ‘해임’ - 지디넷코리아",
+      "date": "2025-10-22",
+      "summary": "‘여대생 청부살인범’ 도운 의사 심평원 채용 문제없다더니…국감 지적에 부랴부랴 ‘해임’지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0ZjI3c0xQQUt2dmRzN1hEVkctNDFWSFZuM1VaR0p0T1JQdkFjQzU5R05EWGxUcXVNcHRrcVhha3RfOTVWc3Q2akhXUk9Yd2FNcjJxRlV3?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.hira.or.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "보건복지부"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 1~2회",
+    "method": "NCS 기반 블라인드 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "면접전형"
+    ],
+    "characteristics": [
+      "의료심사 전문인력",
+      "건강직 특화",
+      "원주 근무"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

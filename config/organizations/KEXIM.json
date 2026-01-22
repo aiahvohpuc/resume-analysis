@@ -1,0 +1,203 @@
+{
+  "code": "KEXIM",
+  "name": "한국수출입은행",
+  "category": "금융",
+  "description": "한국수출입은행 - 수출입·해외투자 및 해외자원개발 등 대외경제협력 지원을 통한 국민경제 발전 기여",
+  "keywords": [
+    "수출금융",
+    "해외투자",
+    "국제금융",
+    "EDCF",
+    "ODA",
+    "프로젝트파이낸싱",
+    "선박금융",
+    "방산수출",
+    "자원개발",
+    "글로벌"
+  ],
+  "keywords_by_position": {
+    "금융": [
+      "수출금융",
+      "해외투자심사",
+      "PF",
+      "선박금융"
+    ],
+    "경영기획": [
+      "전략기획",
+      "국제협력",
+      "해외사업",
+      "경영기획",
+      "사업관리"
+    ],
+    "국제협력/통상": [
+      "EDCF",
+      "ODA",
+      "국제개발협력",
+      "정책기획",
+      "예산관리"
+    ],
+    "IT/ICT": [
+      "시스템운영",
+      "데이터분석",
+      "정보보안",
+      "시스템개발",
+      "웹개발"
+    ],
+    "재무/회계/감사": [
+      "회계관리",
+      "재무분석",
+      "결산",
+      "세무"
+    ],
+    "법무/노무": [
+      "법률검토",
+      "계약관리",
+      "소송관리",
+      "컴플라이언스"
+    ],
+    "토목": [
+      "토목설계",
+      "시공관리",
+      "구조물점검",
+      "도로관리"
+    ],
+    "환경": [
+      "환경관리",
+      "폐기물처리",
+      "대기관리",
+      "수질관리"
+    ],
+    "선박/조선": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "기계": [
+      "기계설비",
+      "플랜트운영",
+      "설비보전",
+      "기계설계"
+    ]
+  },
+  "core_values": [
+    "글로벌",
+    "신뢰",
+    "책임",
+    "전문성",
+    "혁신"
+  ],
+  "talent_image": "글로벌 시각과 금융전문성을 갖춘 국제금융 전문가",
+  "slogan": "세계로 가는 길, 수출입은행과 함께",
+  "positions": [
+    "금융",
+    "경영기획",
+    "재무/회계/감사",
+    "법무/노무",
+    "국제협력/통상",
+    "토목",
+    "환경",
+    "선박/조선",
+    "기계",
+    "IT/ICT"
+  ],
+  "mission": "수출입·해외투자 및 해외자원개발 등 대외경제협력 지원을 통한 국민경제 발전 기여",
+  "vision": "글로벌 비즈니스의 든든한 파트너, 세계를 향한 금융 리더",
+  "recent_initiatives": [
+    "친환경 선박금융 확대",
+    "K-방산 수출금융 지원",
+    "신재생에너지 해외사업 금융",
+    "글로벌 공급망 안정화 금융",
+    "개발도상국 인프라 금융"
+  ],
+  "recruitment_news": [
+    {
+      "title": "\"저긴 1억원 주는데 우린 고작\" 줄퇴사…젊은 직원들, 국책은행 떠난다 - 머니투데이",
+      "date": "2025-08-05",
+      "summary": "\"저긴 1억원 주는데 우린 고작\" 줄퇴사…젊은 직원들, 국책은행 떠난다머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pLU9uTXprQ3B1LWtLY3lYWHZLWVllRDVjallZektNbXRoUDNHYlJLVjNySVlPeTgxVFpBd2VlZGJ5cDNiazFUamRkd2o2MWlxeUxZOWxCSVdiRDlXYmNJZ1N3N053WnpRWTJR?oc=5"
+    },
+    {
+      "title": "작년 국책은행 신규 채용, 실제로 늘었나 봤더니 - 화이트페이퍼",
+      "date": "2025-03-10",
+      "summary": "작년 국책은행 신규 채용, 실제로 늘었나 봤더니화이트페이퍼",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1JWXNQMlZvSk45NFdkeVlnMXVCN1Eyek5aVll5Wjl0Unc2RU1PRmxveWtabXk1aFF1QXdRUldHY3c4X0tOZFR2dVNvR2pRNmZ0UDBhcFNUajRhMlRCYVpkeVhtS2ZFMWM2YmNoNHpKNNIBc0FVX3lxTE9SSDRBMlhIR0xpNERKOVZhUVUtUjBCYWIyd2lRUEdlNnhGemZDSHJDaWFtLWluVXNvM0RublcwOHQ5azdueWhaMG40M19UWkFPbnc2T0VDM0liZWtpZFY2cEVsWG53TXk5TjZ5X2tCbzlILW8?oc=5"
+    },
+    {
+      "title": "2025년 상반기 금융권 채용...하나은행·우리은행·한국수출입은행 등 대규모 신입 모집 - 피앤피뉴스",
+      "date": "2025-02-27",
+      "summary": "2025년 상반기 금융권 채용...하나은행·우리은행·한국수출입은행 등 대규모 신입 모집피앤피뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EWm8tYkFwNTR4MnUzOTJURkVpbUxmYnVJQ0lCdG9McWNJT1pBTmJwWXZpNS1McWlHb1o1dGlQT3BDcXRsNzFrN25Wd08xNHdta18yWWNJdzFISy1jNEHSAVZBVV95cUxOQkZKbkZwWVN1V0lUazVtd204MEs2NC1fTldQZWlNd1dNdUdkbEhlUG9TMFNnTFk2V1l0aEhlN0RXQ0dNMWw5M0Jvd0F4THFyaGVHUEVLUQ?oc=5"
+    },
+    {
+      "title": "2024년 하반기 한국수출입은행 전문직행원(신입) 채용 공고 - 법률저널",
+      "date": "2024-09-05",
+      "summary": "2024년 하반기 한국수출입은행 전문직행원(신입) 채용 공고법률저널",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zQVZEUEE2RzZ0T0MtXzk4bkJpSlA2RXZtaXJmUlRrMDdOb1Vqc3lReEJpNm5UZkRUcmlJLXI0NC1LYXJ4VWVVeFlIc2FNY0JFS3lCMlJxQVpTR1lmamxPTERySkcyZw?oc=5"
+    },
+    {
+      "title": "우리은행, 하나은행 외… 2025 상반기 금융권 신입/인턴 채용속보 - 스타트업엔",
+      "date": "2025-02-27",
+      "summary": "우리은행, 하나은행 외… 2025 상반기 금융권 신입/인턴 채용속보스타트업엔",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Cazh0NFkyM2pfcDhicS1RSk5YRGtLOFlNVWFFV3NPRDhqTHV1OTM1Q3pXTmQ3UXlLbGJNZDhlZVEycENCSzhBMGpwTXRtQzZ4S2hidE8xZ2phYXNPU1RqcTR3M1NKWUla0gFsQVVfeXFMTlZNTXNhNTE1cWd4YUtsVzVKeXU3bEozUnpBdElFMHl2cTZIM1NwSjJTLWlMeXN0MWVRcHpoXy1TTUZfNG1tekNvd09mOVU4NEVvbWZ1TmRUdk84dDUyaU81RUZXV1dQcFYwYUJX?oc=5"
+    },
+    {
+      "title": "최종욱 페루 대사 \"삼성물산 페루 진출…수출입은행도 준비 중\" - 더구루",
+      "date": "2025-04-11",
+      "summary": "최종욱 페루 대사 \"삼성물산 페루 진출…수출입은행도 준비 중\"더구루",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CaVBFcWxJMUVwNjhIOUpqRFpsZGNlT1BkT1NLNk1HMzBfZFFzcXlUNGFTNjNvMW9Gb1lGOHAtSUJPYU1SeTNaNG00R09pRFN5SnVVWGdoNVJLZko0?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.koreaexim.go.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 1~2회",
+    "method": "직무역량 기반 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "면접전형"
+    ],
+    "characteristics": [
+      "무역금융 전문성",
+      "어학능력 필수",
+      "해외파견 기회"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

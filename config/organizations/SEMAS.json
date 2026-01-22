@@ -1,0 +1,181 @@
+{
+  "code": "SEMAS",
+  "name": "소상공인시장진흥공단",
+  "category": "산업진흥/기타",
+  "description": "소상공인시장진흥공단 - 소상공인과 전통시장의 경쟁력 강화로 지역경제 활성화 기여",
+  "keywords": [
+    "소상공인",
+    "전통시장",
+    "정책자금",
+    "창업지원",
+    "상권분석",
+    "골목상권",
+    "자영업",
+    "컨설팅",
+    "시장현대화",
+    "노란우산"
+  ],
+  "keywords_by_position": {
+    "사무직": [
+      "정책기획",
+      "자금지원",
+      "시장진흥"
+    ],
+    "전산직": [
+      "시스템운영",
+      "상권분석시스템",
+      "정보서비스"
+    ],
+    "상담직": [
+      "창업상담",
+      "컨설팅",
+      "교육운영"
+    ],
+    "경영기획": [
+      "경영기획",
+      "사업관리",
+      "조직진단",
+      "리스크관리"
+    ],
+    "사업관리": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "인사/총무": [
+      "채용관리",
+      "교육훈련",
+      "인사평가",
+      "노무관리"
+    ],
+    "재무/회계/감사": [
+      "회계관리",
+      "재무분석",
+      "결산",
+      "세무"
+    ],
+    "IT/ICT": [
+      "시스템개발",
+      "웹개발",
+      "앱개발",
+      "AI/빅데이터"
+    ],
+    "컨설팅": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ]
+  },
+  "core_values": [
+    "고객중심",
+    "소통",
+    "전문성",
+    "혁신",
+    "청렴"
+  ],
+  "talent_image": "소상공인 성장을 지원하는 중소기업 정책 전문인재",
+  "slogan": "소상공인의 꿈, 함께 이루어갑니다",
+  "positions": [
+    "경영기획",
+    "사업관리",
+    "인사/총무",
+    "재무/회계/감사",
+    "IT/ICT",
+    "컨설팅"
+  ],
+  "mission": "소상공인과 전통시장의 경쟁력 강화로 지역경제 활성화 기여",
+  "vision": "소상공인의 성장을 돕는 동반자",
+  "recent_initiatives": [
+    "소상공인 디지털 전환 지원",
+    "배달/온라인 판로 개척",
+    "스마트상점 보급",
+    "전통시장 화재안전 강화",
+    "소상공인 재기 지원 확대"
+  ],
+  "recruitment_news": [
+    {
+      "title": "소상공인시장진흥공단, 하반기 60명 공채 - 내외경제TV",
+      "date": "2025-10-23",
+      "summary": "소상공인시장진흥공단, 하반기 60명 공채내외경제TV",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxX0tmc2s1R1QzWW1iV2dWaVVqUEExODNTVXF5U3ZlSE95dFcwVFlhaHBYZ1NBQXptQm5vMDRQUGVINndZNVNidVk1c2lrVC1PS0kzeTZlTDdWRDhOQUZRMDVzZWxuVG9HUFln?oc=5"
+    },
+    {
+      "title": "소상공인시장진흥공단, 2025년 하반기 정규직 60명 신규 채용 - 잡포스트",
+      "date": "2025-10-28",
+      "summary": "소상공인시장진흥공단, 2025년 하반기 정규직 60명 신규 채용잡포스트",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yZi04b2ZKM0RKRnZ4M1BPM2xESHRmMzBwWGVTa0FHOFQ3Ym5oWjVVejFwSlExUFVzUkNNRGV6RXJDekNDb294N0pqWm9MRDFIV1hHcjJZeFJEZU5ING9RWFh6UGhRSE0yUkN3Y0JB0gFyQVVfeXFMTS1PRkdDQ0xraFVDVU1TVkgxRWs2Rm0zZEVJUGYxVVRjRmdLUVUzU2tvX3dXV2lmX2puc1d3RTY1RjlCOHdPeGhsYVJkWEQ5aTFsMXU1eFk4c01RZmZvRjh0R0VqYnBBMV92cDEwNlYwU21n?oc=5"
+    },
+    {
+      "title": "\"공단 이끌 인재 찾아요\"…소진공, 하반기 신입사원 모집 - 뉴시스",
+      "date": "2025-10-23",
+      "summary": "\"공단 이끌 인재 찾아요\"…소진공, 하반기 신입사원 모집뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rOEttaG1XdVVnbU5LbTQySHd2dXFfVjNLbmxBZ2t1OHBNNVBaUWl0UzhBRGQ3bDRXTGhZR0ZZSkRJT2xKNzQwZlNIcFdIV1pBUVZ1U0k2MHhUUmF6WHRfWNIBeEFVX3lxTFBTNFVzUl8wUWlueEx5X2JWdFhzUHVTSFJXY3dNYzExNTFNMmtFQlFJRzVleVVGdU9MS2dVRXJzeTctQkJ5RDUzcUttdjVDa1p3QUFyc2oyMm9UNnJhQkY5WHVBaU04OVJkS2pPWHFmcXVrVjdWT3NzUg?oc=5"
+    },
+    {
+      "title": "소상공인진흥공단, 상반기 152명 대규모 채용 - v.daum.net",
+      "date": "2025-05-28",
+      "summary": "소상공인진흥공단, 상반기 152명 대규모 채용v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9hWVdEbnJpbjdIeC1nZEdXdmFMTWEteXpGd3pEaDNKY0tIeEdwZmEzbzlzbXdfdF92ejdaNllPUmFfN3VZOWc?oc=5"
+    },
+    {
+      "title": "소진공, 2025년 하반기 정규직 60명 신규 채용 - daejonilbo.com",
+      "date": "2025-10-23",
+      "summary": "소진공, 2025년 하반기 정규직 60명 신규 채용daejonilbo.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzbll5a1lkUWxFd0Q3Y2ktQ0RtXzNydHU4OGdBYXF2RklnaUtHVmZOakoxNWozaVMwYVBGU2k2UzdCU1VkQUVDMU1iN3JIVHlEZmVtdklTX3RNa3ZvUmRHZU9fckNGWXQzQTBLUTFhb9IBc0FVX3lxTE03YW9fUlhmU21aT2ctVTJzVm9qZVdQWlBWWDBBQ0k0aFhfNlNmaTZ2RlR0SGhoaXF5azNaNnZFallmNThpb3RvT3ZxZE9DSTJWX3JOUklxcnhQeHhJTG40SjNlbGJWQkZJT0dyYkJjbnNTTEk?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.semas.or.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 1~2회",
+    "method": "NCS 기반 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "면접전형"
+    ],
+    "characteristics": [
+      "정책 이해도",
+      "사업 기획력",
+      "전문 분야 지식"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}

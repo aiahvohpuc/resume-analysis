@@ -1,0 +1,231 @@
+{
+  "code": "LH",
+  "name": "한국토지주택공사",
+  "category": "SOC/교통/환경",
+  "description": "한국토지주택공사 - 국민의 주거안정과 국토의 효율적 이용으로 국민 삶의 질 향상",
+  "keywords": [
+    "공공주택",
+    "택지개발",
+    "임대주택",
+    "도시재생",
+    "신도시",
+    "주거복지",
+    "국토개발",
+    "산단",
+    "스마트시티",
+    "제로에너지"
+  ],
+  "keywords_by_position": {
+    "사무직": [
+      "사업관리",
+      "용지보상",
+      "주택관리",
+      "임대관리"
+    ],
+    "토목": [
+      "택지조성",
+      "도로설계",
+      "상하수도",
+      "토목설계",
+      "시공관리"
+    ],
+    "건축": [
+      "주택설계",
+      "건축시공",
+      "리모델링",
+      "건축설계",
+      "시설물관리"
+    ],
+    "조경": [
+      "단지조경",
+      "공원녹지",
+      "환경",
+      "정책기획",
+      "예산관리"
+    ],
+    "경영기획": [
+      "경영기획",
+      "사업관리",
+      "조직진단",
+      "리스크관리"
+    ],
+    "사업관리": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "인사/총무": [
+      "채용관리",
+      "교육훈련",
+      "인사평가",
+      "노무관리"
+    ],
+    "재무/회계/감사": [
+      "회계관리",
+      "재무분석",
+      "결산",
+      "세무"
+    ],
+    "법무/노무": [
+      "법률검토",
+      "계약관리",
+      "소송관리",
+      "컴플라이언스"
+    ],
+    "기계": [
+      "기계설비",
+      "플랜트운영",
+      "설비보전",
+      "기계설계"
+    ],
+    "전기": [
+      "전기설비",
+      "전력계통",
+      "배전관리",
+      "전기안전"
+    ],
+    "환경": [
+      "환경관리",
+      "폐기물처리",
+      "대기관리",
+      "수질관리"
+    ],
+    "도시계획": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "교통": [
+      "정책기획",
+      "예산관리",
+      "인사관리",
+      "총무"
+    ],
+    "IT/ICT": [
+      "시스템개발",
+      "웹개발",
+      "앱개발",
+      "AI/빅데이터"
+    ]
+  },
+  "core_values": [
+    "국토 균형발전",
+    "주거 안정",
+    "고객",
+    "상생",
+    "안전"
+  ],
+  "talent_image": "국민의 주거복지를 실현하는 주택·도시 전문인재",
+  "slogan": "함께 만드는 행복한 대한민국",
+  "positions": [
+    "경영기획",
+    "사업관리",
+    "인사/총무",
+    "재무/회계/감사",
+    "법무/노무",
+    "토목",
+    "건축",
+    "기계",
+    "전기",
+    "환경",
+    "조경",
+    "도시계획",
+    "교통",
+    "IT/ICT"
+  ],
+  "mission": "국민의 주거안정과 국토의 효율적 이용으로 국민 삶의 질 향상",
+  "vision": "국민의 더 나은 주거·도시 생활을 선도하는 공기업",
+  "recent_initiatives": [
+    "3기 신도시 개발",
+    "공공임대주택 확대",
+    "제로에너지 주택 보급",
+    "스마트시티 조성",
+    "도시재생 뉴딜"
+  ],
+  "recruitment_news": [
+    {
+      "title": "LH, 하반기 신입사원 118명 공개채용…올해 총 626명 신규 채용 - 전기신문",
+      "date": "2025-09-15",
+      "summary": "LH, 하반기 신입사원 118명 공개채용…올해 총 626명 신규 채용전기신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yRF9tSmktbWRhZG5LZ2ZaQVh3LWxOOUQtRWtrSXF1RW5qOUp2Um5fQ0tVeUxxZ2g4SGVzUF82Y05qSW44bHdIXzl1QVctRXF1eUNRUXV1YVRQVF9DVEY5bWFvZ0x3cURnTWJ5QtIBcEFVX3lxTFBNRlJqdndLTklLcG5yU3ROSEZfQjhFT1FsTmZNdEZ2VEZzYkVSNmRkZlo1ZC1UZG4yRlBGeXl1Z09VVC1qRjdiTTIwMGdjQ2tyRUJ6d01KR2wyYkZsd0RtNVJfMl9Rc3ktTFBRbklTQy0?oc=5"
+    },
+    {
+      "title": "한국토지주택공사, 하반기 신입사원 118명 공개채용 - 오마이뉴스",
+      "date": "2025-09-15",
+      "summary": "한국토지주택공사, 하반기 신입사원 118명 공개채용오마이뉴스",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LekxCTV9rLUtyYk5ZRWlrS2hrcWJkaWtxMmk5b3Q4S3NBUkNYa1RsS2dOQjJsOXpUMHh0UXdlamI3SHhmVWdZREI2b0NmSjk2OFp1ZkxJYXl1NVZuajJBdEt3T0FuT2NLcXlBOGtJc1FBRDYwNWpv?oc=5"
+    },
+    {
+      "title": "LH, 하반기 신입사원 118명 공개채용 - 마켓인",
+      "date": "2025-09-15",
+      "summary": "LH, 하반기 신입사원 118명 공개채용마켓인",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YQzN4cmxWUnBvZFZmVk9kb0ktVVNZX2JySlpURG9oVVJZN2pScFdhcTNPd21NMzVaTEZ1Q0NzMnZIZ0JIbndUOUUyemhJT1A0a3gtQmxnYi16WTdEYUJpVDVyeE5uZDBMeWFSbEJNa2RiWkU?oc=5"
+    },
+    {
+      "title": "\"5·6급 교차 지원 가능\"… LH, 올해 신입사원 508명 채용 - 머니S",
+      "date": "2025-05-08",
+      "summary": "\"5·6급 교차 지원 가능\"… LH, 올해 신입사원 508명 채용머니S",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xNWhjaWpSbUpCenE5aV9vZ1RGQmFWeXQ5U2cxRnZTcGxFUTRmZ0stalZCQ3VGRHBvV0t0am4zaFZONk9JekhlUXRKekNtUi1wdjI1ejMzdDZjMC02bUdGTFRn?oc=5"
+    },
+    {
+      "title": "LH, 신입사원 508명 공개채용…인원 늘리고 교차지원 기회도 - 연합뉴스",
+      "date": "2025-05-08",
+      "summary": "LH, 신입사원 508명 공개채용…인원 늘리고 교차지원 기회도연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HMkVRcEVzU1p4S2NaaVZhczJ4bi0xOVZ2ZmJ0Z29XR2Zwcm4td0RMWFVQUklla3NfYjhua3J3U1JZQXhkUFFNU2twYnAxMy1wX05PeEdjTWdSX0nSAWBBVV95cUxNeVU1T3NPanNsRHJmR0kybFBRWEZLckRmMUJQQU1Rc1c2S0dvR3ZPMlMtc3pZYjFsZVRfNjNMTURTVXlPeFkxWTlWWUQ1TWtmSTJ0ZERfemJ4TURBZlR0eWc?oc=5"
+    }
+  ],
+  "business_news": [],
+  "website": "https://www.lh.or.kr",
+  "metadata": {
+    "last_updated": "2026-01-22",
+    "sources": [
+      "공식 홈페이지",
+      "2024-2025 채용공고",
+      "경영공시"
+    ],
+    "verified": true
+  },
+  "recruitment": {
+    "cycle": "연 2회 (상/하반기)",
+    "method": "NCS 기반 블라인드 채용",
+    "process": [
+      "서류전형",
+      "필기시험",
+      "면접전형"
+    ],
+    "characteristics": [
+      "토목/건축 전공 다수",
+      "전국 사업지구 배치",
+      "주택도시 전문성"
+    ]
+  },
+  "evaluation_criteria": [
+    {
+      "name": "구체성",
+      "weight": 20,
+      "description": "추상적 표현 대신 구체적 경험과 사례 포함 여부"
+    },
+    {
+      "name": "직무 연관성",
+      "weight": 25,
+      "description": "지원 직무와의 연관성"
+    },
+    {
+      "name": "기관 이해도",
+      "weight": 25,
+      "description": "기관의 미션, 비전, 핵심 가치 반영 여부"
+    },
+    {
+      "name": "논리 구조",
+      "weight": 15,
+      "description": "서론-본론-결론의 논리적 구성"
+    },
+    {
+      "name": "차별성",
+      "weight": 15,
+      "description": "다른 지원자와 차별화되는 내용"
+    }
+  ]
+}
