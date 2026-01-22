@@ -3,6 +3,17 @@ name = "resume-analysis"
 version = "0.1.0"
 description = "PDF 이력서 및 텍스트 분석 도구"
 requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.109.0",
+    "uvicorn[standard]>=0.27.0",
+    "httpx>=0.27.0",
+    "python-multipart>=0.0.6",
+    "pdfplumber>=0.10.0",
+    "pydantic>=2.6.0",
+    "pydantic-settings>=2.1.0",
+    "openai>=1.12.0",
+    "python-dotenv>=1.0.0",
+]
 
 [tool.pytest.ini_options]
 testpaths = ["test"]
