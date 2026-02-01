@@ -69,16 +69,16 @@
   ],
   "recruitment_news": [
     {
+      "title": "[8월 25일 고용24 채용정보] 한국공항·바디프랜드·한국수출입은행·에스피씨삼립·한국주택금융공사 - 뉴스투데이",
+      "date": "2025-08-25",
+      "summary": "[8월 25일 고용24 채용정보] 한국공항·바디프랜드·한국수출입은행·에스피씨삼립·한국주택금융공사뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92azhnbmFkTHl2YmFob1FpdDlXSTRvcUw5TjlCSnhmeGZ6aEZOdXo3RFJwWWxxYW9QZG84V2FYSjdfYkNNNUJuU2ZXdHFHc09ZU2VxUnFDUk1UUGlHZXc?oc=5"
+    },
+    {
       "title": "한국바른채용인증원, 한국주택금융공사 ‘역량면접코칭 클리닉’ 성료 - 지디넷코리아",
       "date": "2025-05-15",
       "summary": "한국바른채용인증원, 한국주택금융공사 ‘역량면접코칭 클리닉’ 성료지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PdjhxaG9Bb3hvajdDWjdvN1g0bnhUNGwxTXNPQlI4M1U2M2phUE1sclFXV2ZlQ094VXh0UkstaURWX2VIZEhKTERvUTdGZjZGcjAxcktn?oc=5"
-    },
-    {
-      "title": "[단독] 알박기 논란 속 대통령실 출신 인사 한국주택금융공사 상임이사 채용 - MBN 홈페이지",
-      "date": "2025-04-25",
-      "summary": "[단독] 알박기 논란 속 대통령실 출신 인사 한국주택금융공사 상임이사 채용MBN 홈페이지",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DelVlWGNZWjNOZk9WRkNHeWNHdFBhcGxfckZZUVY4ZkpTbFB4NXdlXzQ2UGNFR0FNTHM1SE52RWppUUhTZFVIdEVWSi0td055TjdWSVNn0gFMQVVfeXFMT1k3Mmw4c3hrVXBDYVIzaHpDU0NEZnJCT2xkbnF6MmV6SVA0b0tPZzFJZDVWVHEyT1YxTUVNMzl4TDh3OVh6Y2VHRmtacg?oc=5"
     },
     {
       "title": "인사처, 국가공무원 공정채용 방안 및 공공기관 우수사례 공유 - 법률저널",
@@ -87,22 +87,52 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDRGJCcW50cUgzZDJLQXNWMEEwTkZBaEg2LUZwbEt2S0tFa0FtdWZuYkExOHhxQ3dCM3pRSFBPVHV2SFd2QktRLTRCYjg3TVY4ZFhjTjQ5ekhwbG1tM2lXM01sYTNhbGc?oc=5"
     },
     {
-      "title": "[오늘의 공기업 채용정보] 한국주택금융공사(HF), 2025년도 하반기 체험형 인턴 177명 채용 - 아웃소싱타임스",
-      "date": "2025-07-09",
-      "summary": "[오늘의 공기업 채용정보] 한국주택금융공사(HF), 2025년도 하반기 체험형 인턴 177명 채용아웃소싱타임스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qcUw3X2J2MUw5NEttSi03bEtDYlYzLTdla2w4Vy1oZUQ2TXVxdVlXVkI4M29RLWI3Z3E0SERNU0FFclBObHBzN0cxdFpvZXktUmV5WkxtUWQ3Y0YzZHc3dVpMMUxhOXEtUU9WUk5rRWdXdw?oc=5"
+      "title": "[단독] 알박기 논란 속 대통령실 출신 인사 한국주택금융공사 상임이사 채용 - mbn.co.kr",
+      "date": "2025-04-25",
+      "summary": "[단독] 알박기 논란 속 대통령실 출신 인사 한국주택금융공사 상임이사 채용mbn.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DelVlWGNZWjNOZk9WRkNHeWNHdFBhcGxfckZZUVY4ZkpTbFB4NXdlXzQ2UGNFR0FNTHM1SE52RWppUUhTZFVIdEVWSi0td055TjdWSVNn0gFMQVVfeXFMT1k3Mmw4c3hrVXBDYVIzaHpDU0NEZnJCT2xkbnF6MmV6SVA0b0tPZzFJZDVWVHEyT1YxTUVNMzl4TDh3OVh6Y2VHRmtacg?oc=5"
+    },
+    {
+      "title": "이비엔(EBN)뉴스센터 - ebn.co.kr",
+      "date": "2025-07-16",
+      "summary": "이비엔(EBN)뉴스센터ebn.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12YXBHRF9ldDNpTGJnQk5oQWUwTVhnMDkxYXB3Mm85cDFxcTlwQzVjWjFaWll0dUE5b1dCaGZZdnFKNDhwcjJZdzZ6YnZINEYteXJnLS1SUHNMaGM0Q0dFdkh2LUhLeHhEZkFHNE9uTWVMaUU?oc=5"
+    },
+    {
+      "title": "[오늘의 공기업 채용정보] 한국주택금융공사, 2026년도 상반기 체험형 청년인턴 190명 채용 - 아웃소싱타임스",
+      "date": "2026-01-02",
+      "summary": "[오늘의 공기업 채용정보] 한국주택금융공사, 2026년도 상반기 체험형 청년인턴 190명 채용아웃소싱타임스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ndk9VRnNxeWNnd1kwb3hma0ppQ3l5MTcwWTNUZ0djVTRncWhnN3RzZGdpazFqLWFuNjBNSjVDWS15TG5tdVpETzMwbHJKcDdfUGROTlJDcncybXl5LXluYV9NeG9sWnoyVjhJcWpuZWRNUQ?oc=5"
+    },
+    {
+      "title": "주택금융공사, 청년 타운홀 미팅 “주거·취업고민 소통해요” - 국제신문",
+      "date": "2025-12-16",
+      "summary": "주택금융공사, 청년 타운홀 미팅 “주거·취업고민 소통해요”국제신문",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV29QOUI3SXhQYl9PZzN1NVBCSklONnprNlM0N3RvaEJkZHN2UXpSTkJjeEhBSmJTN0JBRVNuZlNXWHVJOE9Hb2NzWm1IQkNDSlQwU3ItUFZZZFVQZEtFT1BHVW5penZ2MUVPT0RRUHBScWlFeW1QTzFwZ180b1RlaFlzc3NoMmVnaTJ0OGln?oc=5"
     },
     {
       "title": "부산시, 하반기 공공기관 합동채용 설명회 - 연합뉴스",
       "date": "2025-08-25",
       "summary": "부산시, 하반기 공공기관 합동채용 설명회연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DcGlJNXlBOXo1aGpxU3p4Q01hSnN1dkdVWUw0R28xa1NWaDNsLU02bTRIUHVjSXV1azRhUlFXMHh0a0NPSFFvRnhnTUZ4bmN6ZTAteXMwN3VoM0XSAWBBVV95cUxOcEZxbF80Qkk2SjVHejZmbVhPOXo0OHQ2WnVqRzZtbHZNWXlIN3VsdDhvTzZBdjQ3U0NHemJHQllUM0Q4dlZCd3JtQ3NRa1Z3eUdUOGtsWHdJZm5kZGRrNXo?oc=5"
+    },
+    {
+      "title": "부산시, ‘2025 하반기 지역인재 공공기관 합동채용설명회’ 개최 - busan.com",
+      "date": "2025-08-25",
+      "summary": "부산시, ‘2025 하반기 지역인재 공공기관 합동채용설명회’ 개최busan.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5N3g2YnZCLW1JM0RYWV9YaWViazBtRFdISjROUHFQQ082VE1DcElibkJCNVNhRDZWeFFtN01KUGFkc0Rza3ktbjlmaWs1QWlsRFFDc0l3bVUxQWcweWcwNGJiZ0FLVGNMWThxZ09iQWhrWlBj?oc=5"
+    },
+    {
+      "title": "[주택금융공사 인턴 채용대비] 1번 및 인턴 직무해석 - 브런치",
+      "date": "2026-01-10",
+      "summary": "[주택금융공사 인턴 채용대비] 1번 및 인턴 직무해석브런치",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MZmpJSlZzZnYtamJGSXhFX1prclByWVBvdnpwbE5KWS03SGpFV195U0RrcE56MXRCWXRjcU5XVk9GVHpDRC1SSmgtdExtUQ?oc=5"
     }
   ],
   "business_news": [],
   "website": "https://www.hf.go.kr",
   "metadata": {
-    "last_updated": "2026-01-22",
+    "last_updated": "2026-01-31",
     "sources": [
       "공식 홈페이지",
       "2024-2025 채용공고",

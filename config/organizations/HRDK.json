@@ -96,6 +96,18 @@
   ],
   "recruitment_news": [
     {
+      "title": "한국산업인력공단, 자격증 품질개선으로 채용 현장 신뢰 사회 구축 앞장 - 서울Pn",
+      "date": "2026-01-28",
+      "summary": "한국산업인력공단, 자격증 품질개선으로 채용 현장 신뢰 사회 구축 앞장서울Pn",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcWZjNnZCSFpEMG9EaUVIcFBTYmxwQXZGVlhvUTFHYkRNbE5HSURCV2M2V0xuaFdlWFlRVmpYaWZqemZ0bER5VHlQeV84ckI3ZExZM3BWbFlLbFVRRE5IbDRkU3hwS2czbjhBSkxsTFM4RTRtaXJiYWd1S2pjMWVMWXdIUQ?oc=5"
+    },
+    {
+      "title": "씨엔알리서치, ‘2025 공정채용 우수기업 어워즈’서 한국산업인력공단 이사장상 수상 - 벤처스퀘어",
+      "date": "2025-11-11",
+      "summary": "씨엔알리서치, ‘2025 공정채용 우수기업 어워즈’서 한국산업인력공단 이사장상 수상벤처스퀘어",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FWU9TQmZuY0xOdW9YcS1OcVBXMU1VMDZja01XeURQMnZ6WFpZSXc5VWlvcG5kMUVRemVXQ2o5WjVoRzAtTTBseDZVTlR4U28?oc=5"
+    },
+    {
       "title": "산업단지공단, ‘공정채용 우수기업 어워즈’ 기재부 장관상 수상 - 에너지데일리",
       "date": "2025-11-14",
       "summary": "산업단지공단, ‘공정채용 우수기업 어워즈’ 기재부 장관상 수상에너지데일리",
@@ -108,28 +120,46 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ReUNpR09FeWltdmsteERHWGE1T2hrRWlDUTQ5amMzcGhFOGJwc2Q0azZZN3FhR2NraUhIVzl5WFpURWRncU9BUnByMEZWVTlsVm9sUmJpYWNNckxDZy1IdHNNdEdIVjRiNFBpTg?oc=5"
     },
     {
-      "title": "한국산업인력공단, 시험보다 실무역량 키우는 과정평가형 국가기술자격…산업 현장형 인재 키운다 - 한국경제",
-      "date": "2025-08-25",
-      "summary": "한국산업인력공단, 시험보다 실무역량 키우는 과정평가형 국가기술자격…산업 현장형 인재 키운다한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZLTVDMFAtZFRjam5pbWRWYnBSbGhkcFZnRF9EQS1RZ3pSYW85NFV2OVl4eHoxWTdtUno0Umx6aElPUjJ1M2FwcWdkWmotZEpUbW5VRldFNExyUdIBVEFVX3lxTE83emMySE42UnFGcENZNHFycWd0WEZUUFk0aXFQVlBQMHpIZlMxVG1sT1k4RnFBUFZhQ1hwR1NkUEcyMGxTbUc1d2RhSUZ4TV9BclJuag?oc=5"
+      "title": "씨엔알리서치, 공정채용 우수기업에 선정 - 히트뉴스",
+      "date": "2025-11-11",
+      "summary": "씨엔알리서치, 공정채용 우수기업에 선정히트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96dlRaQ1lRajUyMWFvcmttMlhybmhXb2F4T0ZNNmtUQXNDcWtkWlNlZlVzYTg3QmZMcGVBbTB1a253M1VPREYyY1BKZWRLQlNoNUxIcWYwOWJkcWtlNkNnSHd5ZzZFRW9tTm44?oc=5"
     },
     {
-      "title": "공정채용 확산 위한 ‘우수기업 어워즈’ 공모 시작 - 환경일보",
-      "date": "2025-08-04",
-      "summary": "공정채용 확산 위한 ‘우수기업 어워즈’ 공모 시작환경일보",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BMDV0NlpGTjlUaVRpVjltMnRtVmZsbVVJS2FRb012MGdfV2pQWXllTFBya2lvNmhLVHhsR3ZQZmRtcEVYSk84azg0QVUwUzR4cnRKSzF4NGN1NUhITlFEeWxuc1VKWE5H?oc=5"
+      "title": "한국산업인력공단, 자격증 품질개선으로 채용 현장 신뢰 사회 구축 앞장 - go.seoul.co.kr",
+      "date": "2026-01-28",
+      "summary": "한국산업인력공단, 자격증 품질개선으로 채용 현장 신뢰 사회 구축 앞장go.seoul.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcWZjNnZCSFpEMG9EaUVIcFBTYmxwQXZGVlhvUTFHYkRNbE5HSURCV2M2V0xuaFdlWFlRVmpYaWZqemZ0bER5VHlQeV84ckI3ZExZM3BWbFlLbFVRRE5IbDRkU3hwS2czbjhBSkxsTFM4RTRtaXJiYWd1S2pjMWVMWXdIUQ?oc=5"
     },
     {
-      "title": "한국마사회, ‘공정채용 우수기업 어워즈’서 교육부장관상 수상 - 백세시대",
-      "date": "2025-11-10",
-      "summary": "한국마사회, ‘공정채용 우수기업 어워즈’서 교육부장관상 수상백세시대",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qYjVSemRqWmJGSUVoQmhXRUFCNnBDb0pRa2xtRXpCeUNHa2RjZF8xVTFxRW8waHlXam1faXV5OTNwb20tRDBHeTlWZzFLYVNxOG8yTlRIR0steWNoLXpqQmZSVmZVYTdKdmdB?oc=5"
+      "title": "한국산업인력공단, ‘HRDK 프렌즈’로 적합한 인재(Right Person) 60명 임용 - go.seoul.co.kr",
+      "date": "2026-01-26",
+      "summary": "한국산업인력공단, ‘HRDK 프렌즈’로 적합한 인재(Right Person) 60명 임용go.seoul.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLVV1WkQ4UjMzbTRWckhNT3lZZ2N0emtNbWVWY0N2SHN5Y3hhd25UOHZkdGZRTzR1a21CNWVQcE1scS13WF9GMUVuNU9VbjlrOHVldTFqTVRHSUhPenpzbklFNHp5aFlsa0lqMmMzZG81VnAzZUJSb1Z0eVhBeGt3OVRKdXZZR0ljYmhvZg?oc=5"
+    },
+    {
+      "title": "산업인력공단, 학력·연령 제한 없애고 신입 19명 선발 - 퍼블릭타임스",
+      "date": "2026-01-28",
+      "summary": "산업인력공단, 학력·연령 제한 없애고 신입 19명 선발퍼블릭타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ONG1oVXVwNFdZeGhiMVR3Zzhoc0FLU1lOb2tSRVdJemMwYXZySEdnREg2dHNFQklEZm9LVGJkNW5GcWY3RXdocENUbFdmUWRKUFB1LU1lOUNIWHdfZVJ2am5OMXVrWjBtQlHSAW5BVV95cUxQUUhZR3JVc2t3ekF5ZzZOODV3OWd3b0s5QTdaYVNRdUkxU1VjOVBPLXBTOEh1Q3NjZ19aVm1KcUlray1nbGVqQnZaTjgzaFpSYUphbHFFNkJ5a2VCeVFwbHFJeUozVi1ROXRCVndhdw?oc=5"
+    },
+    {
+      "title": "산업인력공단, 울산본부 연구직 5급 5명 뽑는다 - 퍼블릭타임스",
+      "date": "2026-01-28",
+      "summary": "산업인력공단, 울산본부 연구직 5급 5명 뽑는다퍼블릭타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KUjhyaFJlYUZaM0lnOGhESC1KLXdlQW1fVVk4dldRZm5FcGZLTXpFQUZEX0NSYU51ZGxfWlJPRlc4NDdyUUZCX1VpRjJsb0lKMXBwa1JqRXNrd01YVTFiSkJaN0J6dnNpY0HSAW5BVV95cUxNYWhwRlFEUmJaemU5cnh3Nm9Ha1NWQmZWQzg0bmR4bG5yODJ1bWE5N2c5WG1VUy1wMFF0eVNELU95eXlXQ0YzczRxaTVRd1ZDaGg1Q2FlZm1SR0JNQ3p4R0pjUkJxM3kzNnpZUmR1UQ?oc=5"
+    },
+    {
+      "title": "씨엔알리서치, 공정채용 우수기업 어워즈 '한국산업인력공단 이사장상' 수상 - 이로운넷",
+      "date": "2025-11-11",
+      "summary": "씨엔알리서치, 공정채용 우수기업 어워즈 '한국산업인력공단 이사장상' 수상이로운넷",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NNlpLaUpIa3lyZGdEQ1kzbTV0U3laSEhKSVdjZUticUptQkpfemhVRzk5UDFTVW5HV2Jxbnp4THJaXzVKRVhCQlhRbHFQRGdua2E4V1VFTkFORVBqdHFLR0Z0UzNaUQ?oc=5"
     }
   ],
   "business_news": [],
   "website": "https://www.hrdkorea.or.kr",
   "metadata": {
-    "last_updated": "2026-01-22",
+    "last_updated": "2026-01-31",
     "sources": [
       "공식 홈페이지",
       "2024-2025 채용공고",

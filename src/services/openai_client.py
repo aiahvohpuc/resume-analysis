@@ -1,9 +1,10 @@
 """OpenAI ChatGPT API client."""
 
+import asyncio
 import logging
 from dataclasses import dataclass
 
-from openai import AsyncOpenAI
+from openai import OpenAI
 
 logger = logging.getLogger(__name__)
 
@@ -26,7 +27,10 @@ class TokenUsage:
 
 
 class OpenAIClient:
-    """Async client for OpenAI ChatGPT API with prompt caching support."""
+    """Client for OpenAI ChatGPT API with prompt caching support.
+
+    Uses sync client with asyncio.to_thread for better serverless compatibility.
+    """
 
     def __init__(
         self,
@@ -43,28 +47,19 @@ class OpenAIClient:
             temperature: Sampling temperature (default: 0.7)
             max_tokens: Maximum tokens in response (default: 2500)
         """
-        self._client = AsyncOpenAI(api_key=api_key)
+        self._client = OpenAI(api_key=api_key)
         self.model = model
         self.temperature = temperature
         self.max_tokens = max_tokens
         self.last_usage: TokenUsage | None = None
 
-    async def complete(
+    def _sync_complete(
         self,
         system_prompt: str,
         user_prompt: str,
         json_mode: bool = False,
     ) -> str:
-        """Generate completion from OpenAI API.
-
-        Args:
-            system_prompt: System message for context
-            user_prompt: User message/prompt
-            json_mode: Whether to request JSON response format
-
-        Returns:
-            Generated text response
-        """
+        """Synchronous completion method."""
         messages = [
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_prompt},
@@ -80,7 +75,7 @@ class OpenAIClient:
         if json_mode:
             kwargs["response_format"] = {"type": "json_object"}
 
-        response = await self._client.chat.completions.create(**kwargs)
+        response = self._client.chat.completions.create(**kwargs)
 
         # Track token usage including cache hits
         if response.usage:
@@ -106,3 +101,28 @@ class OpenAIClient:
             )
 
         return response.choices[0].message.content or ""
+
+    async def complete(
+        self,
+        system_prompt: str,
+        user_prompt: str,
+        json_mode: bool = False,
+    ) -> str:
+        """Generate completion from OpenAI API.
+
+        Uses asyncio.to_thread for serverless compatibility.
+
+        Args:
+            system_prompt: System message for context
+            user_prompt: User message/prompt
+            json_mode: Whether to request JSON response format
+
+        Returns:
+            Generated text response
+        """
+        return await asyncio.to_thread(
+            self._sync_complete,
+            system_prompt,
+            user_prompt,
+            json_mode,
+        )

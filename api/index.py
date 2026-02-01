@@ -45,3 +45,21 @@ except Exception as e:
     @app.get("/api/error")
     async def error_info():
         return {"error": str(e)}
+
+
+# Production-safe exception handler (no traceback exposure)
+from fastapi import Request
+from fastapi.responses import JSONResponse
+import logging
+
+logger = logging.getLogger(__name__)
+
+@app.exception_handler(Exception)
+async def global_exception_handler(request: Request, exc: Exception):
+    # Log full error internally
+    logger.error(f"Unhandled exception: {exc}", exc_info=True)
+    # Return generic message to client
+    return JSONResponse(
+        status_code=500,
+        content={"detail": "Internal server error"}
+    )

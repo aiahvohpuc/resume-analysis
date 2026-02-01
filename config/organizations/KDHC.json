@@ -103,40 +103,70 @@
   ],
   "recruitment_news": [
     {
+      "title": "지역난방공사, 2025년도 신입 직원 67명 채용 - 가스신문",
+      "date": "2025-09-17",
+      "summary": "지역난방공사, 2025년도 신입 직원 67명 채용가스신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LdzltOFlSYWlXLWd2OWZXTFJHbDNmMzdOX1duNjA4c1l0QW4xWDAzbVdOa0hOcERlWEZsOEVzOXZTRWUweWE4MWQ5SmRmeFdlNEFYbGliZU1Uc0JacFhFRjV6NzIwYVktN3fSAW5BVV95cUxPWGxFQ3ZDTURBZDBFQTdLQTlpWkdiVU1NYnY4NGVvZ3E0cG9JTHY3bFNsUjlhQkdnVWhTdUM1dlczNWMzTVNqenY3YXN1RG1QTUYzYXZ2Z2lkVzF0Wml0c2xlV2sxV1lVc2dhejJyQQ?oc=5"
+    },
+    {
+      "title": "한국지역난방공사, 신입 직원 67명 채용 - 인천일보",
+      "date": "2025-06-01",
+      "summary": "한국지역난방공사, 신입 직원 67명 채용인천일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RVTFwT0lmOF96b0ZOLW9aT1ZxMUxBcHFKYkc1QVA1YkNJVS05SzRTbFdnOERqVDhYdjA4VmRsbEVKeEptSDdVSW9kYTIxWEl3YkMtSjJKeDNGbUxBZWMwVElsbXB5QzlUY1pEWWNJU1A?oc=5"
+    },
+    {
+      "title": "제주여상 문현정 학생, 한국지역난방공사 최종 합격…“고졸 공기업 취업 꿈 이뤘다” - 제주도민일보",
+      "date": "2025-09-05",
+      "summary": "제주여상 문현정 학생, 한국지역난방공사 최종 합격…“고졸 공기업 취업 꿈 이뤘다”제주도민일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWS0FkQ3dNOE5uR2hwckZfMjhLNkpybGpvdG5NdWpWTU84UEp1c1FCRzFqeS1MM2hVV0gydHZydzRUM0M4M29FMkhVVWRCemd6Q1k1aFoyVFhIU0NpZVlFQ1o2QlJMelYwTEtLUEE2cw?oc=5"
+    },
+    {
+      "title": "한난, 2025년도 신입직원 67명 임용…최종 경쟁률 79대 1 - 뉴시스",
+      "date": "2025-09-15",
+      "summary": "한난, 2025년도 신입직원 67명 임용…최종 경쟁률 79대 1뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kdVFSdVl0S2NxY1phZFI5NHNvYXlwSUNqa1lFQWxfb0RMbGpzeFNxa0JVQ2FPUXk4ckhBMThoOXcySExPcnR4OHpTUWhKeDBDZlRTZ2FnUEJpZGhkQXVDVNIBeEFVX3lxTE9pWHNjb0FkNmVZMXRfSG5ua3dtdlpGcmlpT1FxMGxMaF90OE1vZThTYTRHVUFUV1I1Mm9ZT3pMRVhib0p1WHVfb2U4T1hJMUlnRFhLVWx1SHZaVUEyc2hoS0pETnVrZXNIYnNXbHphNUtkTEFPcnlXeQ?oc=5"
+    },
+    {
+      "title": "한난, 신입직원 67명 채용...직무 중심 공정 채용 강화 - 전기신문",
+      "date": "2025-05-30",
+      "summary": "한난, 신입직원 67명 채용...직무 중심 공정 채용 강화전기신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1URGNCWXdEbkF1cHgxRkxPTG1fbzI3TFNudFRlOVE5eWVDRjhObEJhcEVhRms0Ykw3M0JxRFFjUzVkTXY1ODRqM2YtMldNaTJZTkJrMllzbTJVS3ZwbUNURkpnTmtaejVHVHhfcNIBcEFVX3lxTE5oNVhDUG9tWU9IRW5uU205UVN3ZWZwWGRDM3NIU2lCelRGWU1CU1FTNWljZmpuTk9PeUZZTVoxZXAzQklydUtWUTNkWEpDdTUtb3FsM2NwUDh5WjBoY19lNXk5ZUI4TWFmNDdqMF9QeWE?oc=5"
+    },
+    {
       "title": "제주여상 문현정 학생, 한국지역난방공사 최종 합격…“고졸 공기업 취업 꿈 이뤘다” - jejudomin.co.kr",
       "date": "2025-09-05",
       "summary": "제주여상 문현정 학생, 한국지역난방공사 최종 합격…“고졸 공기업 취업 꿈 이뤘다”jejudomin.co.kr",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWS0FkQ3dNOE5uR2hwckZfMjhLNkpybGpvdG5NdWpWTU84UEp1c1FCRzFqeS1MM2hVV0gydHZydzRUM0M4M29FMkhVVWRCemd6Q1k1aFoyVFhIU0NpZVlFQ1o2QlJMelYwTEtLUEE2cw?oc=5"
     },
     {
-      "title": "지역난방公, 신입직원 67명 채용…NCS 기반 블라인드 채용 - 뉴시스",
-      "date": "2025-05-30",
-      "summary": "지역난방公, 신입직원 67명 채용…NCS 기반 블라인드 채용뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nUnpMRVNzcGdXTlc5VlQ3QkswM2tXY2RNaFJ1UUp2TURDb3daZE1XbG5fVHBkaGNSVWNxbm1XMzBpVWZpWkpHcjRsU2lraFEzMDN2Q1RsZFVJWFhfZE56cNIBeEFVX3lxTE5Ma0JsVE85Wk91UEpkX2hubkxHcWZVcmFGd19WcVNMRnN2SkRDUGlpaTkwaGtVWjRDcS1JaWFLR2ZzbDdWNHFLX1B4eS1ha1UzYm1NZHBTQnVHdjY3ZFRGNVJ4N0pfbjlMcWlNQThmY29EeDBibkxOMQ?oc=5"
-    },
-    {
-      "title": "한난, 2025년도 신입직원 67명 임용 - 민주신문",
+      "title": "지역난방공사, 2025년도 신입직원 67명 임용…79대 1 경쟁률 - busan.com",
       "date": "2025-09-16",
-      "summary": "한난, 2025년도 신입직원 67명 임용민주신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxNUpzRXUtX1JHbk4xX1hCQUdibWtrY3JDU2V3MXB0ODdIM2lsVmxrcDlaVnFlUHFOZW1YbldhSWNmbTlENnBrRkRnSnFsS3BTVnJUMVBZd3pWQXQyOFpWUHA1Tm5tQ2_SAWtBVV95cUxPdW5Gajh1S2hsSnRodzJScmlnZVBpc2dOSmdaRW1XcGRTMWZ6Um0ySWk1SE9WR2ZEWDBGbzRUcUI4T1JGcWwxVGlPVjhQOHJremFfNUJLNkI4bDdhX3BsT2VYczdvc2ktcXoxMA?oc=5"
+      "summary": "지역난방공사, 2025년도 신입직원 67명 임용…79대 1 경쟁률busan.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BZzBvN2Y5WUR5SDRiRllUTWtaLTI2Z2hfZWN4U3lzTnNZVl9BQlEtWWRKZFI0RVZnS1RPOF9mcnV1aHdvTzNFNVlMOVJpTElreWhnT0pMemZ5RWtUbHpHcU9UbWVTUDRXSHBzTXg1TmVSWngy?oc=5"
     },
     {
-      "title": "[공기업 소식] 한국지역난방공사, 신입직원 67명 임용 - incheonilbo.com",
-      "date": "2025-09-15",
-      "summary": "[공기업 소식] 한국지역난방공사, 신입직원 67명 임용incheonilbo.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53dEFNYml6ZEV5a2ljNEEyb0hUaWlObHJvRlMyM3R1emVUeDk5OHc1M0M2WVhCNXdSZ0VZQjgtVGNvV2hLQllPaHNROUZxdjJ3SERuNUNUM1Z2SDZIaWdfRUJSZE1ZNUowbG54b3lZZUc?oc=5"
+      "title": "한국지역난방공사, 신입 직원 67명 채용 - incheonilbo.com",
+      "date": "2025-06-01",
+      "summary": "한국지역난방공사, 신입 직원 67명 채용incheonilbo.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RVTFwT0lmOF96b0ZOLW9aT1ZxMUxBcHFKYkc1QVA1YkNJVS05SzRTbFdnOERqVDhYdjA4VmRsbEVKeEptSDdVSW9kYTIxWEl3YkMtSjJKeDNGbUxBZWMwVElsbXB5QzlUY1pEWWNJU1A?oc=5"
     },
     {
-      "title": "정용기 한난 사장, 주한 키르기스스탄 아이다 이스마일로바 대사와 면담 - 팍스경제TV",
-      "date": "2025-06-11",
-      "summary": "정용기 한난 사장, 주한 키르기스스탄 아이다 이스마일로바 대사와 면담팍스경제TV",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JcGNiRThCNFYyOEpmOWsybXNCWGQ2dm5QekEwVXVZUVNjSWEyNmxMY3pfYVVib1VRTGpHZFFhX1NBeUtQVVdMazlQaG5qelVlWGhJTWJ5LVJsWFBDS0w5ZVJTQmZMckph?oc=5"
+      "title": "지역난방공사, 신입직원 67명 채용...청년 취업난 해소 - 더페어",
+      "date": "2025-05-30",
+      "summary": "지역난방공사, 신입직원 67명 채용...청년 취업난 해소더페어",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42Vll6RWl4X0ZDRGMtM0U0TW8xTXlQYVNZWkc4OUNvaDdGaXFrYl9nRzhYOXRkbERpQWZuQ2xvMGg5OC10eV9SRjhiU21VbjExckxJbzJhNUdIaWdWWVgxZ3FLUjN5NVRJdnRtNTFGdFXSAXRBVV95cUxPQTZ2U21qVnpxYjRuM1E3dVVramRXZkpmb1FTa3R1SDhudXRWNFE4Y0RjTnR0TU80N2NTaS1kUVItTk54UmY2ZGxsZFVjMlA4TGszcjlzSExDV1E1TTlFQnYxWWx1Q2dQNG1PYmJrdVZ6S2k0WQ?oc=5"
+    },
+    {
+      "title": "한국지역난방공사, 신입직원 67명 채용...7~14일 지원서 접수 - 글로벌이코노믹",
+      "date": "2025-06-02",
+      "summary": "한국지역난방공사, 신입직원 67명 채용...7~14일 지원서 접수글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLUQtNklVc2pxY2dBUW1lWXFnZ0I1SkE0MzE4Q2xiVUQzNWFCLW9Rak1nV0ZRTTBfWE5RemREbEp5LWhSZnBkRl9mNmhtTUk3b21tY3hQZkZLUmJpbGpBSGhjTktYejRla1g2NTcwOFNib1hELVJqZVUwZGJSRzVLTFc5cU11eDZkeEE?oc=5"
     }
   ],
   "business_news": [],
   "website": "https://www.kdhc.co.kr",
   "metadata": {
-    "last_updated": "2026-01-22",
+    "last_updated": "2026-01-31",
     "sources": [
       "공식 홈페이지",
       "2024-2025 채용공고",

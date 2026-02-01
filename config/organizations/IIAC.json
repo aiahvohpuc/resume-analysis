@@ -146,40 +146,70 @@
   ],
   "recruitment_news": [
     {
+      "title": "‘인천국제공항공사 청년 인턴 90명 채용’…경영부터 건설·전기까지 대규모 모집 - 퍼블릭타임스",
+      "date": "2026-01-19",
+      "summary": "‘인천국제공항공사 청년 인턴 90명 채용’…경영부터 건설·전기까지 대규모 모집퍼블릭타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aZWNWX1BQelFZWVNJcU9INUZYZ3RTNU83VjZVU2dHd2N1bWhkRzNxNGIwaTQzLVNCbERGbzJzN1B2dGQwODItWElSVlMwMi02QVZ3T0NiYWcyY3JGRmxEYlA2SzlfY1dOcFHSAW5BVV95cUxNbzR0dHgzMUd4QVZ1alR1LVdKWmZPZE1NYmFBWEZaMm1ObUV5OW82MWpnLTlHdUdJc1IzQlFRZDlyaDBEcUFZU3hQQ0gzTHBBdEtSM25RMjVmSFVYdkFpc1ItcDRmUWRuLWoyTFZvUQ?oc=5"
+    },
+    {
+      "title": "[채용] 인천국제공항공사 체험형 인턴 채용 - 한국AI부동산신문",
+      "date": "2026-01-23",
+      "summary": "[채용] 인천국제공항공사 체험형 인턴 채용한국AI부동산신문",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBERm55ZkhiSDFaTFlZTnFuS1hNM2tlaGNlemJaeVpmakpYV0w2VjRaUks4UjdtMHZTc3ZTSEFoQ1hRN01PcWs1SndFZng?oc=5"
+    },
+    {
+      "title": "청주공항, 지역 일자리 창출 위한 ‘채용의 날’ 행사 연다 - 중부매일",
+      "date": "2025-08-19",
+      "summary": "청주공항, 지역 일자리 창출 위한 ‘채용의 날’ 행사 연다중부매일",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaZHRFWUk5UXZfSF9xbXhSeDl4RFhxaU9DLVNqZVhaZ2VWZFpkMU1kTWlPbjE2VF83eTNLa0t6a3RWcHV5c19PdXNCOFE0SjByYmJURHJYRjVhUlNqQ2JCMURGbUlrN2FwcWfSAW5BVV95cUxNazNHMDJlRlpVc1EzMzlIQjZDbG9MUnlTT2tzTDV6bHhRcGEydTNpREh4dlVrSVVTcTJZRldNMXJfSE5QYzdwb2M3d1FJY3RUOFBjSEVma3VRWEo1SF9YdHZ2b0JROXU0MThzWGhiZw?oc=5"
+    },
+    {
+      "title": "한국공항공사, 김포공항서 ‘공항일자리 채용의 날’ 행사 열어 - 경기일보",
+      "date": "2025-03-18",
+      "summary": "한국공항공사, 김포공항서 ‘공항일자리 채용의 날’ 행사 열어경기일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TZVkzSVVxN1V1V2lVbUlUWFJiR3VURmtLb1NQc2I4RTVDajZSZldGOTAtdVg1TFJXRnVNYzhHdzhCUGNETnR0Ny1rTWgyS24yUldfajZsY3ozZjQ?oc=5"
+    },
+    {
+      "title": "[오늘의 공기업 채용정보] 인천국제공항공사, 2025년 신입직원 46명 채용 - 아웃소싱타임스",
+      "date": "2025-09-25",
+      "summary": "[오늘의 공기업 채용정보] 인천국제공항공사, 2025년 신입직원 46명 채용아웃소싱타임스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE16VVFNa1JDMXk1cm1aYWhiV1Npd01mZE5RSm9CUkVEbFR1aG14Z3hzWHJqUU5jX21kZWZwUjVBUHh0LVdJZ1VsVlRWdHNLMWtSRTNiN0pKMHM1MFNvaWQ3UVlrX2VOb0RMa2JUd1V3b25adw?oc=5"
+    },
+    {
+      "title": "청년들이 떠나는 현장, 그 현장을 바꾸기 위한 공항노동자들의 파업 - 매일노동뉴스",
+      "date": "2025-10-02",
+      "summary": "청년들이 떠나는 현장, 그 현장을 바꾸기 위한 공항노동자들의 파업매일노동뉴스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91WGx0eGpMMXUwNkNOSlRKTlVhRGlnd0JPSEt6LVBGSlh1LXJqRjhvOFRjUUk2aHZ5WmpqNVFaMWtkTnhqWXEwdk5yeXVsdUtrWjhBUU5NN0o5TVFRWEtQMlJNQng4Z0h5YUpJNHVuOHU?oc=5"
+    },
+    {
+      "title": "청주공항, 지역 일자리 창출 위한 ‘채용의 날’ 행사 연다 - jbnews.com",
+      "date": "2025-08-19",
+      "summary": "청주공항, 지역 일자리 창출 위한 ‘채용의 날’ 행사 연다jbnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaZHRFWUk5UXZfSF9xbXhSeDl4RFhxaU9DLVNqZVhaZ2VWZFpkMU1kTWlPbjE2VF83eTNLa0t6a3RWcHV5c19PdXNCOFE0SjByYmJURHJYRjVhUlNqQ2JCMURGbUlrN2FwcWfSAW5BVV95cUxNazNHMDJlRlpVc1EzMzlIQjZDbG9MUnlTT2tzTDV6bHhRcGEydTNpREh4dlVrSVVTcTJZRldNMXJfSE5QYzdwb2M3d1FJY3RUOFBjSEVma3VRWEo1SF9YdHZ2b0JROXU0MThzWGhiZw?oc=5"
+    },
+    {
       "title": "인천국제공항공사,보훈대상자 채용 성과로국가보훈부장관 감사패 수여 - kitvnews.co.kr",
       "date": "2025-07-01",
       "summary": "인천국제공항공사,보훈대상자 채용 성과로국가보훈부장관 감사패 수여kitvnews.co.kr",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3LTYydDJDdlNZOTR0emJDN0xFems5dVJ4aUk1cS1vOUVQZHNHMkVraDg3ZFk0OVU1UUVUci1FT3ROd0RtaUx5R1hTM0ptRWNLclhiRVZSXzJaMExrc1pkVUdkWW84QQ?oc=5"
     },
     {
-      "title": "✈ 공항에 들어가고 싶은 당신에게 - 브런치",
-      "date": "2025-03-26",
-      "summary": "✈ 공항에 들어가고 싶은 당신에게브런치",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE4wWEZKUzAxWUtkT25HdFdKbm1GWjl5R0tINWxFUXV1RDlCQmd4cmVkQUR4ZGd1VzBTMWhhZGFlTXFtZFhJ?oc=5"
+      "title": "[포토] 인천국제공항공사, ‘2026 공공기관 채용정보박람회’ 참가 - 이뉴스투데이",
+      "date": "2026-01-28",
+      "summary": "[포토] 인천국제공항공사, ‘2026 공공기관 채용정보박람회’ 참가이뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JV1U2WWZkQkhjNzE2TGZjekl1d2tjVU1fbkZtdVpJZVNNbV9FWW5WWWlHSnhpeEp3UDBQZUpxMWE1YV95VVpLUk81bWRuRVM3OE9YZTFNWEg1TEVJSktuSktJWm1CdzF6aEEyOEJkdG9WeVVf0gF0QVVfeXFMTklXVTZZZmRCSGM3MTZMZmN6SXV3a2NVTV9uRm11WkllU01tX0VZblZZaUdKeGl4SndQMFBlSnExYTVhX3lVWktSTzVtZG5FUzc4T1hlMU1YSDVMRUlKS25KS0labUJ3MXpoQTI4QmR0b1Z5VV8?oc=5"
     },
     {
-      "title": "'공항 일자리 채용 행사' 오는 28일 청주공항서 열린다 - 뉴시스",
-      "date": "2025-08-19",
-      "summary": "'공항 일자리 채용 행사' 오는 28일 청주공항서 열린다뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aQ21FVWJQOFJtMWljOGVZRnRWOUFVMk1GRzJ2T1h0OFlaUWptQy14dmtORXgzbm5MSzVEUzJKbWRGc2cyUk1jalNDTHFTMnFkMmlMTkRYMEd6SjJpNmFvcNIBeEFVX3lxTFB5am1XblFoV3YxRGFqcmNWOW1UZEY2S28xbkZTVWIwM09VT2N4LVlid096ejZUMDZfWnJxY1RqVUVfR0RTV2w3NEp1b3d1elpONFVfY3ZEOUhJYUVXNEhiaXJqQ2NaNzhTSTNGbGJZdlBfMDNfZ25jRQ?oc=5"
-    },
-    {
-      "title": "한국공항공사, 김포공항서 ‘공항일자리 채용의 날’ 행사 열어 - kyeonggi.com",
-      "date": "2025-03-18",
-      "summary": "한국공항공사, 김포공항서 ‘공항일자리 채용의 날’ 행사 열어kyeonggi.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TZVkzSVVxN1V1V2lVbUlUWFJiR3VURmtLb1NQc2I4RTVDajZSZldGOTAtdVg1TFJXRnVNYzhHdzhCUGNETnR0Ny1rTWgyS24yUldfajZsY3ozZjQ?oc=5"
-    },
-    {
-      "title": "‘경영평가 C등급’ 인천국제공항 인사 의혹 - 매일노동뉴스",
-      "date": "2025-07-09",
-      "summary": "‘경영평가 C등급’ 인천국제공항 인사 의혹매일노동뉴스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aODFXY0J3TUNRRF9Bbk1aSllERF9fVjgxUGFvaWZrTmRyWEpQSUNuY0lOYlFiLXNtcmtLa0ozZEdPMUJHVmVJZ3NPU1JvcXpZMDFPWWV0REZlWVVEM1Nhc29CWElLUXBmbnlpUFlYOHc?oc=5"
+      "title": "인천국제공항공사,보훈대상자 채용 성과로국가보훈부장관 감사패 수여 - 한국미디어뉴스",
+      "date": "2025-07-01",
+      "summary": "인천국제공항공사,보훈대상자 채용 성과로국가보훈부장관 감사패 수여한국미디어뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3LTYydDJDdlNZOTR0emJDN0xFems5dVJ4aUk1cS1vOUVQZHNHMkVraDg3ZFk0OVU1UUVUci1FT3ROd0RtaUx5R1hTM0ptRWNLclhiRVZSXzJaMExrc1pkVUdkWW84QQ?oc=5"
     }
   ],
   "business_news": [],
   "website": "https://www.airport.kr",
   "metadata": {
-    "last_updated": "2026-01-22",
+    "last_updated": "2026-01-31",
     "sources": [
       "공식 홈페이지",
       "2024-2025 채용공고",
